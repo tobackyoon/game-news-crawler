@@ -1,4 +1,4 @@
-# 🎮 게임 산업 브리핑 — 2026-07-23 19:25
+# 🎮 게임 산업 브리핑 — 2026-07-23 10:34
 > 9건 수집 · 검증 통과
 
 1. [2026년 6월 전 세계 모바일 게임 매출 및 다운로드 순위 TOP 10](https://sensortower.com/ko/blog/top-10-worldwide-mobile-games-by-revenue-and-downloads-in-june-2026-KR) — Gaming Insights • July 2026 · SensorTower
