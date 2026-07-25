@@ -1,0 +1,6 @@
+# 개발/테스트 전용. 실행에는 필요 없다.
+#   pip install -r requirements-dev.txt
+#   pytest --cov=. --cov-report=term-missing
+-r requirements.txt
+pytest>=8,<9
+pytest-cov>=5

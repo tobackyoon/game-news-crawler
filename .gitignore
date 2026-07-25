@@ -5,6 +5,11 @@ __pycache__/
 # 실행 중간 산출물(휘발성) — 커밋 불필요
 _workspace/
 
+# 테스트 산출물
+.coverage
+.pytest_cache/
+htmlcov/
+
 # 가상환경/에디터
 .venv/
 venv/
