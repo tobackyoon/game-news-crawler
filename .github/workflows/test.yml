@@ -1,0 +1,55 @@
+name: Tests
+
+# 언제 도는가:
+#   - push/pull_request: 파이썬 코드나 의존성이 바뀔 때만.
+#     paths 필터가 없으면 daily.yml이 매일 briefing.md를 자동 커밋할 때마다
+#     테스트가 헛돌게 된다.
+#   - workflow_dispatch: Actions 탭에서 수동 실행 버튼
+#
+# daily.yml과 일부러 분리했다: 테스트가 깨져도 그날 브리핑은 정상 발행돼야 한다.
+on:
+  push:
+    paths:
+      - "**.py"
+      - "requirements*.txt"
+      - "pytest.ini"
+      - ".github/workflows/test.yml"
+  pull_request:
+    paths:
+      - "**.py"
+      - "requirements*.txt"
+      - "pytest.ini"
+  workflow_dispatch:
+
+# 테스트는 읽기만 하면 된다 (daily.yml과 달리 커밋하지 않음)
+permissions:
+  contents: read
+
+# 같은 브랜치에 연속 푸시하면 이전 실행은 취소 — 러너 낭비 방지
+concurrency:
+  group: tests-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  pytest:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 코드 체크아웃
+        uses: actions/checkout@v4
+
+      - name: 파이썬 설치
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 개발 의존성 설치
+        run: pip install -r requirements-dev.txt
+
+      - name: 테스트 실행
+        # --cov 대상을 앱 모듈로 한정한다. --cov=. 로 하면 테스트 파일까지
+        # 세서 커버리지가 부풀려진다.
+        run: >
+          pytest -q
+          --cov=collect --cov=logconf --cov=notify
+          --cov=pipeline --cov=state --cov=validate
+          --cov-report=term-missing
