@@ -5,6 +5,7 @@
 #
 # 대상 (robots 허용 + 서버렌더링 확인됨):
 #   - SensorTower 블로그: https://sensortower.com/ko/blog
+#   - naavik 사이트: https://naavik.co
 #   - (참고) Newzoo는 Cloudflare 봇 차단으로 자동 크롤링 불가 → 함수만 보존, SOURCES에서 제외
 # 출력: _workspace/crawl-result.json  ({title, url, date, source} 리스트)
 
@@ -28,6 +29,7 @@ PER_SOURCE = 10  # 소스별 최신 몇 개까지만 담을지 (브리핑이 너
 TIMEOUT = 15     # 초. 응답 없는 사이트에 매달려 있지 않게.
 
 SENSORTOWER_BASE = "https://sensortower.com"
+NAAVIK_BASE = "https://naavik.co"
 NEWZOO_BASE = "https://newzoo.com"
 
 Item = dict[str, str]
@@ -53,6 +55,43 @@ def collect_sensortower() -> list[Item]:
         if not title:
             continue
         items.append({"title": title, "url": url, "date": date, "source": "SensorTower"})
+    return items[:PER_SOURCE]
+
+
+def _is_digest_link(href: str | None) -> bool:
+    """목록/카테고리 페이지 자체가 아니라 개별 digest 글 링크인지."""
+    if not href or "/digest/" not in href:
+        return False
+    excluded = (f"{NAAVIK_BASE}/digest", f"{NAAVIK_BASE}/category/digest")
+    return href.rstrip("/") not in excluded
+
+
+def collect_naavik() -> list[Item]:
+    """Naavik digest 목록에서 {title, url, date} 추출.
+    주의: 카드 wrapper가 없어 title/time을 각각 따로 뽑아 순번으로 짝짓는다.
+    페이지 구조가 바뀌어 개수가 어긋나면 경고만 남기고 넘어간다(조용한 실패 방지)."""
+    r = requests.get(f"{NAAVIK_BASE}/digest/", headers=HEADERS, timeout=TIMEOUT)
+    r.raise_for_status()
+    r.encoding = "utf-8"
+    soup = BeautifulSoup(r.text, "html.parser")
+
+    titles = soup.select("h1.entry-title, h3.wp-block-post-title")
+    times = soup.select("time[datetime]")
+    if len(titles) != len(times):
+        log.warning(
+            "Naavik 제목(%d개)과 time(%d개) 개수가 다름 → 순번 매칭이 밀렸을 수 있음",
+            len(titles), len(times),
+        )
+
+    items: list[Item] = []
+    for i, title_el in enumerate(titles):
+        title = title_el.get_text(strip=True)
+        a = title_el.find("a") or title_el.find_next("a", href=_is_digest_link)
+        date = times[i].get_text(strip=True) if i < len(times) else ""
+        url = urljoin(NAAVIK_BASE, a["href"]) if (a and a.has_attr("href")) else ""
+        if not title:
+            continue
+        items.append({"title": title, "url": url, "date": date, "source": "Naavik"})
     return items[:PER_SOURCE]
 
 
@@ -94,7 +133,7 @@ def safe(fn: Source) -> list[Item]:
 
 
 # 현재 활성 소스 목록. 소스를 추가하려면 이 튜플에 함수를 넣으면 된다.
-SOURCES: tuple[Source, ...] = (collect_sensortower,)
+SOURCES: tuple[Source, ...] = (collect_sensortower, collect_naavik)
 
 
 def collect() -> list[Item]:

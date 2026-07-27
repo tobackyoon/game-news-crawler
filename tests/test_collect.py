@@ -143,6 +143,61 @@ def test_sensortower_parser_caps_results_at_per_source(monkeypatch):
     assert len(items) == collect.PER_SOURCE
 
 
+def naavik_entry(slug, title, date_text="July 16, 2026", datetime_attr="2026-07-16"):
+    """Naavik은 카드 wrapper가 없다 — 제목/링크/날짜가 각자 따로 나열되고
+    같은 순번(i번째 제목 ↔ i번째 time)끼리 짝지어진다. 그 구조를 그대로 흉내낸다."""
+    return f"""
+    <h3 class="wp-block-post-title">{title}</h3>
+    <a href="/digest/{slug}">Read more</a>
+    <time datetime="{datetime_attr}">{date_text}</time>
+    """
+
+
+def test_naavik_parser_extracts_title_url_and_date(monkeypatch):
+    # Arrange
+    serve(monkeypatch, naavik_entry("post-1", "제목1"))
+
+    # Act
+    items = collect.collect_naavik()
+
+    # Assert
+    assert items == [
+        {
+            "title": "제목1",
+            "url": "https://naavik.co/digest/post-1",
+            "date": "July 16, 2026",
+            "source": "Naavik",
+        }
+    ]
+
+
+def test_naavik_parser_skips_entries_without_a_title(monkeypatch):
+    """제목 없는 항목이 섞여 들어오면 브리핑에 빈 줄이 생긴다."""
+    # Arrange
+    serve(monkeypatch, naavik_entry("post-1", "") + naavik_entry("post-2", "제목2"))
+
+    # Act
+    items = collect.collect_naavik()
+
+    # Assert
+    assert [i["title"] for i in items] == ["제목2"]
+
+
+def test_naavik_parser_caps_results_at_per_source(monkeypatch):
+    """브리핑이 한없이 길어지지 않게 소스별 상한을 둔다."""
+    # Arrange
+    html = "".join(
+        naavik_entry(f"post-{i}", f"제목{i}") for i in range(collect.PER_SOURCE + 5)
+    )
+    serve(monkeypatch, html)
+
+    # Act
+    items = collect.collect_naavik()
+
+    # Assert
+    assert len(items) == collect.PER_SOURCE
+
+
 def test_newzoo_parser_extracts_title_url_and_date(monkeypatch):
     """SOURCES에서 빠져 있어도 함수는 보존 대상이라 계약을 고정해둔다."""
     # Arrange

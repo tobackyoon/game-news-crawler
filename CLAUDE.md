@@ -37,7 +37,7 @@ python pipeline.py --inject   # 첫 수집에 결함 주입 → REDO 경로 관�
 
 ```bash
 pip install -r requirements-dev.txt
-pytest                                     # 33개
+pytest                                     # 36개
 pytest --cov=collect --cov=logconf --cov=notify --cov=pipeline --cov=state --cov=validate --cov-report=term-missing
 ```
 
