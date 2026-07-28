@@ -198,6 +198,86 @@ def test_naavik_parser_caps_results_at_per_source(monkeypatch):
     assert len(items) == collect.PER_SOURCE
 
 
+def pocketgamer_card(slug, title, date_text="July 27, 2026", datetime_attr="2026-07-27T15:43:00+01:00"):
+    """PocketGamer.biz의 본문 목록 카드. featured 카드와 달리 <time>이 있다."""
+    return f"""
+    <article>
+      <a href="/{slug}/">
+        <div class="txt">
+          <time datetime="{datetime_attr}">{date_text}</time>
+          <h1>{title}</h1>
+        </div>
+      </a>
+    </article>
+    """
+
+
+def serve_pocketgamer(monkeypatch, cards_html):
+    serve(monkeypatch, f'<div class="result-set articles">{cards_html}</div>')
+
+
+def test_pocketgamer_parser_extracts_title_url_and_date(monkeypatch):
+    # Arrange
+    serve_pocketgamer(monkeypatch, pocketgamer_card("post-1", "제목1"))
+
+    # Act
+    items = collect.collect_pocketgamer()
+
+    # Assert
+    assert items == [
+        {
+            "title": "제목1",
+            "url": "https://www.pocketgamer.biz/post-1/",
+            "date": "July 27, 2026",
+            "source": "PocketGamer.biz",
+        }
+    ]
+
+
+def test_pocketgamer_parser_skips_cards_without_a_title(monkeypatch):
+    """제목 없는 카드가 섞여 들어오면 브리핑에 빈 줄이 생긴다."""
+    # Arrange
+    serve_pocketgamer(monkeypatch, pocketgamer_card("post-1", "") + pocketgamer_card("post-2", "제목2"))
+
+    # Act
+    items = collect.collect_pocketgamer()
+
+    # Assert
+    assert [i["title"] for i in items] == ["제목2"]
+
+
+def test_pocketgamer_parser_caps_results_at_per_source(monkeypatch):
+    """브리핑이 한없이 길어지지 않게 소스별 상한을 둔다."""
+    # Arrange
+    html = "".join(
+        pocketgamer_card(f"post-{i}", f"제목{i}") for i in range(collect.PER_SOURCE + 5)
+    )
+    serve_pocketgamer(monkeypatch, html)
+
+    # Act
+    items = collect.collect_pocketgamer()
+
+    # Assert
+    assert len(items) == collect.PER_SOURCE
+
+
+def test_pocketgamer_parser_ignores_featured_cards_without_a_time_tag(monkeypatch):
+    """featured/podcast 카드(class="feat")는 result-set 밖에 있어 제외돼야 한다."""
+    # Arrange
+    html = (
+        '<div class="featured articles"><article class="feat">'
+        '<a href="/feat-post/"><h1>피처드제목</h1></a></article></div>'
+        f'<div class="result-set articles">{pocketgamer_card("post-1", "제목1")}</div>'
+    )
+    serve(monkeypatch, html)
+
+    # Act
+    items = collect.collect_pocketgamer()
+
+    # Assert
+    assert [i["title"] for i in items] == ["제목1"]
+
+
 def test_newzoo_parser_extracts_title_url_and_date(monkeypatch):
     """SOURCES에서 빠져 있어도 함수는 보존 대상이라 계약을 고정해둔다."""
     # Arrange

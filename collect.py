@@ -6,7 +6,10 @@
 # 대상 (robots 허용 + 서버렌더링 확인됨):
 #   - SensorTower 블로그: https://sensortower.com/ko/blog
 #   - naavik 사이트: https://naavik.co
+#   - PocketGamer.biz 뉴스: https://www.pocketgamer.biz/news/
 #   - (참고) Newzoo는 Cloudflare 봇 차단으로 자동 크롤링 불가 → 함수만 보존, SOURCES에서 제외
+#   - (참고) GameDeveloper.com은 robots.txt가 ClaudeBot을 명시적으로 차단 → 후보에서 기각
+#   - (참고) TouchArcade는 요청 자체가 403 → 후보에서 기각
 # 출력: _workspace/crawl-result.json  ({title, url, date, source} 리스트)
 
 import json
@@ -31,6 +34,7 @@ TIMEOUT = 15     # 초. 응답 없는 사이트에 매달려 있지 않게.
 SENSORTOWER_BASE = "https://sensortower.com"
 NAAVIK_BASE = "https://naavik.co"
 NEWZOO_BASE = "https://newzoo.com"
+POCKETGAMER_BASE = "https://www.pocketgamer.biz"
 
 Item = dict[str, str]
 Source = Callable[[], list[Item]]
@@ -95,6 +99,31 @@ def collect_naavik() -> list[Item]:
     return items[:PER_SOURCE]
 
 
+def collect_pocketgamer() -> list[Item]:
+    """PocketGamer.biz 뉴스 목록에서 {title, url, date} 추출.
+    상단 '피처드/팟캐스트' 카드(class="feat")는 날짜 태그가 없어 대상에서 빠지고,
+    본문 목록(div.result-set.articles 안의 article)만 사용한다."""
+    r = requests.get(f"{POCKETGAMER_BASE}/news/", headers=HEADERS, timeout=TIMEOUT)
+    r.raise_for_status()
+    r.encoding = "utf-8"
+    soup = BeautifulSoup(r.text, "html.parser")
+
+    items: list[Item] = []
+    result_set = soup.select_one("div.result-set.articles")
+    cards = result_set.select("article") if result_set else []
+    for card in cards:
+        a = card.select_one("a[href]")
+        h1 = card.select_one("h1")
+        time_el = card.select_one("time[datetime]")
+        title = h1.get_text(strip=True) if h1 else ""
+        date = time_el.get_text(strip=True) if time_el else ""
+        url = urljoin(POCKETGAMER_BASE, a["href"]) if (a and a.has_attr("href")) else ""
+        if not title:
+            continue
+        items.append({"title": title, "url": url, "date": date, "source": "PocketGamer.biz"})
+    return items[:PER_SOURCE]
+
+
 def collect_newzoo() -> list[Item]:
     """Newzoo 아티클 카드에서 {title, url, date} 추출.
     주의: Newzoo는 Cloudflare 봇 차단이 있어 자동 실행에선 403이 잦다.
@@ -133,7 +162,7 @@ def safe(fn: Source) -> list[Item]:
 
 
 # 현재 활성 소스 목록. 소스를 추가하려면 이 튜플에 함수를 넣으면 된다.
-SOURCES: tuple[Source, ...] = (collect_sensortower, collect_naavik)
+SOURCES: tuple[Source, ...] = (collect_sensortower, collect_naavik, collect_pocketgamer)
 
 
 def collect() -> list[Item]:
