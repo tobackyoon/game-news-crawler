@@ -198,13 +198,17 @@ def test_naavik_parser_caps_results_at_per_source(monkeypatch):
     assert len(items) == collect.PER_SOURCE
 
 
-def pocketgamer_card(slug, title, date_text="July 27, 2026", datetime_attr="2026-07-27T15:43:00+01:00"):
+def pocketgamer_card(
+    slug, title, date_text="July 27, 2026", datetime_attr="2026-07-27T15:43:00+01:00",
+    category="Game Updates",
+):
     """PocketGamer.biz의 본문 목록 카드. featured 카드와 달리 <time>이 있다."""
     return f"""
     <article>
       <a href="/{slug}/">
         <div class="txt">
           <time datetime="{datetime_attr}">{date_text}</time>
+          <div class="cat">{category}</div>
           <h1>{title}</h1>
         </div>
       </a>
@@ -259,6 +263,21 @@ def test_pocketgamer_parser_caps_results_at_per_source(monkeypatch):
 
     # Assert
     assert len(items) == collect.PER_SOURCE
+
+
+def test_pocketgamer_parser_skips_pgc_promo_category(monkeypatch):
+    """PGC/PG Connects 자체 행사 홍보 카테고리는 뉴스가 아니라 제외한다."""
+    # Arrange
+    html = pocketgamer_card(
+        "pgc-post", "THIS WEEK! PGC Summit Shanghai returns", category="Pgc Summit Shanghai"
+    ) + pocketgamer_card("post-2", "제목2")
+    serve_pocketgamer(monkeypatch, html)
+
+    # Act
+    items = collect.collect_pocketgamer()
+
+    # Assert
+    assert [i["title"] for i in items] == ["제목2"]
 
 
 def test_pocketgamer_parser_ignores_featured_cards_without_a_time_tag(monkeypatch):

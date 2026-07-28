@@ -74,47 +74,6 @@ def test_briefing_tolerates_items_missing_optional_fields():
     assert "1. [제목](https://example.com/1)" in text
 
 
-def test_top_keywords_counts_repeated_words_across_titles():
-    # Arrange
-    items = [
-        {"title": "Genshin Impact tops charts"},
-        {"title": "Genshin Impact revenue soars"},
-        {"title": "Mobile gaming trends 2026"},
-    ]
-
-    # Act
-    result = dict(notify.top_keywords(items))
-
-    # Assert
-    assert result["genshin"] == 2
-    assert result["impact"] == 2
-
-
-def test_top_keywords_ignores_stopwords_short_tokens_and_numbers():
-    # Arrange
-    items = [{"title": "This is a new game for 2026"}]
-
-    # Act
-    words = [w for w, _ in notify.top_keywords(items)]
-
-    # Assert
-    assert "is" not in words
-    assert "a" not in words
-    assert "2026" not in words
-
-
-def test_top_keywords_counts_korean_titles_by_whitespace_word():
-    """형태소 분석 없이 어절 단위로만 집계한다 — 같은 어절이 반복될 때만 합산된다."""
-    # Arrange
-    items = [{"title": "모바일 게임 트렌드"}, {"title": "모바일 시장 성장"}]
-
-    # Act
-    result = dict(notify.top_keywords(items))
-
-    # Assert
-    assert result["모바일"] == 2
-
-
 def test_source_counts_tallies_items_per_source_and_skips_blank_source():
     # Arrange
     items = [
@@ -133,7 +92,7 @@ def test_source_counts_tallies_items_per_source_and_skips_blank_source():
     assert all(source for source, _ in result)
 
 
-def test_briefing_includes_source_and_keyword_summary_sections():
+def test_briefing_includes_source_count_summary_section():
     # Arrange
     items = [
         {
@@ -156,8 +115,6 @@ def test_briefing_includes_source_and_keyword_summary_sections():
     # Assert
     assert "## 📊 소스별 건수" in text
     assert "Naavik: 2건" in text
-    assert "## 🔑 자주 언급된 키워드" in text
-    assert "genshin(2)" in text
 
 
 def test_notify_writes_the_briefing_file(tmp_path, monkeypatch):

@@ -99,10 +99,19 @@ def collect_naavik() -> list[Item]:
     return items[:PER_SOURCE]
 
 
+def _is_pgc_promo_category(category: str) -> bool:
+    """PocketGamer.biz는 자기네 PG Connects 컨퍼런스 홍보 글도 같은 뉴스 목록에
+    섞어 낸다("Pgc Summit Shanghai", "Pg Connects" 같은 카테고리로 구분됨).
+    실제 산업 뉴스가 아니라 자사 행사 홍보라 브리핑에서 뺀다."""
+    c = category.lower()
+    return "pgc" in c or "connects" in c
+
+
 def collect_pocketgamer() -> list[Item]:
     """PocketGamer.biz 뉴스 목록에서 {title, url, date} 추출.
     상단 '피처드/팟캐스트' 카드(class="feat")는 날짜 태그가 없어 대상에서 빠지고,
-    본문 목록(div.result-set.articles 안의 article)만 사용한다."""
+    본문 목록(div.result-set.articles 안의 article)만 사용한다.
+    PG Connects 자체 행사 홍보 카테고리 글은 뉴스가 아니라 제외한다."""
     r = requests.get(f"{POCKETGAMER_BASE}/news/", headers=HEADERS, timeout=TIMEOUT)
     r.raise_for_status()
     r.encoding = "utf-8"
@@ -115,10 +124,12 @@ def collect_pocketgamer() -> list[Item]:
         a = card.select_one("a[href]")
         h1 = card.select_one("h1")
         time_el = card.select_one("time[datetime]")
+        cat = card.select_one("div.cat")
         title = h1.get_text(strip=True) if h1 else ""
         date = time_el.get_text(strip=True) if time_el else ""
+        category = cat.get_text(strip=True) if cat else ""
         url = urljoin(POCKETGAMER_BASE, a["href"]) if (a and a.has_attr("href")) else ""
-        if not title:
+        if not title or _is_pgc_promo_category(category):
             continue
         items.append({"title": title, "url": url, "date": date, "source": "PocketGamer.biz"})
     return items[:PER_SOURCE]

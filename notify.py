@@ -6,7 +6,6 @@
 
 import json
 import logging
-import re
 from collections import Counter
 from datetime import datetime, timedelta, timezone
 
@@ -25,32 +24,14 @@ KST = timezone(timedelta(hours=9))
 
 Item = dict[str, str]
 
-# 영어 기사 제목에 흔한 불용어. 빈도 집계에서 의미 없는 상위권을 차지하는 걸 막는다.
-_STOPWORDS = frozenset({
-    "the", "a", "an", "and", "or", "to", "of", "in", "on", "for", "with",
-    "is", "are", "how", "why", "what", "this", "that", "its", "it's", "new",
-})
-
-# 한글(가-힣)과 영단문자를 하나의 토큰으로 묶는다.
-_WORD_RE = re.compile(r"[\w가-힣]+")
-
-
-def _tokenize(title: str) -> list[str]:
-    """제목에서 키워드 후보 토큰을 뽑는다.
-
-    형태소 분석기를 쓰지 않는 단순 집계라, 한국어는 조사가 붙은 어절 그대로
-    셈해진다(예: "게임이"와 "게임을"은 다른 단어로 집계됨). 더 정밀한 집계가
-    필요해지면 konlpy 같은 형태소 분석기로 교체할 지점."""
-    words = _WORD_RE.findall(title.lower())
-    return [w for w in words if len(w) > 1 and w not in _STOPWORDS and not w.isdigit()]
-
-
-def top_keywords(items: list[Item], top_n: int = 5) -> list[tuple[str, int]]:
-    """모든 제목을 합쳐 가장 많이 등장한 키워드 top_n개를 (단어, 빈도)로 돌려준다."""
-    counter: Counter[str] = Counter()
-    for item in items:
-        counter.update(_tokenize(item.get("title", "")))
-    return counter.most_common(top_n)
+# 왜 '키워드 자동 추출' 기능이 없나:
+#   정규식 기반 단어 빈도 집계로 시도해봤지만, "게임"/"모바일" 같은 도메인
+#   보일러플레이트가 항상 상위를 차지하거나 불용어를 필터링해도 인사이트가
+#   나오지 않았다(JAW 판단, 2026-07-28). 진짜 트렌드 요약은 언어 이해가
+#   필요한 작업이라 단순 카운팅으로는 안 된다는 결론.
+#   대신 온디맨드로 처리한다: 트렌드가 궁금할 때 Claude Code 세션에서
+#   briefing.md(들)를 직접 읽고 분석을 요청한다 — Day3/Day5/Day7에서
+#   검증된 "Claude가 직접 읽고 쓰기" 방법론과 동일.
 
 
 def source_counts(items: list[Item]) -> list[tuple[str, int]]:
@@ -68,12 +49,6 @@ def build_briefing(items: list[Item]) -> str:
     if counts:
         lines.append("## 📊 소스별 건수")
         lines.append(" · ".join(f"{source}: {count}건" for source, count in counts))
-        lines.append("")
-
-    keywords = top_keywords(items)
-    if keywords:
-        lines.append("## 🔑 자주 언급된 키워드")
-        lines.append(", ".join(f"{word}({count})" for word, count in keywords))
         lines.append("")
 
     lines.append("## 📰 기사 목록")
