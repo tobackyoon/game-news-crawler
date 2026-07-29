@@ -17,3 +17,6 @@ venv/
 .idea/
 
 # 주의: briefing.md 와 _state/last_seen.json 은 '결과물/상태'라 일부러 커밋한다 (여기서 무시하지 않음)
+
+# 외부 사이트 역공학 참고 노트 — 개인 참고용, repo에 남기지 않음
+docs/reference-daily-signal-구조분석.md

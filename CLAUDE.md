@@ -46,8 +46,6 @@ pytest --cov=collect --cov=logconf --cov=notify --cov=pipeline --cov=state --cov
 
 ## 남은 과제
 
-- CI에서 테스트가 안 돈다. `daily.yml`에 pytest 스텝을 넣을지 미결
-  (넣으면 테스트 실패가 그날 브리핑을 막는다 — 트레이드오프 판단 필요).
 - `logconf.setup()` 본문과 각 `main()`은 테스트 미커버.
 
 ## 규칙

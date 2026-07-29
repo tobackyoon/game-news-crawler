@@ -5,7 +5,7 @@ GitHub Actions cron으로 돌기 때문에 **내 PC가 꺼져 있어도** 매일
 
 ## 무엇을 하나
 
-1. **수집(collect)** — SensorTower 블로그에서 최신 글의 제목·링크·날짜를 긁는다.
+1. **수집(collect)** — SensorTower·Naavik·PocketGamer.biz 3개 소스에서 최신 글의 제목·링크·날짜를 긁는다.
 2. **검증(validate)** — 개수/필수필드/중복을 점검해 PASS·REDO 판정 (REDO면 재수집, 최대 2회).
 3. **변경 감지(state)** — 지난번 최신 글과 같으면 **브리핑을 건너뛴다** (낭비 방지).
 4. **브리핑(notify)** — 새 글이 있으면 `briefing.md`를 만든다.
