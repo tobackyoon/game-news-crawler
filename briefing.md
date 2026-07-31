@@ -1,4 +1,4 @@
-# 🎮 게임 산업 브리핑 — 2026-07-30 11:23 KST
+# 🎮 게임 산업 브리핑 — 2026-07-31 11:47 KST
 > 29건 수집 · 검증 통과
 
 ## 📊 소스별 건수
@@ -24,13 +24,13 @@ Naavik: 10건 · PocketGamer.biz: 10건 · SensorTower: 9건
 17. [Embracer Splits Again](https://naavik.co/digest/embracer-splits-again/) — June 7, 2026 · Naavik
 18. [Dissecting Scopely’s Mobile Empire in 2026](https://naavik.co/digest/dissecting-scopelys-mobile-empire/) — May 31, 2026 · Naavik
 19. [Where will Asha Sharma take Xbox?](https://naavik.co/digest/where-will-asha-sharma-take-xbox/) — May 24, 2026 · Naavik
-20. [Black Myth: Wukong was a inflection point for China and its pay-to-play market](https://www.pocketgamer.biz/black-myth-wukong-was-a-inflection-point-for-china-and-its-pay-to-play-market/) — July 29, 2026 · PocketGamer.biz
-21. [EA names Bangkok and Seoul as hosts for FC Pro Mobile's first global tournaments](https://www.pocketgamer.biz/ea-names-bangkok-and-seoul-as-hosts-for-fc-pro-mobiles-first-global-tournaments/) — July 29, 2026 · PocketGamer.biz
-22. [ESA Foundation awards scholarships to 31 students pursuing games and esports careers](https://www.pocketgamer.biz/esa-foundation-awards-scholarships-to-31-students-pursuing-games-and-esports-careers/) — July 29, 2026 · PocketGamer.biz
-23. [Stillfront’s "key franchises" see second consecutive quarter of double-digit organic growth](https://www.pocketgamer.biz/stillfronts-key-franchises-see-second-consecutive-quarter-of-double-digit-organic-growth/) — July 28, 2026 · PocketGamer.biz
-24. [Court orders Papaya Gaming to pay Skillz $719m in false advertising case](https://www.pocketgamer.biz/court-orders-papaya-gaming-to-pay-skillz-719m-in-false-advertising-case/) — July 28, 2026 · PocketGamer.biz
-25. [Epic Games taps Martin Keely to lead Epic Games Store and Epic Online Services](https://www.pocketgamer.biz/epic-games-taps-martin-keely-to-lead-epic-games-store-and-epic-online-services/) — July 28, 2026 · PocketGamer.biz
-26. [Arknights: Endfield surpasses $125m in six months on mobile](https://www.pocketgamer.biz/arknights-endfield-surpasses-125m-in-six-months-on-mobile/) — July 28, 2026 · PocketGamer.biz
-27. [Atari signs movie deal with Universal for 10 classic game franchises](https://www.pocketgamer.biz/atari-signs-movie-deal-with-universal-for-10-classic-game-franchises/) — July 28, 2026 · PocketGamer.biz
-28. [Garena reveals Free Fire Daybreak anime for Spring 2027 release](https://www.pocketgamer.biz/garena-reveals-free-fire-daybreak-anime-for-spring-2027-release/) — July 28, 2026 · PocketGamer.biz
-29. [Toya launches AI-powered PlayTiger analytics platform for Roblox](https://www.pocketgamer.biz/toya-launches-ai-powered-playtiger-analytics-platform-for-roblox/) — July 28, 2026 · PocketGamer.biz
+20. [Drilo Ventures launches $30m fund for Turkey's next generation of mobile game founders](https://www.pocketgamer.biz/drilo-ventures-launches-30m-fund-for-turkeys-next-generation-of-mobile-game-founders/) — July 30, 2026 · PocketGamer.biz
+21. [Monopoly Go teams up with Looney Tunes for Happy Harvest Season](https://www.pocketgamer.biz/monopoly-go-teams-up-with-looney-tunes-for-happy-harvest-season/) — July 30, 2026 · PocketGamer.biz
+22. [AppQuantum partners with Skazka Games to scale midcore Tower Defense games](https://www.pocketgamer.biz/appquantum-partners-with-skazka-games-to-scale-midcore-tower-defense-games/) — July 30, 2026 · PocketGamer.biz
+23. [Roblox rolls out new Chat and Me tabs in app update](https://www.pocketgamer.biz/roblox-rolls-out-new-chat-and-me-tabs-in-app-update/) — July 29, 2026 · PocketGamer.biz
+24. [Wizards of the Coast president John Hight to step down in September](https://www.pocketgamer.biz/wizards-of-the-coast-president-john-hight-to-step-down-in-september/) — July 29, 2026 · PocketGamer.biz
+25. [Black Myth: Wukong was a inflection point for China and its pay-to-play market](https://www.pocketgamer.biz/black-myth-wukong-was-a-inflection-point-for-china-and-its-pay-to-play-market/) — July 29, 2026 · PocketGamer.biz
+26. [EA names Bangkok and Seoul as hosts for FC Pro Mobile's first global tournaments](https://www.pocketgamer.biz/ea-names-bangkok-and-seoul-as-hosts-for-fc-pro-mobiles-first-global-tournaments/) — July 29, 2026 · PocketGamer.biz
+27. [ESA Foundation awards scholarships to 31 students pursuing games and esports careers](https://www.pocketgamer.biz/esa-foundation-awards-scholarships-to-31-students-pursuing-games-and-esports-careers/) — July 29, 2026 · PocketGamer.biz
+28. [Stillfront’s "key franchises" see second consecutive quarter of double-digit organic growth](https://www.pocketgamer.biz/stillfronts-key-franchises-see-second-consecutive-quarter-of-double-digit-organic-growth/) — July 28, 2026 · PocketGamer.biz
+29. [Court orders Papaya Gaming to pay Skillz $719m in false advertising case](https://www.pocketgamer.biz/court-orders-papaya-gaming-to-pay-skillz-719m-in-false-advertising-case/) — July 28, 2026 · PocketGamer.biz
