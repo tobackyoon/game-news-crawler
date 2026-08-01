@@ -1,4 +1,4 @@
-# 🎮 게임 산업 브리핑 — 2026-07-31 11:47 KST
+# 🎮 게임 산업 브리핑 — 2026-08-01 11:46 KST
 > 29건 수집 · 검증 통과
 
 ## 📊 소스별 건수
@@ -24,13 +24,13 @@ Naavik: 10건 · PocketGamer.biz: 10건 · SensorTower: 9건
 17. [Embracer Splits Again](https://naavik.co/digest/embracer-splits-again/) — June 7, 2026 · Naavik
 18. [Dissecting Scopely’s Mobile Empire in 2026](https://naavik.co/digest/dissecting-scopelys-mobile-empire/) — May 31, 2026 · Naavik
 19. [Where will Asha Sharma take Xbox?](https://naavik.co/digest/where-will-asha-sharma-take-xbox/) — May 24, 2026 · Naavik
-20. [Drilo Ventures launches $30m fund for Turkey's next generation of mobile game founders](https://www.pocketgamer.biz/drilo-ventures-launches-30m-fund-for-turkeys-next-generation-of-mobile-game-founders/) — July 30, 2026 · PocketGamer.biz
-21. [Monopoly Go teams up with Looney Tunes for Happy Harvest Season](https://www.pocketgamer.biz/monopoly-go-teams-up-with-looney-tunes-for-happy-harvest-season/) — July 30, 2026 · PocketGamer.biz
-22. [AppQuantum partners with Skazka Games to scale midcore Tower Defense games](https://www.pocketgamer.biz/appquantum-partners-with-skazka-games-to-scale-midcore-tower-defense-games/) — July 30, 2026 · PocketGamer.biz
-23. [Roblox rolls out new Chat and Me tabs in app update](https://www.pocketgamer.biz/roblox-rolls-out-new-chat-and-me-tabs-in-app-update/) — July 29, 2026 · PocketGamer.biz
-24. [Wizards of the Coast president John Hight to step down in September](https://www.pocketgamer.biz/wizards-of-the-coast-president-john-hight-to-step-down-in-september/) — July 29, 2026 · PocketGamer.biz
-25. [Black Myth: Wukong was a inflection point for China and its pay-to-play market](https://www.pocketgamer.biz/black-myth-wukong-was-a-inflection-point-for-china-and-its-pay-to-play-market/) — July 29, 2026 · PocketGamer.biz
-26. [EA names Bangkok and Seoul as hosts for FC Pro Mobile's first global tournaments](https://www.pocketgamer.biz/ea-names-bangkok-and-seoul-as-hosts-for-fc-pro-mobiles-first-global-tournaments/) — July 29, 2026 · PocketGamer.biz
-27. [ESA Foundation awards scholarships to 31 students pursuing games and esports careers](https://www.pocketgamer.biz/esa-foundation-awards-scholarships-to-31-students-pursuing-games-and-esports-careers/) — July 29, 2026 · PocketGamer.biz
-28. [Stillfront’s "key franchises" see second consecutive quarter of double-digit organic growth](https://www.pocketgamer.biz/stillfronts-key-franchises-see-second-consecutive-quarter-of-double-digit-organic-growth/) — July 28, 2026 · PocketGamer.biz
-29. [Court orders Papaya Gaming to pay Skillz $719m in false advertising case](https://www.pocketgamer.biz/court-orders-papaya-gaming-to-pay-skillz-719m-in-false-advertising-case/) — July 28, 2026 · PocketGamer.biz
+20. [Chroma Pixel Games expands support for SADC game studios](https://www.pocketgamer.biz/chroma-pixel-games-expands-support-for-sadc-game-studios/) — July 31, 2026 · PocketGamer.biz
+21. [Battlefield 6 success helps lift EA CEO's pay to $38.6m months after team layoffs](https://www.pocketgamer.biz/battlefield-6-success-helps-lift-ea-ceos-pay-to-386m-months-after-team-layoffs/) — July 31, 2026 · PocketGamer.biz
+22. [Esports Foundation partners with adidas for Esports Nations Cup](https://www.pocketgamer.biz/esports-foundation-partners-with-adidas-for-esports-nations-cup/) — July 31, 2026 · PocketGamer.biz
+23. [Apple pushes back against proposed UK App Store rules](https://www.pocketgamer.biz/apple-pushes-back-against-proposed-uk-app-store-rules/) — July 30, 2026 · PocketGamer.biz
+24. [Krafton achieves record Q2 results with revenue up 95% Y/Y](https://www.pocketgamer.biz/krafton-achieves-record-q2-results-with-revenue-up-95-yy/) — July 30, 2026 · PocketGamer.biz
+25. [Mobile IAP revenue dipped 2% while ad spend climbed in H1 2026](https://www.pocketgamer.biz/mobile-gaming-iap-dipped-2-as-ad-spend-climbed-in-h1-2026/) — July 30, 2026 · PocketGamer.biz
+26. [Drilo Ventures launches $30m fund for Turkey's next generation of mobile game founders](https://www.pocketgamer.biz/drilo-ventures-launches-30m-fund-for-turkeys-next-generation-of-mobile-game-founders/) — July 30, 2026 · PocketGamer.biz
+27. [Monopoly Go teams up with Looney Tunes for Happy Harvest Season](https://www.pocketgamer.biz/monopoly-go-teams-up-with-looney-tunes-for-happy-harvest-season/) — July 30, 2026 · PocketGamer.biz
+28. [AppQuantum partners with Skazka Games to scale midcore Tower Defense games](https://www.pocketgamer.biz/appquantum-partners-with-skazka-games-to-scale-midcore-tower-defense-games/) — July 30, 2026 · PocketGamer.biz
+29. [Roblox rolls out new Chat and Me tabs in app update](https://www.pocketgamer.biz/roblox-rolls-out-new-chat-and-me-tabs-in-app-update/) — July 29, 2026 · PocketGamer.biz
