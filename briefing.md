@@ -1,4 +1,4 @@
-# 🎮 게임 산업 브리핑 — 2026-08-04 11:30 KST
+# 🎮 게임 산업 브리핑 — 2026-08-05 11:29 KST
 > 29건 수집 · 검증 통과
 
 ## 📊 소스별 건수
@@ -24,13 +24,13 @@ Naavik: 10건 · PocketGamer.biz: 10건 · SensorTower: 9건
 17. [The Microdrama Volume vs. Value Paradox](https://naavik.co/digest/the-microdrama-volume-vs-value-paradox/) — June 14, 2026 · Naavik
 18. [Embracer Splits Again](https://naavik.co/digest/embracer-splits-again/) — June 7, 2026 · Naavik
 19. [Dissecting Scopely’s Mobile Empire in 2026](https://naavik.co/digest/dissecting-scopelys-mobile-empire/) — May 31, 2026 · Naavik
-20. [Digimon Up makes $7.9m in player spending during first two weeks](https://www.pocketgamer.biz/digimon-up-makes-79m-in-player-spending-during-first-two-weeks/) — August 3, 2026 · PocketGamer.biz
-21. [Talking Tom Gold Run surpasses 3.2bn downloads as Outfit7 marks 10th anniversary](https://www.pocketgamer.biz/talking-tom-gold-run-surpasses-32bn-downloads-as-outfit7-marks-10th-anniversary/) — August 3, 2026 · PocketGamer.biz
-22. [Razer acquires StreamElements assets to expand creator ecosystem](https://www.pocketgamer.biz/razer-acquires-streamelements-assets-to-expand-creator-ecosystem/) — August 3, 2026 · PocketGamer.biz
-23. [Krafton India launches BGMI Campus MVP student ambassador programme](https://www.pocketgamer.biz/krafton-india-launches-bgmi-campus-mvp-student-ambassador-programme/) — August 3, 2026 · PocketGamer.biz
-24. [FarmVille 3 launches kitten rescue event with real-world animal welfare impact](https://www.pocketgamer.biz/farmville-3-launches-kitten-rescue-event-with-real-world-animal-welfare-impact/) — August 3, 2026 · PocketGamer.biz
-25. [How Palworld went viral and made its way to version 1.0](https://www.pocketgamer.biz/how-palworld-went-viral-and-made-its-way-to-version-1/) — August 1, 2026 · PocketGamer.biz
-26. [EA expects acquisition by PIF-led consortium to close on August 4th](https://www.pocketgamer.biz/ea-expects-acquisition-by-pif-led-consortium-to-close-on-august-4th/) — July 31, 2026 · PocketGamer.biz
-27. [Unity adds dedicated engine support for Netflix Games](https://www.pocketgamer.biz/unity-adds-dedicated-engine-support-for-netflix-games/) — July 31, 2026 · PocketGamer.biz
-28. [Chroma Pixel Games expands support for SADC game studios](https://www.pocketgamer.biz/chroma-pixel-games-expands-support-for-sadc-game-studios/) — July 31, 2026 · PocketGamer.biz
-29. [Battlefield 6 success helps lift EA CEO's pay to $38.6m months after team layoffs](https://www.pocketgamer.biz/battlefield-6-success-helps-lift-ea-ceos-pay-to-386m-months-after-team-layoffs/) — July 31, 2026 · PocketGamer.biz
+20. [Nazara revises terms to acquire Bluetile and Bestplay in all-cash deals](https://www.pocketgamer.biz/nazara-revises-terms-to-acquire-bluetile-and-bestplay-in-all-cash-deals/) — August 4, 2026 · PocketGamer.biz
+21. [FirstLook’s Creators.gg platform launches with a "battle pass" model for streamers](https://www.pocketgamer.biz/firstlooks-creatorsgg-platform-launches-with-a-battle-pass-model-for-streamers/) — August 4, 2026 · PocketGamer.biz
+22. [INFERIUS wins the Big Indie Pitch sponsored by Xsolla at NAGIS 2026](https://www.pocketgamer.biz/inferius-wins-the-big-indie-pitch-sponsored-by-xsolla-at-nagis-2026/) — August 4, 2026 · PocketGamer.biz
+23. [Early Bird prices ending for the Mobile Games Awards 2026](https://www.pocketgamer.biz/early-bird-prices-ending-for-the-mobile-games-awards-2026/) — August 4, 2026 · PocketGamer.biz
+24. [Garena is developing Palworld Online, launching this year](https://www.pocketgamer.biz/garena-is-developing-palworld-online-launching-this-year/) — August 3, 2026 · PocketGamer.biz
+25. [Roblox revenue rises 36% Y/Y, but young North Americans see falling per-hour monetisation](https://www.pocketgamer.biz/roblox-revenue-rises-36-yy-but-young-north-americans-see-falling-per-hour-monetisation/) — August 3, 2026 · PocketGamer.biz
+26. [Reforged Labs shuts down as CEO says AI is closing its market opportunity](https://www.pocketgamer.biz/reforged-labs-shuts-down-as-ceo-says-ai-is-closing-its-market-opportunity/) — August 3, 2026 · PocketGamer.biz
+27. [Digimon Up makes $7.9m in player spending during first two weeks](https://www.pocketgamer.biz/digimon-up-makes-79m-in-player-spending-during-first-two-weeks/) — August 3, 2026 · PocketGamer.biz
+28. [Talking Tom Gold Run surpasses 3.2bn downloads as Outfit7 marks 10th anniversary](https://www.pocketgamer.biz/talking-tom-gold-run-surpasses-32bn-downloads-as-outfit7-marks-10th-anniversary/) — August 3, 2026 · PocketGamer.biz
+29. [Razer acquires StreamElements assets to expand creator ecosystem](https://www.pocketgamer.biz/razer-acquires-streamelements-assets-to-expand-creator-ecosystem/) — August 3, 2026 · PocketGamer.biz
