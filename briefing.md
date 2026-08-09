@@ -1,4 +1,4 @@
-# 🎮 게임 산업 브리핑 — 2026-08-08 10:37 KST
+# 🎮 게임 산업 브리핑 — 2026-08-09 10:42 KST
 > 29건 수집 · 검증 통과
 
 ## 📊 소스별 건수
@@ -24,13 +24,13 @@ Naavik: 10건 · PocketGamer.biz: 10건 · SensorTower: 9건
 17. [The Microdrama Volume vs. Value Paradox](https://naavik.co/digest/the-microdrama-volume-vs-value-paradox/) — June 14, 2026 · Naavik
 18. [Embracer Splits Again](https://naavik.co/digest/embracer-splits-again/) — June 7, 2026 · Naavik
 19. [Dissecting Scopely’s Mobile Empire in 2026](https://naavik.co/digest/dissecting-scopelys-mobile-empire/) — May 31, 2026 · Naavik
-20. [Saudi studio Majestic Mind Games raises $1.45m](https://www.pocketgamer.biz/saudi-studio-majestic-mind-games-raises-145m/) — August 7, 2026 · PocketGamer.biz
-21. [Nominate the women we should celebrate in this year's Aurora Nordics](https://www.pocketgamer.biz/nominate-the-women-we-should-celebrate-in-this-years-aurora-nordics/) — August 7, 2026 · PocketGamer.biz
-22. [Netmarble makes $505.1m in Q2 2026 with The Seven Deadly Sins success](https://www.pocketgamer.biz/netmarble-makes-5051m-in-q2-2026-with-the-seven-deadly-sins-success/) — August 6, 2026 · PocketGamer.biz
-23. [Tripledot acquires Supersonic from Unity for $40m](https://www.pocketgamer.biz/tripledot-acquires-supersonic-from-unity-for-40m/) — August 6, 2026 · PocketGamer.biz
-24. [Devolver Digital eyes deal to take publisher private](https://www.pocketgamer.biz/devolver-digital-eyes-deal-to-take-publisher-private/) — August 6, 2026 · PocketGamer.biz
-25. [Nintendo taps mobile apps to promote Fire Emblem: Fortune's Weave](https://www.pocketgamer.biz/nintendo-taps-mobile-apps-to-promote-fire-emblem-fortunes-weave/) — August 6, 2026 · PocketGamer.biz
-26. [Which Big Indie Pitch will you win this year?](https://www.pocketgamer.biz/which-big-indie-pitch-will-you-win-this-year/) — August 6, 2026 · PocketGamer.biz
-27. [EA’s $55bn buyout complete in deal led by Saudi Arabia’s PIF](https://www.pocketgamer.biz/eas-55bn-buyout-complete-in-deal-led-by-saudi-arabias-pif/) — August 5, 2026 · PocketGamer.biz
-28. [Raptor PR launches EGG platform for early stage games tech companies](https://www.pocketgamer.biz/raptor-pr-launches-egg-platform-for-early-stage-games-tech-companies/) — August 5, 2026 · PocketGamer.biz
-29. [Time travel RPG Reverse: 1999 surpasses 19.99m players](https://www.pocketgamer.biz/time-travel-rpg-reverse-1999-surpasses-1999m-players/) — August 5, 2026 · PocketGamer.biz
+20. [FunVenture secures $1m seed financing](https://www.pocketgamer.biz/funventure-secures-1m-seed-financing/) — August 7, 2026 · PocketGamer.biz
+21. [Saudi studio Majestic Mind Games raises $1.45m](https://www.pocketgamer.biz/saudi-studio-majestic-mind-games-raises-145m/) — August 7, 2026 · PocketGamer.biz
+22. [Nominate the women we should celebrate in this year's Aurora Nordics](https://www.pocketgamer.biz/nominate-the-women-we-should-celebrate-in-this-years-aurora-nordics/) — August 7, 2026 · PocketGamer.biz
+23. [Netmarble makes $505.1m in Q2 2026 with The Seven Deadly Sins success](https://www.pocketgamer.biz/netmarble-makes-5051m-in-q2-2026-with-the-seven-deadly-sins-success/) — August 6, 2026 · PocketGamer.biz
+24. [Tripledot acquires Supersonic from Unity for $40m](https://www.pocketgamer.biz/tripledot-acquires-supersonic-from-unity-for-40m/) — August 6, 2026 · PocketGamer.biz
+25. [Devolver Digital eyes deal to take publisher private](https://www.pocketgamer.biz/devolver-digital-eyes-deal-to-take-publisher-private/) — August 6, 2026 · PocketGamer.biz
+26. [Nintendo taps mobile apps to promote Fire Emblem: Fortune's Weave](https://www.pocketgamer.biz/nintendo-taps-mobile-apps-to-promote-fire-emblem-fortunes-weave/) — August 6, 2026 · PocketGamer.biz
+27. [Which Big Indie Pitch will you win this year?](https://www.pocketgamer.biz/which-big-indie-pitch-will-you-win-this-year/) — August 6, 2026 · PocketGamer.biz
+28. [EA’s $55bn buyout complete in deal led by Saudi Arabia’s PIF](https://www.pocketgamer.biz/eas-55bn-buyout-complete-in-deal-led-by-saudi-arabias-pif/) — August 5, 2026 · PocketGamer.biz
+29. [Raptor PR launches EGG platform for early stage games tech companies](https://www.pocketgamer.biz/raptor-pr-launches-egg-platform-for-early-stage-games-tech-companies/) — August 5, 2026 · PocketGamer.biz
