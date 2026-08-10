@@ -1,4 +1,4 @@
-# 🎮 게임 산업 브리핑 — 2026-08-09 10:42 KST
+# 🎮 게임 산업 브리핑 — 2026-08-10 10:46 KST
 > 29건 수집 · 검증 통과
 
 ## 📊 소스별 건수
@@ -14,16 +14,16 @@ Naavik: 10건 · PocketGamer.biz: 10건 · SensorTower: 9건
 7. [AI 컴패니언 시장 성장 속 존재감 키운 《베이비챗》… 한국 AI 컴패니언 웹사이트 1위](https://sensortower.com/ko/blog/babechat-koreas-top-ai-companion-website) — Web Insights • June 2026 · SensorTower
 8. [[리포트 공유] 《2026년 전 세계 AI 앱 트렌드 인사이트》](https://sensortower.com/ko/blog/state-of-ai-apps-2026-report-korea) — AI Insights • June 2026 · SensorTower
 9. [《클로드》, 한국 생성형 AI 시장의 새로운 강자로 부상… 《제미나이》 제치고 매출 2위](https://sensortower.com/ko/blog/claude-surpasses-gemini-korea-generative-ai-revenue) — Digital Advertising Insights • June 2026 · SensorTower
-10. [Why Platform-Led Gaming in China Is Falling Short](https://naavik.co/digest/the-structural-failure-of-platform-led-gaming-in-china/) — August 2, 2026 · Naavik
-11. [How Online Fandom Is Rewriting the IP Playbook](https://naavik.co/digest/how-online-fandom-is-rewriting-the-ip-playbook/) — July 26, 2026 · Naavik
-12. [The Memo That Undid 10 Years of XBOX Strategy](https://naavik.co/digest/the-memo-that-undid-10-years-of-xbox-strategy/) — July 19, 2026 · Naavik
-13. [The AI Boom Is Repricing Gaming Hardware and Rewiring the Console Business](https://naavik.co/digest/the-ai-boom-is-repricing-gaming-hardware-and-rewiring-the-console-business/) — July 12, 2026 · Naavik
-14. [The Next Wave of Creator-Led Growth](https://naavik.co/digest/the-next-wave-of-creator-led-growth/) — July 5, 2026 · Naavik
-15. [Two Underrated Mobile Development Regions You Need To Know](https://naavik.co/digest/two-underrated-mobile-development-regions-you-need-to-know/) — June 28, 2026 · Naavik
-16. [30 Years of Gaming at LEGO](https://naavik.co/digest/30-years-of-gaming-at-lego/) — June 21, 2026 · Naavik
-17. [The Microdrama Volume vs. Value Paradox](https://naavik.co/digest/the-microdrama-volume-vs-value-paradox/) — June 14, 2026 · Naavik
-18. [Embracer Splits Again](https://naavik.co/digest/embracer-splits-again/) — June 7, 2026 · Naavik
-19. [Dissecting Scopely’s Mobile Empire in 2026](https://naavik.co/digest/dissecting-scopelys-mobile-empire/) — May 31, 2026 · Naavik
+10. [Friendslop: Disrupting the Live-ops Status Quo](https://naavik.co/digest/friendslop-disrupting-the-live-ops-status-quo/) — August 9, 2026 · Naavik
+11. [Why Platform-Led Gaming in China Is Falling Short](https://naavik.co/digest/the-structural-failure-of-platform-led-gaming-in-china/) — August 2, 2026 · Naavik
+12. [How Online Fandom Is Rewriting the IP Playbook](https://naavik.co/digest/how-online-fandom-is-rewriting-the-ip-playbook/) — July 26, 2026 · Naavik
+13. [The Memo That Undid 10 Years of XBOX Strategy](https://naavik.co/digest/the-memo-that-undid-10-years-of-xbox-strategy/) — July 19, 2026 · Naavik
+14. [The AI Boom Is Repricing Gaming Hardware and Rewiring the Console Business](https://naavik.co/digest/the-ai-boom-is-repricing-gaming-hardware-and-rewiring-the-console-business/) — July 12, 2026 · Naavik
+15. [The Next Wave of Creator-Led Growth](https://naavik.co/digest/the-next-wave-of-creator-led-growth/) — July 5, 2026 · Naavik
+16. [Two Underrated Mobile Development Regions You Need To Know](https://naavik.co/digest/two-underrated-mobile-development-regions-you-need-to-know/) — June 28, 2026 · Naavik
+17. [30 Years of Gaming at LEGO](https://naavik.co/digest/30-years-of-gaming-at-lego/) — June 21, 2026 · Naavik
+18. [The Microdrama Volume vs. Value Paradox](https://naavik.co/digest/the-microdrama-volume-vs-value-paradox/) — June 14, 2026 · Naavik
+19. [Embracer Splits Again](https://naavik.co/digest/embracer-splits-again/) — June 7, 2026 · Naavik
 20. [FunVenture secures $1m seed financing](https://www.pocketgamer.biz/funventure-secures-1m-seed-financing/) — August 7, 2026 · PocketGamer.biz
 21. [Saudi studio Majestic Mind Games raises $1.45m](https://www.pocketgamer.biz/saudi-studio-majestic-mind-games-raises-145m/) — August 7, 2026 · PocketGamer.biz
 22. [Nominate the women we should celebrate in this year's Aurora Nordics](https://www.pocketgamer.biz/nominate-the-women-we-should-celebrate-in-this-years-aurora-nordics/) — August 7, 2026 · PocketGamer.biz
