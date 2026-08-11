@@ -1,4 +1,4 @@
-# 🎮 게임 산업 브리핑 — 2026-08-10 10:46 KST
+# 🎮 게임 산업 브리핑 — 2026-08-11 10:42 KST
 > 29건 수집 · 검증 통과
 
 ## 📊 소스별 건수
@@ -24,13 +24,13 @@ Naavik: 10건 · PocketGamer.biz: 10건 · SensorTower: 9건
 17. [30 Years of Gaming at LEGO](https://naavik.co/digest/30-years-of-gaming-at-lego/) — June 21, 2026 · Naavik
 18. [The Microdrama Volume vs. Value Paradox](https://naavik.co/digest/the-microdrama-volume-vs-value-paradox/) — June 14, 2026 · Naavik
 19. [Embracer Splits Again](https://naavik.co/digest/embracer-splits-again/) — June 7, 2026 · Naavik
-20. [FunVenture secures $1m seed financing](https://www.pocketgamer.biz/funventure-secures-1m-seed-financing/) — August 7, 2026 · PocketGamer.biz
-21. [Saudi studio Majestic Mind Games raises $1.45m](https://www.pocketgamer.biz/saudi-studio-majestic-mind-games-raises-145m/) — August 7, 2026 · PocketGamer.biz
-22. [Nominate the women we should celebrate in this year's Aurora Nordics](https://www.pocketgamer.biz/nominate-the-women-we-should-celebrate-in-this-years-aurora-nordics/) — August 7, 2026 · PocketGamer.biz
-23. [Netmarble makes $505.1m in Q2 2026 with The Seven Deadly Sins success](https://www.pocketgamer.biz/netmarble-makes-5051m-in-q2-2026-with-the-seven-deadly-sins-success/) — August 6, 2026 · PocketGamer.biz
-24. [Tripledot acquires Supersonic from Unity for $40m](https://www.pocketgamer.biz/tripledot-acquires-supersonic-from-unity-for-40m/) — August 6, 2026 · PocketGamer.biz
-25. [Devolver Digital eyes deal to take publisher private](https://www.pocketgamer.biz/devolver-digital-eyes-deal-to-take-publisher-private/) — August 6, 2026 · PocketGamer.biz
-26. [Nintendo taps mobile apps to promote Fire Emblem: Fortune's Weave](https://www.pocketgamer.biz/nintendo-taps-mobile-apps-to-promote-fire-emblem-fortunes-weave/) — August 6, 2026 · PocketGamer.biz
-27. [Which Big Indie Pitch will you win this year?](https://www.pocketgamer.biz/which-big-indie-pitch-will-you-win-this-year/) — August 6, 2026 · PocketGamer.biz
-28. [EA’s $55bn buyout complete in deal led by Saudi Arabia’s PIF](https://www.pocketgamer.biz/eas-55bn-buyout-complete-in-deal-led-by-saudi-arabias-pif/) — August 5, 2026 · PocketGamer.biz
-29. [Raptor PR launches EGG platform for early stage games tech companies](https://www.pocketgamer.biz/raptor-pr-launches-egg-platform-for-early-stage-games-tech-companies/) — August 5, 2026 · PocketGamer.biz
+20. [Max your Gamescom week with Pocket Gamer](https://www.pocketgamer.biz/max-your-gamescom-week-with-pocket-gamer/) — August 10, 2026 · PocketGamer.biz
+21. [Bandai Namco sees record Q1 while Digimon achieves highest profit ever](https://www.pocketgamer.biz/bandai-namco-sees-record-q1-while-digimon-achieves-highest-profit-ever/) — August 10, 2026 · PocketGamer.biz
+22. [Aptoide returns to Google Play after more than a decade](https://www.pocketgamer.biz/aptoide-returns-to-google-play-after-more-than-a-decade/) — August 10, 2026 · PocketGamer.biz
+23. [ChinaJoy insights, EA finalises sale and our 100th episode! | Week in Mobile Games podcast](https://www.pocketgamer.biz/chinajoy-insights-ea-finalises-sales-and-our-100th-episode-week-in-mobile-games-podcast/) — August 8, 2026 · PocketGamer.biz
+24. [HandyGames rebrands to THQ Nordic Mobile](https://www.pocketgamer.biz/handygames-rebrands-to-thq-nordic-mobile/) — August 7, 2026 · PocketGamer.biz
+25. [New Vietnam mobile studio Momin Games launches](https://www.pocketgamer.biz/new-vietnam-mobile-studio-momin-games-launches/) — August 7, 2026 · PocketGamer.biz
+26. [FunVenture secures $1m seed financing](https://www.pocketgamer.biz/funventure-secures-1m-seed-financing/) — August 7, 2026 · PocketGamer.biz
+27. [Saudi studio Majestic Mind Games raises $1.45m](https://www.pocketgamer.biz/saudi-studio-majestic-mind-games-raises-145m/) — August 7, 2026 · PocketGamer.biz
+28. [Nominate the women we should celebrate in this year's Aurora Nordics](https://www.pocketgamer.biz/nominate-the-women-we-should-celebrate-in-this-years-aurora-nordics/) — August 7, 2026 · PocketGamer.biz
+29. [Netmarble makes $505.1m in Q2 2026 with The Seven Deadly Sins success](https://www.pocketgamer.biz/netmarble-makes-5051m-in-q2-2026-with-the-seven-deadly-sins-success/) — August 6, 2026 · PocketGamer.biz
