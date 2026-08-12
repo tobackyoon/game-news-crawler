@@ -1,4 +1,4 @@
-# 🎮 게임 산업 브리핑 — 2026-08-11 10:42 KST
+# 🎮 게임 산업 브리핑 — 2026-08-12 10:54 KST
 > 29건 수집 · 검증 통과
 
 ## 📊 소스별 건수
@@ -24,13 +24,13 @@ Naavik: 10건 · PocketGamer.biz: 10건 · SensorTower: 9건
 17. [30 Years of Gaming at LEGO](https://naavik.co/digest/30-years-of-gaming-at-lego/) — June 21, 2026 · Naavik
 18. [The Microdrama Volume vs. Value Paradox](https://naavik.co/digest/the-microdrama-volume-vs-value-paradox/) — June 14, 2026 · Naavik
 19. [Embracer Splits Again](https://naavik.co/digest/embracer-splits-again/) — June 7, 2026 · Naavik
-20. [Max your Gamescom week with Pocket Gamer](https://www.pocketgamer.biz/max-your-gamescom-week-with-pocket-gamer/) — August 10, 2026 · PocketGamer.biz
-21. [Bandai Namco sees record Q1 while Digimon achieves highest profit ever](https://www.pocketgamer.biz/bandai-namco-sees-record-q1-while-digimon-achieves-highest-profit-ever/) — August 10, 2026 · PocketGamer.biz
-22. [Aptoide returns to Google Play after more than a decade](https://www.pocketgamer.biz/aptoide-returns-to-google-play-after-more-than-a-decade/) — August 10, 2026 · PocketGamer.biz
-23. [ChinaJoy insights, EA finalises sale and our 100th episode! | Week in Mobile Games podcast](https://www.pocketgamer.biz/chinajoy-insights-ea-finalises-sales-and-our-100th-episode-week-in-mobile-games-podcast/) — August 8, 2026 · PocketGamer.biz
-24. [HandyGames rebrands to THQ Nordic Mobile](https://www.pocketgamer.biz/handygames-rebrands-to-thq-nordic-mobile/) — August 7, 2026 · PocketGamer.biz
-25. [New Vietnam mobile studio Momin Games launches](https://www.pocketgamer.biz/new-vietnam-mobile-studio-momin-games-launches/) — August 7, 2026 · PocketGamer.biz
-26. [FunVenture secures $1m seed financing](https://www.pocketgamer.biz/funventure-secures-1m-seed-financing/) — August 7, 2026 · PocketGamer.biz
-27. [Saudi studio Majestic Mind Games raises $1.45m](https://www.pocketgamer.biz/saudi-studio-majestic-mind-games-raises-145m/) — August 7, 2026 · PocketGamer.biz
-28. [Nominate the women we should celebrate in this year's Aurora Nordics](https://www.pocketgamer.biz/nominate-the-women-we-should-celebrate-in-this-years-aurora-nordics/) — August 7, 2026 · PocketGamer.biz
-29. [Netmarble makes $505.1m in Q2 2026 with The Seven Deadly Sins success](https://www.pocketgamer.biz/netmarble-makes-5051m-in-q2-2026-with-the-seven-deadly-sins-success/) — August 6, 2026 · PocketGamer.biz
+20. [Copa Fantasy finalising $750,000 seed round to accelerate growth](https://www.pocketgamer.biz/copa-fantasy-is-finalising-a-750000-seed-round-to-accelerate-growth/) — August 10, 2026 · PocketGamer.biz
+21. [German trade body calls for stronger political support for Europe's games industry](https://www.pocketgamer.biz/gamescom-2026-calls-for-stronger-political-support-for-germanys-games-industry/) — August 10, 2026 · PocketGamer.biz
+22. [Former Icelandic minister joins Fenris Creations to lead AI partnerships](https://www.pocketgamer.biz/former-icelandic-minister-joins-fenris-creations-to-lead-ai-partnerships/) — August 10, 2026 · PocketGamer.biz
+23. [Max your Gamescom week with Pocket Gamer](https://www.pocketgamer.biz/max-your-gamescom-week-with-pocket-gamer/) — August 10, 2026 · PocketGamer.biz
+24. [Bandai Namco sees record Q1 while Digimon achieves highest profit ever](https://www.pocketgamer.biz/bandai-namco-sees-record-q1-while-digimon-achieves-highest-profit-ever/) — August 10, 2026 · PocketGamer.biz
+25. [Mobile games make $6.6bn in July as Honor of Kings leads player spending](https://www.pocketgamer.biz/mobile-games-make-66bn-in-july-as-honor-of-kings-leads-player-spending/) — August 10, 2026 · PocketGamer.biz
+26. [Aptoide returns to Google Play after more than a decade](https://www.pocketgamer.biz/aptoide-returns-to-google-play-after-more-than-a-decade/) — August 10, 2026 · PocketGamer.biz
+27. [ChinaJoy insights, EA finalises sale and our 100th episode! | Week in Mobile Games podcast](https://www.pocketgamer.biz/chinajoy-insights-ea-finalises-sales-and-our-100th-episode-week-in-mobile-games-podcast/) — August 8, 2026 · PocketGamer.biz
+28. [HandyGames rebrands to THQ Nordic Mobile](https://www.pocketgamer.biz/handygames-rebrands-to-thq-nordic-mobile/) — August 7, 2026 · PocketGamer.biz
+29. [New Vietnam mobile studio Momin Games launches](https://www.pocketgamer.biz/new-vietnam-mobile-studio-momin-games-launches/) — August 7, 2026 · PocketGamer.biz
