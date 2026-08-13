@@ -1,4 +1,4 @@
-# 🎮 게임 산업 브리핑 — 2026-08-12 10:54 KST
+# 🎮 게임 산업 브리핑 — 2026-08-13 10:56 KST
 > 29건 수집 · 검증 통과
 
 ## 📊 소스별 건수
@@ -24,13 +24,13 @@ Naavik: 10건 · PocketGamer.biz: 10건 · SensorTower: 9건
 17. [30 Years of Gaming at LEGO](https://naavik.co/digest/30-years-of-gaming-at-lego/) — June 21, 2026 · Naavik
 18. [The Microdrama Volume vs. Value Paradox](https://naavik.co/digest/the-microdrama-volume-vs-value-paradox/) — June 14, 2026 · Naavik
 19. [Embracer Splits Again](https://naavik.co/digest/embracer-splits-again/) — June 7, 2026 · Naavik
-20. [Copa Fantasy finalising $750,000 seed round to accelerate growth](https://www.pocketgamer.biz/copa-fantasy-is-finalising-a-750000-seed-round-to-accelerate-growth/) — August 10, 2026 · PocketGamer.biz
-21. [German trade body calls for stronger political support for Europe's games industry](https://www.pocketgamer.biz/gamescom-2026-calls-for-stronger-political-support-for-germanys-games-industry/) — August 10, 2026 · PocketGamer.biz
-22. [Former Icelandic minister joins Fenris Creations to lead AI partnerships](https://www.pocketgamer.biz/former-icelandic-minister-joins-fenris-creations-to-lead-ai-partnerships/) — August 10, 2026 · PocketGamer.biz
-23. [Max your Gamescom week with Pocket Gamer](https://www.pocketgamer.biz/max-your-gamescom-week-with-pocket-gamer/) — August 10, 2026 · PocketGamer.biz
-24. [Bandai Namco sees record Q1 while Digimon achieves highest profit ever](https://www.pocketgamer.biz/bandai-namco-sees-record-q1-while-digimon-achieves-highest-profit-ever/) — August 10, 2026 · PocketGamer.biz
-25. [Mobile games make $6.6bn in July as Honor of Kings leads player spending](https://www.pocketgamer.biz/mobile-games-make-66bn-in-july-as-honor-of-kings-leads-player-spending/) — August 10, 2026 · PocketGamer.biz
-26. [Aptoide returns to Google Play after more than a decade](https://www.pocketgamer.biz/aptoide-returns-to-google-play-after-more-than-a-decade/) — August 10, 2026 · PocketGamer.biz
-27. [ChinaJoy insights, EA finalises sale and our 100th episode! | Week in Mobile Games podcast](https://www.pocketgamer.biz/chinajoy-insights-ea-finalises-sales-and-our-100th-episode-week-in-mobile-games-podcast/) — August 8, 2026 · PocketGamer.biz
-28. [HandyGames rebrands to THQ Nordic Mobile](https://www.pocketgamer.biz/handygames-rebrands-to-thq-nordic-mobile/) — August 7, 2026 · PocketGamer.biz
-29. [New Vietnam mobile studio Momin Games launches](https://www.pocketgamer.biz/new-vietnam-mobile-studio-momin-games-launches/) — August 7, 2026 · PocketGamer.biz
+20. [SciPlay cuts 20 jobs at its 300-person Israeli games hub](https://www.pocketgamer.biz/sciplay-cuts-20-jobs-at-its-300-person-israeli-games-hub/) — August 12, 2026 · PocketGamer.biz
+21. [Interactive Pokémon experiences coming to Singapore with Pokémon Go tie-in](https://www.pocketgamer.biz/interactive-pokemon-experiences-coming-to-singapore-with-pokemon-go-tie-in/) — August 12, 2026 · PocketGamer.biz
+22. ["Your first title's purpose is to fail" says Khosouf Studio CEO Ahmad Al-Natsheh](https://www.pocketgamer.biz/your-first-titles-purpose-is-to-fail-says-khosouf-studio-ceo-ahmad-al-natsheh/) — August 12, 2026 · PocketGamer.biz
+23. [Last tickets available for this month's Mobile Games Awards 2026](https://www.pocketgamer.biz/last-tickets-available-for-this-months-mobile-games-awards-2026/) — August 12, 2026 · PocketGamer.biz
+24. [Roblox and Digital Schoolhouse partner to bring game development into UK classrooms](https://www.pocketgamer.biz/roblox-and-digital-schoolhouse-bring-game-development-into-uk-classrooms/) — August 12, 2026 · PocketGamer.biz
+25. [Venmo becomes payment option on Google Play](https://www.pocketgamer.biz/venmo-becomes-payment-option-on-google-play/) — August 11, 2026 · PocketGamer.biz
+26. [Marmalade Game Studio records $17.1m in revenue as EBITDA more than doubles](https://www.pocketgamer.biz/marmalade-game-studio-reports-171m-fy25-revenue-as-ebitda-more-than-doubles/) — August 11, 2026 · PocketGamer.biz
+27. [MTG unveils Playamp as new brand for midcore games division](https://www.pocketgamer.biz/mtg-unveils-playamp-as-new-brand-for-midcore-games-division/) — August 11, 2026 · PocketGamer.biz
+28. [Copa Fantasy finalising $750,000 seed round to accelerate growth](https://www.pocketgamer.biz/copa-fantasy-is-finalising-a-750000-seed-round-to-accelerate-growth/) — August 10, 2026 · PocketGamer.biz
+29. [German trade body calls for stronger political support for Europe's games industry](https://www.pocketgamer.biz/gamescom-2026-calls-for-stronger-political-support-for-germanys-games-industry/) — August 10, 2026 · PocketGamer.biz
