@@ -1,4 +1,4 @@
-# 🎮 게임 산업 브리핑 — 2026-08-13 10:56 KST
+# 🎮 게임 산업 브리핑 — 2026-08-14 10:54 KST
 > 29건 수집 · 검증 통과
 
 ## 📊 소스별 건수
@@ -24,13 +24,13 @@ Naavik: 10건 · PocketGamer.biz: 10건 · SensorTower: 9건
 17. [30 Years of Gaming at LEGO](https://naavik.co/digest/30-years-of-gaming-at-lego/) — June 21, 2026 · Naavik
 18. [The Microdrama Volume vs. Value Paradox](https://naavik.co/digest/the-microdrama-volume-vs-value-paradox/) — June 14, 2026 · Naavik
 19. [Embracer Splits Again](https://naavik.co/digest/embracer-splits-again/) — June 7, 2026 · Naavik
-20. [SciPlay cuts 20 jobs at its 300-person Israeli games hub](https://www.pocketgamer.biz/sciplay-cuts-20-jobs-at-its-300-person-israeli-games-hub/) — August 12, 2026 · PocketGamer.biz
-21. [Interactive Pokémon experiences coming to Singapore with Pokémon Go tie-in](https://www.pocketgamer.biz/interactive-pokemon-experiences-coming-to-singapore-with-pokemon-go-tie-in/) — August 12, 2026 · PocketGamer.biz
-22. ["Your first title's purpose is to fail" says Khosouf Studio CEO Ahmad Al-Natsheh](https://www.pocketgamer.biz/your-first-titles-purpose-is-to-fail-says-khosouf-studio-ceo-ahmad-al-natsheh/) — August 12, 2026 · PocketGamer.biz
-23. [Last tickets available for this month's Mobile Games Awards 2026](https://www.pocketgamer.biz/last-tickets-available-for-this-months-mobile-games-awards-2026/) — August 12, 2026 · PocketGamer.biz
-24. [Roblox and Digital Schoolhouse partner to bring game development into UK classrooms](https://www.pocketgamer.biz/roblox-and-digital-schoolhouse-bring-game-development-into-uk-classrooms/) — August 12, 2026 · PocketGamer.biz
-25. [Venmo becomes payment option on Google Play](https://www.pocketgamer.biz/venmo-becomes-payment-option-on-google-play/) — August 11, 2026 · PocketGamer.biz
-26. [Marmalade Game Studio records $17.1m in revenue as EBITDA more than doubles](https://www.pocketgamer.biz/marmalade-game-studio-reports-171m-fy25-revenue-as-ebitda-more-than-doubles/) — August 11, 2026 · PocketGamer.biz
-27. [MTG unveils Playamp as new brand for midcore games division](https://www.pocketgamer.biz/mtg-unveils-playamp-as-new-brand-for-midcore-games-division/) — August 11, 2026 · PocketGamer.biz
-28. [Copa Fantasy finalising $750,000 seed round to accelerate growth](https://www.pocketgamer.biz/copa-fantasy-is-finalising-a-750000-seed-round-to-accelerate-growth/) — August 10, 2026 · PocketGamer.biz
-29. [German trade body calls for stronger political support for Europe's games industry](https://www.pocketgamer.biz/gamescom-2026-calls-for-stronger-political-support-for-germanys-games-industry/) — August 10, 2026 · PocketGamer.biz
+20. [IPNation and Influence Media launch MENA music and entertainment platform targeting $100m investment](https://www.pocketgamer.biz/ipnation-and-influence-media-launch-mena-music-and-entertainment-platform-targeting-100m-investment/) — August 13, 2026 · PocketGamer.biz
+21. [CodeDev Group launches Full Spectrum Interactive to develop small-to-double-A games](https://www.pocketgamer.biz/codedev-group-launches-full-spectrum-interactive-to-develop-small-to-double-a-games/) — August 13, 2026 · PocketGamer.biz
+22. [Türkiye studio Rotatelab secures seed investment from Arcadia Gaming Partners and Laton Ventures](https://www.pocketgamer.biz/trkiye-studio-rotatelab-secures-investment-from-arcadia-and-laton/) — August 13, 2026 · PocketGamer.biz
+23. [Pokémon Go revenue rockets to a four-year high of $141.5m during anniversary month](https://www.pocketgamer.biz/pokmon-go-revenue-rockets-to-a-four-year-high-of-1415m-during-anniversary-month/) — August 12, 2026 · PocketGamer.biz
+24. [ByteBrew launches Shift to bring real-time app intelligence into AI workflows](https://www.pocketgamer.biz/bytebrew-launches-shift-to-bring-real-time-app-intelligence-into-ai-workflows/) — August 12, 2026 · PocketGamer.biz
+25. [Tamatem CEO: “Never build something that you cannot launch in two to three months”](https://www.pocketgamer.biz/never-build-something-that-you-cannot-launch-in-two-to-three-months-says-tamatem-ceo-hussam-hammo/) — August 12, 2026 · PocketGamer.biz
+26. [SciPlay cuts 20 jobs at its 300-person Israeli games hub](https://www.pocketgamer.biz/sciplay-cuts-20-jobs-at-its-300-person-israeli-games-hub/) — August 12, 2026 · PocketGamer.biz
+27. [Interactive Pokémon experiences coming to Singapore with Pokémon Go tie-in](https://www.pocketgamer.biz/interactive-pokemon-experiences-coming-to-singapore-with-pokemon-go-tie-in/) — August 12, 2026 · PocketGamer.biz
+28. ["Your first title's purpose is to fail" says Khosouf Studio CEO Ahmad Al-Natsheh](https://www.pocketgamer.biz/your-first-titles-purpose-is-to-fail-says-khosouf-studio-ceo-ahmad-al-natsheh/) — August 12, 2026 · PocketGamer.biz
+29. [Last tickets available for this month's Mobile Games Awards 2026](https://www.pocketgamer.biz/last-tickets-available-for-this-months-mobile-games-awards-2026/) — August 12, 2026 · PocketGamer.biz
