@@ -1,4 +1,4 @@
-# 🎮 게임 산업 브리핑 — 2026-08-17 10:14 KST
+# 🎮 게임 산업 브리핑 — 2026-08-18 10:11 KST
 > 29건 수집 · 검증 통과
 
 ## 📊 소스별 건수
@@ -24,13 +24,13 @@ Naavik: 10건 · PocketGamer.biz: 10건 · SensorTower: 9건
 17. [Two Underrated Mobile Development Regions You Need To Know](https://naavik.co/digest/two-underrated-mobile-development-regions-you-need-to-know/) — June 28, 2026 · Naavik
 18. [30 Years of Gaming at LEGO](https://naavik.co/digest/30-years-of-gaming-at-lego/) — June 21, 2026 · Naavik
 19. [The Microdrama Volume vs. Value Paradox](https://naavik.co/digest/the-microdrama-volume-vs-value-paradox/) — June 14, 2026 · Naavik
-20. [Netflix preparing to shut down Night School and Moonloot](https://www.pocketgamer.biz/netflix-preparing-to-shut-down-two-more-game-studios/) — August 14, 2026 · PocketGamer.biz
-21. [Testronic appoints Sonia Kerr as CEO amid executive shakeup](https://www.pocketgamer.biz/testronic-appoints-sonia-kerr-as-ceo-amid-executive-shakeup/) — August 14, 2026 · PocketGamer.biz
-22. [Mattel forms new game studio to expand Hot Wheels, UNO and others](https://www.pocketgamer.biz/mattel-forms-new-game-studio-to-expand-hot-wheels-uno-and-others/) — August 14, 2026 · PocketGamer.biz
-23. [Women in Games Europe formally established with headquarters in Spain](https://www.pocketgamer.biz/women-in-games-europe-formally-established-with-headquarters-in-spain/) — August 13, 2026 · PocketGamer.biz
-24. [Maliyo Games unveils first-ever Games from Nigeria pavilion at Gamescom 2026](https://www.pocketgamer.biz/maliyo-games-unveils-first-ever-games-from-nigeria-pavilion-at-gamescom-2026/) — August 13, 2026 · PocketGamer.biz
-25. [Gamescom dev survey puts AI and smaller teams at centre of industry change](https://www.pocketgamer.biz/gamescom-dev-survey-puts-ai-and-smaller-teams-at-centre-of-industry-change/) — August 13, 2026 · PocketGamer.biz
-26. [IPNation and Influence Media launch MENA music and entertainment platform targeting $100m investment](https://www.pocketgamer.biz/ipnation-and-influence-media-launch-mena-music-and-entertainment-platform-targeting-100m-investment/) — August 13, 2026 · PocketGamer.biz
-27. [CodeDev Group launches Full Spectrum Interactive to develop small-to-double-A games](https://www.pocketgamer.biz/codedev-group-launches-full-spectrum-interactive-to-develop-small-to-double-a-games/) — August 13, 2026 · PocketGamer.biz
-28. [Türkiye studio Rotatelab secures seed investment from Arcadia Gaming Partners and Laton Ventures](https://www.pocketgamer.biz/trkiye-studio-rotatelab-secures-investment-from-arcadia-and-laton/) — August 13, 2026 · PocketGamer.biz
-29. [Pokémon Go revenue rockets to a four-year high of $141.5m during anniversary month](https://www.pocketgamer.biz/pokmon-go-revenue-rockets-to-a-four-year-high-of-1415m-during-anniversary-month/) — August 12, 2026 · PocketGamer.biz
+20. [Max your Gamescom week with Pocket Gamer next week](https://www.pocketgamer.biz/max-your-gamescom-week-with-pocket-gamer/) — August 17, 2026 · PocketGamer.biz
+21. [The cloud gaming debate, Pokémon Go's revenue surge and Türkiye's $4bn industry | Week in Mobile Games podcast](https://www.pocketgamer.biz/the-cloud-gaming-debate-pokemon-gos-revenue-surge-and-trkiyes-4bn-industry-week-in-mobile-games-podcast/) — August 15, 2026 · PocketGamer.biz
+22. [Apple proposes 15% US link-out fee as it seeks settlement talks with Epic Games](https://www.pocketgamer.biz/apple-proposes-15-us-link-out-fee-as-it-seeks-settlement-talks-with-epic-games/) — August 14, 2026 · PocketGamer.biz
+23. [Supercell says Mo.co unlikely to be cancelled despite major changes ahead](https://www.pocketgamer.biz/supercell-says-moco-unlikely-to-be-cancelled-despite-major-changes-ahead-5401392/) — August 14, 2026 · PocketGamer.biz
+24. [Netflix preparing to shut down Night School and Moonloot](https://www.pocketgamer.biz/netflix-preparing-to-shut-down-two-more-game-studios/) — August 14, 2026 · PocketGamer.biz
+25. [Testronic appoints Sonia Kerr as CEO amid executive shakeup](https://www.pocketgamer.biz/testronic-appoints-sonia-kerr-as-ceo-amid-executive-shakeup/) — August 14, 2026 · PocketGamer.biz
+26. [Mattel forms new game studio to expand Hot Wheels, UNO and others](https://www.pocketgamer.biz/mattel-forms-new-game-studio-to-expand-hot-wheels-uno-and-others/) — August 14, 2026 · PocketGamer.biz
+27. [Women in Games Europe formally established with headquarters in Spain](https://www.pocketgamer.biz/women-in-games-europe-formally-established-with-headquarters-in-spain/) — August 13, 2026 · PocketGamer.biz
+28. [Maliyo Games unveils first-ever Games from Nigeria pavilion at Gamescom 2026](https://www.pocketgamer.biz/maliyo-games-unveils-first-ever-games-from-nigeria-pavilion-at-gamescom-2026/) — August 13, 2026 · PocketGamer.biz
+29. [Gamescom dev survey puts AI and smaller teams at centre of industry change](https://www.pocketgamer.biz/gamescom-dev-survey-puts-ai-and-smaller-teams-at-centre-of-industry-change/) — August 13, 2026 · PocketGamer.biz
