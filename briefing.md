@@ -1,4 +1,4 @@
-# 🎮 게임 산업 브리핑 — 2026-08-19 10:12 KST
+# 🎮 게임 산업 브리핑 — 2026-08-20 10:11 KST
 > 29건 수집 · 검증 통과
 
 ## 📊 소스별 건수
@@ -24,13 +24,13 @@ Naavik: 10건 · PocketGamer.biz: 10건 · SensorTower: 9건
 17. [Two Underrated Mobile Development Regions You Need To Know](https://naavik.co/digest/two-underrated-mobile-development-regions-you-need-to-know/) — June 28, 2026 · Naavik
 18. [30 Years of Gaming at LEGO](https://naavik.co/digest/30-years-of-gaming-at-lego/) — June 21, 2026 · Naavik
 19. [The Microdrama Volume vs. Value Paradox](https://naavik.co/digest/the-microdrama-volume-vs-value-paradox/) — June 14, 2026 · Naavik
-20. [Esports Nations Cup postponed to November 2027](https://www.pocketgamer.biz/esports-nations-cup-postponed-to-november-2027/) — August 18, 2026 · PocketGamer.biz
-21. [Abu Dhabi's FSRA and GCGRA to strengthen regulatory cooperation](https://www.pocketgamer.biz/abu-dhabis-fsra-and-gcgra-to-strengthen-regulatory-cooperation/) — August 17, 2026 · PocketGamer.biz
-22. [Global mobile IAP revenue reached $43.6bn, up 5.3% year-on-year](https://www.pocketgamer.biz/global-mobile-iap-revenue-reached-436bn-up-53-year-on-year/) — August 17, 2026 · PocketGamer.biz
-23. [Digimon Up player spending hits $10m in one month with hybrid monetisation model](https://www.pocketgamer.biz/digimon-up-player-spending-hits-10m-in-one-month-with-hybrid-monetisation-model/) — August 17, 2026 · PocketGamer.biz
-24. [PUBG Mobile Light to launch in 2026 with lower device requirements](https://www.pocketgamer.biz/pubg-mobile-light-to-launch-in-2026-with-lower-device-requirements/) — August 17, 2026 · PocketGamer.biz
-25. [Report: Alibaba to sell Lingxi Games in $2bn deal](https://www.pocketgamer.biz/alibaba-to-sell-lingxi-games-in-more-than-2bn-deal/) — August 17, 2026 · PocketGamer.biz
-26. [Max your Gamescom week with Pocket Gamer next week](https://www.pocketgamer.biz/max-your-gamescom-week-with-pocket-gamer/) — August 17, 2026 · PocketGamer.biz
-27. [The cloud gaming debate, Pokémon Go's revenue surge and Türkiye's $4bn industry | Week in Mobile Games podcast](https://www.pocketgamer.biz/the-cloud-gaming-debate-pokemon-gos-revenue-surge-and-trkiyes-4bn-industry-week-in-mobile-games-podcast/) — August 15, 2026 · PocketGamer.biz
-28. [Apple proposes 15% US link-out fee as it seeks settlement talks with Epic Games](https://www.pocketgamer.biz/apple-proposes-15-us-link-out-fee-as-it-seeks-settlement-talks-with-epic-games/) — August 14, 2026 · PocketGamer.biz
-29. [Supercell says Mo.co unlikely to be cancelled despite major changes ahead](https://www.pocketgamer.biz/supercell-says-moco-unlikely-to-be-cancelled-despite-major-changes-ahead-5401392/) — August 14, 2026 · PocketGamer.biz
+20. [Konami to shut down Apple Arcade game Grimoire of Souls](https://www.pocketgamer.biz/konami-to-shut-down-apple-arcade-game-grimoire-of-souls/) — August 19, 2026 · PocketGamer.biz
+21. [Clash Royale research finds 85% of rage quitters enjoy gaming more after returning](https://www.pocketgamer.biz/clash-royale-research-finds-85-of-rage-quitters-enjoy-gaming-more-after-returning/) — August 19, 2026 · PocketGamer.biz
+22. [Apple to change app tracking consent rules in EU](https://www.pocketgamer.biz/apple-to-change-app-tracking-consent-rules-in-eu/) — August 18, 2026 · PocketGamer.biz
+23. [US Senate to investigate Roblox over child safety concerns](https://www.pocketgamer.biz/us-senate-to-investigate-roblox-over-child-safety-concerns/) — August 18, 2026 · PocketGamer.biz
+24. [Report: 50% of game developers cite job insecurity as AI productivity grows](https://www.pocketgamer.biz/report-50-of-game-developers-cite-job-insecurity-despite-ai-productivity-gains/) — August 18, 2026 · PocketGamer.biz
+25. [Esports Nations Cup postponed to November 2027](https://www.pocketgamer.biz/esports-nations-cup-postponed-to-november-2027/) — August 18, 2026 · PocketGamer.biz
+26. [Abu Dhabi's FSRA and GCGRA to strengthen regulatory cooperation](https://www.pocketgamer.biz/abu-dhabis-fsra-and-gcgra-to-strengthen-regulatory-cooperation/) — August 17, 2026 · PocketGamer.biz
+27. [Global mobile IAP revenue reached $43.6bn, up 5.3% year-on-year](https://www.pocketgamer.biz/global-mobile-iap-revenue-reached-436bn-up-53-year-on-year/) — August 17, 2026 · PocketGamer.biz
+28. [Digimon Up player spending hits $10m in one month with hybrid monetisation model](https://www.pocketgamer.biz/digimon-up-player-spending-hits-10m-in-one-month-with-hybrid-monetisation-model/) — August 17, 2026 · PocketGamer.biz
+29. [PUBG Mobile Light to launch in 2026 with lower device requirements](https://www.pocketgamer.biz/pubg-mobile-light-to-launch-in-2026-with-lower-device-requirements/) — August 17, 2026 · PocketGamer.biz
