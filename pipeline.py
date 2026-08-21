@@ -17,6 +17,7 @@ import collect as collector
 import logconf
 import notify as notifier
 import state as state
+import steam_metrics as steam
 import validate as validator
 
 log = logging.getLogger(__name__)
@@ -58,7 +59,9 @@ def run(inject: bool = False) -> bool:
             os.makedirs(os.path.dirname(SAVE_PATH), exist_ok=True)
             with open(SAVE_PATH, "w", encoding="utf-8") as f:
                 json.dump(items, f, ensure_ascii=False, indent=2)
-            notifier.notify(items)
+            # Steam 지표는 기사 변경 감지(state)와 무관한 실시간 스냅샷이라,
+            # 브리핑을 새로 쓸 때만 같이 갱신한다 (건너뛸 땐 API 호출도 안 함).
+            notifier.notify(items, steam.collect_players())
             state.save_last_seen(items)
             log.info("상태 갱신 — 최신 글 시그니처 저장 완료 (%s)", state.STATE_PATH)
             return True

@@ -6,6 +6,7 @@
 
 import json
 import logging
+import os
 from collections import Counter
 from datetime import datetime, timedelta, timezone
 
@@ -23,6 +24,9 @@ BRIEFING_PATH = "briefing.md"
 KST = timezone(timedelta(hours=9))
 
 Item = dict[str, str]
+# steam_metrics.Metric과 같은 모양이지만, 모듈 간 결합을 늘리지 않으려고
+# import 대신 이 파일에서 다시 선언한다(Item도 같은 방식으로 다뤄왔다).
+SteamMetric = dict[str, int | str]
 
 # 왜 '키워드 자동 추출' 기능이 없나:
 #   정규식 기반 단어 빈도 집계로 시도해봤지만, "게임"/"모바일" 같은 도메인
@@ -40,8 +44,23 @@ def source_counts(items: list[Item]) -> list[tuple[str, int]]:
     return [(source, count) for source, count in counter.most_common() if source]
 
 
-def build_briefing(items: list[Item]) -> str:
-    """items → 마크다운 브리핑 문자열로 조립해서 돌려준다."""
+def build_steam_section(metrics: list[SteamMetric]) -> list[str]:
+    """Steam 동시 접속자 지표를 브리핑 줄 목록으로 조립한다.
+    기사와 성격이 다른 지표라 헤더 아래 목록으로만 붙이고 번호는 매기지 않는다."""
+    if not metrics:
+        return []
+    lines = ["## 📈 Steam 동시 접속자"]
+    for m in metrics:
+        game = m.get("game", "")
+        players = m.get("players")
+        if not game or players is None:
+            continue
+        lines.append(f"- {game} — {players:,}명")
+    return lines
+
+
+def build_briefing(items: list[Item], steam_metrics: list[SteamMetric] | None = None) -> str:
+    """items(+선택적 steam_metrics) → 마크다운 브리핑 문자열로 조립해서 돌려준다."""
     now = datetime.now(KST).strftime("%Y-%m-%d %H:%M KST")
     lines = [f"# 🎮 게임 산업 브리핑 — {now}", f"> {len(items)}건 수집 · 검증 통과", ""]
 
@@ -59,21 +78,36 @@ def build_briefing(items: list[Item]) -> str:
         source = item.get("source", "")
         lines.append(f"{i}. [{title}]({url}) — {date} · {source}")
 
+    steam_lines = build_steam_section(steam_metrics or [])
+    if steam_lines:
+        lines.append("")
+        lines += steam_lines
+
     return "\n".join(lines)
 
 
-def notify(items: list[Item]) -> None:
-    text = build_briefing(items)
+def notify(items: list[Item], steam_metrics: list[SteamMetric] | None = None) -> None:
+    text = build_briefing(items, steam_metrics)
     with open(BRIEFING_PATH, "w", encoding="utf-8") as f:
         f.write(text)
-    log.info("브리핑 저장 → %s (%d건)", BRIEFING_PATH, len(items))
+    log.info(
+        "브리핑 저장 → %s (%d건, Steam 지표 %d개)",
+        BRIEFING_PATH, len(items), len(steam_metrics or []),
+    )
 
 
 def main() -> None:
     logconf.setup()
     with open("_workspace/final.json", encoding="utf-8") as f:
         items = json.load(f)
-    notify(items)
+
+    steam_metrics: list[SteamMetric] = []
+    steam_path = "_workspace/steam-metrics.json"
+    if os.path.exists(steam_path):
+        with open(steam_path, encoding="utf-8") as f:
+            steam_metrics = json.load(f)
+
+    notify(items, steam_metrics)
 
 
 if __name__ == "__main__":

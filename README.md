@@ -8,7 +8,8 @@ GitHub Actions cron으로 돌기 때문에 **내 PC가 꺼져 있어도** 매일
 1. **수집(collect)** — SensorTower·Naavik·PocketGamer.biz 3개 소스에서 최신 글의 제목·링크·날짜를 긁는다.
 2. **검증(validate)** — 개수/필수필드/중복을 점검해 PASS·REDO 판정 (REDO면 재수집, 최대 2회).
 3. **변경 감지(state)** — 지난번 최신 글과 같으면 **브리핑을 건너뛴다** (낭비 방지).
-4. **브리핑(notify)** — 새 글이 있으면 `briefing.md`를 만든다.
+4. **지표(steam_metrics)** — 브리핑을 새로 쓸 때, Steam Web API(공식)에서 주요 게임의 실시간 동시 접속자 수도 함께 가져온다.
+5. **브리핑(notify)** — 새 글이 있으면 `briefing.md`를 만든다(기사 목록 + Steam 동시 접속자 섹션).
 
 결과물(`briefing.md`)과 상태(`_state/last_seen.json`)는 매 실행마다 repo에 커밋되어,
 **git 이력만 봐도 "언제 새 글이 올라왔는지" 추적**할 수 있다.
@@ -33,6 +34,7 @@ GitHub 저장소의 **Actions 탭 → Run workflow** 로 수동 실행도 가능
 | `collect.py` | 크롤링 + 구조화 (소스 추가는 `SOURCES` 튜플에) |
 | `validate.py` | 데이터 품질 검증 (PASS/REDO) |
 | `state.py` | 변경 감지 (최신 글 시그니처 비교) |
+| `steam_metrics.py` | Steam Web API에서 동시 접속자 수 수집 (기사와 별개 지표) |
 | `notify.py` | 브리핑 마크다운 생성 |
 | `pipeline.py` | 위 단계를 잇는 오케스트레이터 |
 

@@ -127,3 +127,80 @@ def test_notify_writes_the_briefing_file(tmp_path, monkeypatch):
 
     # Assert
     assert "> 2건 수집 · 검증 통과" in path.read_text(encoding="utf-8")
+
+
+# --- Steam 동시 접속자 섹션 ---------------------------------------------------
+# 기사({title,url,date,source})와 성격이 다른 지표 데이터라 별도 섹션으로 붙인다.
+
+
+def make_steam_metrics(count):
+    return [
+        {"appid": 100 + i, "game": f"게임{i}", "players": 1000 * (i + 1), "timestamp": "t"}
+        for i in range(count)
+    ]
+
+
+def test_build_steam_section_returns_empty_when_no_metrics():
+    # Act / Assert
+    assert notify.build_steam_section([]) == []
+
+
+def test_build_steam_section_skips_entries_missing_game_or_players():
+    """한 게임의 API 응답이 이상해도(값 누락) 나머지 지표까지 브리핑이 깨지면 안 된다."""
+    # Arrange
+    metrics = [
+        {"appid": 1, "game": "", "players": 10, "timestamp": "t"},
+        {"appid": 2, "game": "게임2", "players": None, "timestamp": "t"},
+        {"appid": 3, "game": "게임3", "players": 5, "timestamp": "t"},
+    ]
+
+    # Act
+    lines = notify.build_steam_section(metrics)
+
+    # Assert
+    assert lines == ["## 📈 Steam 동시 접속자", "- 게임3 — 5명"]
+
+
+def test_build_steam_section_lists_each_game_with_comma_formatted_players():
+    # Arrange
+    metrics = [{"appid": 730, "game": "Counter-Strike 2", "players": 412301, "timestamp": "t"}]
+
+    # Act
+    lines = notify.build_steam_section(metrics)
+
+    # Assert
+    assert "## 📈 Steam 동시 접속자" in lines
+    assert "- Counter-Strike 2 — 412,301명" in lines
+
+
+def test_build_briefing_appends_steam_section_when_metrics_given():
+    # Arrange
+    items = make_items(1)
+    metrics = make_steam_metrics(1)
+
+    # Act
+    text = notify.build_briefing(items, steam_metrics=metrics)
+
+    # Assert
+    assert "## 📈 Steam 동시 접속자" in text
+    assert "- 게임0 — 1,000명" in text
+
+
+def test_build_briefing_omits_steam_section_when_no_metrics_given():
+    # Act
+    text = notify.build_briefing(make_items(1))
+
+    # Assert
+    assert "Steam" not in text
+
+
+def test_notify_passes_steam_metrics_through_to_the_briefing(tmp_path, monkeypatch):
+    # Arrange
+    path = tmp_path / "briefing.md"
+    monkeypatch.setattr(notify, "BRIEFING_PATH", str(path))
+
+    # Act
+    notify.notify(make_items(1), make_steam_metrics(1))
+
+    # Assert
+    assert "게임0 — 1,000명" in path.read_text(encoding="utf-8")

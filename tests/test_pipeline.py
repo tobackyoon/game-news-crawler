@@ -96,3 +96,36 @@ def test_run_recovers_on_the_second_attempt_when_defects_were_injected(monkeypat
     # Assert
     assert result is True
     assert (tmp_path / "briefing.md").exists()
+
+
+def test_run_includes_steam_metrics_in_the_briefing_when_new_items_are_found(
+    monkeypatch, tmp_path
+):
+    """기사와 별개로, 브리핑을 새로 쓸 때 Steam 동시 접속자 지표도 함께 실린다."""
+    # Arrange
+    redirect_outputs(monkeypatch, tmp_path)
+    monkeypatch.setattr(pipeline.collector, "collect", lambda: make_items(5))
+    fake_metrics = [{"appid": 730, "game": "Counter-Strike 2", "players": 999, "timestamp": "t"}]
+    monkeypatch.setattr(pipeline.steam, "collect_players", lambda: fake_metrics)
+
+    # Act
+    pipeline.run()
+
+    # Assert
+    assert "Counter-Strike 2 — 999명" in (tmp_path / "briefing.md").read_text(encoding="utf-8")
+
+
+def test_run_skips_steam_collection_when_nothing_changed(monkeypatch, tmp_path):
+    """새 기사가 없어 브리핑을 건너뛸 땐 Steam API도 불필요하게 호출하지 않는다."""
+    # Arrange
+    redirect_outputs(monkeypatch, tmp_path)
+    monkeypatch.setattr(pipeline.collector, "collect", lambda: make_items(5))
+    calls = []
+    monkeypatch.setattr(pipeline.steam, "collect_players", lambda: calls.append(1) or [])
+    pipeline.run()  # 1회차: 브리핑 생성 + 상태 저장 (steam 호출 1회)
+
+    # Act — 2회차: 같은 데이터라 변경 없음
+    pipeline.run()
+
+    # Assert
+    assert len(calls) == 1
