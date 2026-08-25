@@ -1,4 +1,4 @@
-# 🎮 게임 산업 브리핑 — 2026-08-22 10:11 KST
+# 🎮 게임 산업 브리핑 — 2026-08-25 10:13 KST
 > 29건 수집 · 검증 통과
 
 ## 📊 소스별 건수
@@ -24,20 +24,20 @@ Naavik: 10건 · PocketGamer.biz: 10건 · SensorTower: 9건
 17. [Two Underrated Mobile Development Regions You Need To Know](https://naavik.co/digest/two-underrated-mobile-development-regions-you-need-to-know/) — June 28, 2026 · Naavik
 18. [30 Years of Gaming at LEGO](https://naavik.co/digest/30-years-of-gaming-at-lego/) — June 21, 2026 · Naavik
 19. [The Microdrama Volume vs. Value Paradox](https://naavik.co/digest/the-microdrama-volume-vs-value-paradox/) — June 14, 2026 · Naavik
-20. [Former Epic Games leader Ben Board joins CodeDev Group as CEO of The Performance Guys](https://www.pocketgamer.biz/former-epic-games-leader-ben-board-joins-codedev-group-as-ceo-of-the-performance-guys/) — August 21, 2026 · PocketGamer.biz
-21. [Krafton Ad Platform India officially launches to expand Neptune’s ad-tech business](https://www.pocketgamer.biz/krafton-ad-platform-india-officially-launches-to-expand-neptunes-ad-tech-business/) — August 21, 2026 · PocketGamer.biz
-22. [Twitch opens sponsorships to Affiliates globally through expanded creator programme](https://www.pocketgamer.biz/twitch-opens-sponsorships-to-affiliates-globally-through-expanded-creator-programme/) — August 21, 2026 · PocketGamer.biz
-23. [Playgama launches Wrap to turn HTML5 games into standalone websites](https://www.pocketgamer.biz/playgama-launches-wrap-to-turn-html5-games-into-standalone-websites/) — August 21, 2026 · PocketGamer.biz
-24. [Love and Deepspace hits record low with 68% spending decline after Valko controversy](https://www.pocketgamer.biz/love-and-deepspace-hits-record-low-with-68-spending-decline-after-valko-controversy/) — August 20, 2026 · PocketGamer.biz
-25. [ZBD reveals embedded financial infrastructure for games](https://www.pocketgamer.biz/zbd-reveals-embedded-financial-infrastructure-for-games/) — August 20, 2026 · PocketGamer.biz
-26. [EnJoyPay powers global game growth through payments](https://www.pocketgamer.biz/enjoypay-powers-global-game-growth-through-payments/) — August 20, 2026 · PocketGamer.biz
-27. [Subway Surfers revives Among Us collab with Cosmic Crossroads update](https://www.pocketgamer.biz/subway-surfers-revives-among-us-collab-with-cosmic-crossroads-update/) — August 20, 2026 · PocketGamer.biz
-28. [Square Enix-backed Magic Potion Games completes Series A after Imagine Island tops one million players](https://www.pocketgamer.biz/square-enix-backs-magic-potion-games-after-one-million-player-imagine-island-beta/) — August 20, 2026 · PocketGamer.biz
-29. [Coming soon to the PocketGamer.biz Podcast: Xsolla on D2C and key pre-Gamescom reveals](https://www.pocketgamer.biz/coming-soon-to-the-pocketgamerbiz-podcast-xsolla-on-d2c-and-key-pre-gamescom-reveals/) — August 20, 2026 · PocketGamer.biz
+20. [Sonic Blitz gets cancelled as servers go offline today](https://www.pocketgamer.biz/sonic-blitz-gets-cancelled-as-servers-go-offline-today/) — August 24, 2026 · PocketGamer.biz
+21. [Roblox open-sources three safety models through ROOST](https://www.pocketgamer.biz/roblox-open-sources-three-safety-models-through-roost/) — August 24, 2026 · PocketGamer.biz
+22. [EWC Paris 2026 draws 2m visits as AG.AL claims Club Championship](https://www.pocketgamer.biz/ewc-paris-2026-draws-2m-visits-as-agal-claims-club-championship/) — August 24, 2026 · PocketGamer.biz
+23. [Diva Agency and Fourth Floor launch tech-enabled games agency partnership](https://www.pocketgamer.biz/diva-agency-and-fourth-floor-launch-tech-enabled-games-agency-partnership/) — August 24, 2026 · PocketGamer.biz
+24. [Did Apple really resolve its EU dispute? | Week in Mobile Games podcast](https://www.pocketgamer.biz/did-apple-really-resolve-its-eu-dispute-week-in-mobile-games-podcast/) — August 24, 2026 · PocketGamer.biz
+25. [Makers Fund closes $250m Fund IV to back next generation of interactive entertainment](https://www.pocketgamer.biz/makers-fund-closes-250m-fund-iv-to-back-next-generation-of-interactive-entertainment/) — August 21, 2026 · PocketGamer.biz
+26. [Former Epic Games leader Ben Board joins CodeDev Group as CEO of The Performance Guys](https://www.pocketgamer.biz/former-epic-games-leader-ben-board-joins-codedev-group-as-ceo-of-the-performance-guys/) — August 21, 2026 · PocketGamer.biz
+27. [Krafton Ad Platform India officially launches to expand Neptune’s ad-tech business](https://www.pocketgamer.biz/krafton-ad-platform-india-officially-launches-to-expand-neptunes-ad-tech-business/) — August 21, 2026 · PocketGamer.biz
+28. [Twitch opens sponsorships to Affiliates globally through expanded creator programme](https://www.pocketgamer.biz/twitch-opens-sponsorships-to-affiliates-globally-through-expanded-creator-programme/) — August 21, 2026 · PocketGamer.biz
+29. [Playgama launches Wrap to turn HTML5 games into standalone websites](https://www.pocketgamer.biz/playgama-launches-wrap-to-turn-html5-games-into-standalone-websites/) — August 21, 2026 · PocketGamer.biz
 
 ## 📈 Steam 동시 접속자
-- Counter-Strike 2 — 573,875명
-- Dota 2 — 473,673명
-- PUBG: BATTLEGROUNDS — 109,085명
-- Baldur's Gate 3 — 49,376명
-- Cyberpunk 2077 — 33,087명
+- Counter-Strike 2 — 531,665명
+- Dota 2 — 440,356명
+- PUBG: BATTLEGROUNDS — 99,662명
+- Baldur's Gate 3 — 51,175명
+- Cyberpunk 2077 — 32,245명
