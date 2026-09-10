@@ -80,6 +80,11 @@ class FakeResponse:
         self.text = text
         self.encoding = None
 
+    @property
+    def content(self):
+        """RSS 파서(collect_naavik)는 bytes를 쓴다 — text를 utf-8로 인코딩해 흉내낸다."""
+        return self.text.encode("utf-8")
+
     def raise_for_status(self):
         return None
 
@@ -143,19 +148,33 @@ def test_sensortower_parser_caps_results_at_per_source(monkeypatch):
     assert len(items) == collect.PER_SOURCE
 
 
-def naavik_entry(slug, title, date_text="July 16, 2026", datetime_attr="2026-07-16"):
-    """Naavik은 카드 wrapper가 없다 — 제목/링크/날짜가 각자 따로 나열되고
-    같은 순번(i번째 제목 ↔ i번째 time)끼리 짝지어진다. 그 구조를 그대로 흉내낸다."""
-    return f"""
-    <h3 class="wp-block-post-title">{title}</h3>
-    <a href="/digest/{slug}">Read more</a>
-    <time datetime="{datetime_attr}">{date_text}</time>
-    """
+def naavik_feed(*entries):
+    """Naavik 카테고리 RSS 피드(RSS 2.0)를 흉내낸다.
+    2026-08 목록 페이지가 페이지빌더로 바뀌어 HTML 대신 이 피드를 파싱한다.
+    entries: (slug, title, pubDate) 튜플들. pubDate는 RFC 822 형식."""
+    items = "".join(
+        f"<item><title>{title}</title>"
+        f"<link>https://naavik.co/digest/{slug}/</link>"
+        f"<pubDate>{pubdate}</pubDate></item>"
+        for slug, title, pubdate in entries
+    )
+    return f'<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel>{items}</channel></rss>'
+
+
+def serve_naavik_feeds(monkeypatch, digest_xml, weekly_xml):
+    """두 카테고리 피드에 서로 다른 XML을 물린다 (병합/정렬/중복제거 검증용)."""
+    by_url = {
+        "https://naavik.co/category/digest/feed/": digest_xml,
+        "https://naavik.co/category/weekly-digest/feed/": weekly_xml,
+    }
+    monkeypatch.setattr(
+        collect.requests, "get", lambda url, *a, **kw: FakeResponse(by_url[url])
+    )
 
 
 def test_naavik_parser_extracts_title_url_and_date(monkeypatch):
     # Arrange
-    serve(monkeypatch, naavik_entry("post-1", "제목1"))
+    serve(monkeypatch, naavik_feed(("post-1", "제목1", "Sun, 16 Aug 2026 17:30:00 +0000")))
 
     # Act
     items = collect.collect_naavik()
@@ -164,8 +183,8 @@ def test_naavik_parser_extracts_title_url_and_date(monkeypatch):
     assert items == [
         {
             "title": "제목1",
-            "url": "https://naavik.co/digest/post-1",
-            "date": "July 16, 2026",
+            "url": "https://naavik.co/digest/post-1/",
+            "date": "Aug 16, 2026",
             "source": "Naavik",
         }
     ]
@@ -174,7 +193,10 @@ def test_naavik_parser_extracts_title_url_and_date(monkeypatch):
 def test_naavik_parser_skips_entries_without_a_title(monkeypatch):
     """제목 없는 항목이 섞여 들어오면 브리핑에 빈 줄이 생긴다."""
     # Arrange
-    serve(monkeypatch, naavik_entry("post-1", "") + naavik_entry("post-2", "제목2"))
+    serve(monkeypatch, naavik_feed(
+        ("post-1", "", "Sun, 16 Aug 2026 17:30:00 +0000"),
+        ("post-2", "제목2", "Sun, 09 Aug 2026 17:30:00 +0000"),
+    ))
 
     # Act
     items = collect.collect_naavik()
@@ -186,16 +208,66 @@ def test_naavik_parser_skips_entries_without_a_title(monkeypatch):
 def test_naavik_parser_caps_results_at_per_source(monkeypatch):
     """브리핑이 한없이 길어지지 않게 소스별 상한을 둔다."""
     # Arrange
-    html = "".join(
-        naavik_entry(f"post-{i}", f"제목{i}") for i in range(collect.PER_SOURCE + 5)
-    )
-    serve(monkeypatch, html)
+    entries = [
+        (f"post-{i}", f"제목{i}", f"Sun, 01 Aug 2026 12:00:{i:02d} +0000")
+        for i in range(collect.PER_SOURCE + 5)
+    ]
+    serve(monkeypatch, naavik_feed(*entries))
 
     # Act
     items = collect.collect_naavik()
 
     # Assert
     assert len(items) == collect.PER_SOURCE
+
+
+def test_naavik_merges_both_category_feeds_newest_first(monkeypatch):
+    """구 digest와 신 weekly-digest를 합쳐 최신순으로 정렬한다.
+    state가 첫 항목을 '최신'으로 보므로, 더 최신인 weekly-digest 글이 앞에 와야 한다."""
+    # Arrange
+    serve_naavik_feeds(
+        monkeypatch,
+        naavik_feed(("roblox", "Roblox", "Sun, 16 Aug 2026 17:30:00 +0000")),
+        naavik_feed(("convergence", "Convergence", "Sun, 30 Aug 2026 11:00:00 +0000")),
+    )
+
+    # Act
+    items = collect.collect_naavik()
+
+    # Assert
+    assert [i["title"] for i in items] == ["Convergence", "Roblox"]
+
+
+def test_naavik_deduplicates_urls_across_feeds(monkeypatch):
+    """같은 글이 두 카테고리에 걸쳐 있어도 한 번만 담는다 (validate REDO 재발 방지)."""
+    # Arrange
+    same = ("dup", "Dup", "Sun, 16 Aug 2026 17:30:00 +0000")
+    serve_naavik_feeds(monkeypatch, naavik_feed(same), naavik_feed(same))
+
+    # Act
+    items = collect.collect_naavik()
+
+    # Assert
+    assert len(items) == 1
+
+
+def test_naavik_survives_one_dead_feed(monkeypatch):
+    """카테고리가 재편돼 한 피드가 죽어도 나머지 피드는 계속 수집한다."""
+    # Arrange
+    good = naavik_feed(("post-1", "제목1", "Sun, 16 Aug 2026 17:30:00 +0000"))
+
+    def fake_get(url, *a, **kw):
+        if "weekly-digest" in url:
+            raise collect.requests.RequestException("boom")
+        return FakeResponse(good)
+
+    monkeypatch.setattr(collect.requests, "get", fake_get)
+
+    # Act
+    items = collect.collect_naavik()
+
+    # Assert
+    assert [i["title"] for i in items] == ["제목1"]
 
 
 def pocketgamer_card(

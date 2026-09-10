@@ -5,7 +5,7 @@
 #
 # 대상 (robots 허용 + 서버렌더링 확인됨):
 #   - SensorTower 블로그: https://sensortower.com/ko/blog
-#   - naavik 사이트: https://naavik.co
+#   - Naavik 주간 다이제스트: https://naavik.co (카테고리 RSS 피드)
 #   - PocketGamer.biz 뉴스: https://www.pocketgamer.biz/news/
 #   - (참고) Newzoo는 Cloudflare 봇 차단으로 자동 크롤링 불가 → 함수만 보존, SOURCES에서 제외
 #   - (참고) GameDeveloper.com은 robots.txt가 ClaudeBot을 명시적으로 차단 → 후보에서 기각
@@ -16,7 +16,10 @@ import json
 import logging
 import os
 import sys
+import xml.etree.ElementTree as ET
 from collections.abc import Callable
+from datetime import datetime, timezone
+from email.utils import parsedate_to_datetime
 from urllib.parse import urljoin
 
 import requests
@@ -35,6 +38,19 @@ SENSORTOWER_BASE = "https://sensortower.com"
 NAAVIK_BASE = "https://naavik.co"
 NEWZOO_BASE = "https://newzoo.com"
 POCKETGAMER_BASE = "https://www.pocketgamer.biz"
+
+# Naavik이 2026-08 /digest/ 목록을 페이지빌더(Kadence)로 갈아엎어 HTML 스크레이핑이
+# 불가능해졌다 — 제목마다 <a>가 없어 제목-링크 짝을 못 맞추고, 여러 제목이 같은
+# URL로 뭉개져 validate가 '중복'으로 매일 REDO를 낸다. 대신 워드프레스가 그대로
+# 노출하는 카테고리 RSS를 쓴다 (구조 고정, title/link/pubDate가 항목마다 명확).
+#   - digest(구): 2026-08-16 이후 갱신 정지
+#   - weekly-digest(신): 2026-08-23 시작
+# 둘을 합쳐야 최신 다이제스트가 빠지지 않는다.
+NAAVIK_FEEDS = (
+    f"{NAAVIK_BASE}/category/digest/feed/",
+    f"{NAAVIK_BASE}/category/weekly-digest/feed/",
+)
+_OLDEST = datetime.min.replace(tzinfo=timezone.utc)  # 파싱 실패 항목을 정렬상 맨 뒤로
 
 Item = dict[str, str]
 Source = Callable[[], list[Item]]
@@ -62,41 +78,52 @@ def collect_sensortower() -> list[Item]:
     return items[:PER_SOURCE]
 
 
-def _is_digest_link(href: str | None) -> bool:
-    """목록/카테고리 페이지 자체가 아니라 개별 digest 글 링크인지."""
-    if not href or "/digest/" not in href:
-        return False
-    excluded = (f"{NAAVIK_BASE}/digest", f"{NAAVIK_BASE}/category/digest")
-    return href.rstrip("/") not in excluded
+def _parse_pubdate(pubdate: str) -> datetime | None:
+    """RFC 822 pubDate('Sun, 16 Aug 2026 17:30:00 +0000') → datetime.
+    못 읽으면 None. 타임존이 없으면 UTC로 간주해 비교 가능하게 맞춘다."""
+    try:
+        dt = parsedate_to_datetime(pubdate)
+    except (TypeError, ValueError):
+        return None
+    if dt is None:
+        return None
+    return dt if dt.tzinfo else dt.replace(tzinfo=timezone.utc)
 
 
 def collect_naavik() -> list[Item]:
-    """Naavik digest 목록에서 {title, url, date} 추출.
-    주의: 카드 wrapper가 없어 title/time을 각각 따로 뽑아 순번으로 짝짓는다.
-    페이지 구조가 바뀌어 개수가 어긋나면 경고만 남기고 넘어간다(조용한 실패 방지)."""
-    r = requests.get(f"{NAAVIK_BASE}/digest/", headers=HEADERS, timeout=TIMEOUT)
-    r.raise_for_status()
-    r.encoding = "utf-8"
-    soup = BeautifulSoup(r.text, "html.parser")
+    """Naavik 다이제스트를 카테고리 RSS 피드에서 {title, url, date} 추출.
 
-    titles = soup.select("h1.entry-title, h3.wp-block-post-title")
-    times = soup.select("time[datetime]")
-    if len(titles) != len(times):
-        log.warning(
-            "Naavik 제목(%d개)과 time(%d개) 개수가 다름 → 순번 매칭이 밀렸을 수 있음",
-            len(titles), len(times),
-        )
+    여러 피드(digest 구/신)를 합쳐 url 기준 중복 제거 후 최신순으로 자른다.
+    한 피드가 죽어도(카테고리 재편 등) 경고만 남기고 나머지는 계속 쓴다 —
+    collect.safe()의 소스 격리와 같은 원칙을 피드 단위로도 적용한다."""
+    dated: list[tuple[datetime, Item]] = []
+    seen: set[str] = set()
 
-    items: list[Item] = []
-    for i, title_el in enumerate(titles):
-        title = title_el.get_text(strip=True)
-        a = title_el.find("a") or title_el.find_next("a", href=_is_digest_link)
-        date = times[i].get_text(strip=True) if i < len(times) else ""
-        url = urljoin(NAAVIK_BASE, a["href"]) if (a and a.has_attr("href")) else ""
-        if not title:
+    for feed_url in NAAVIK_FEEDS:
+        try:
+            r = requests.get(feed_url, headers=HEADERS, timeout=TIMEOUT)
+            r.raise_for_status()
+            # bytes로 파싱한다 — str에 <?xml ... encoding?> 선언이 있으면 ET가 거부한다.
+            root = ET.fromstring(r.content)
+        except (requests.RequestException, ET.ParseError) as e:
+            log.warning("Naavik 피드 건너뜀: %s (%s: %s)", feed_url, type(e).__name__, e)
             continue
-        items.append({"title": title, "url": url, "date": date, "source": "Naavik"})
-    return items[:PER_SOURCE]
+
+        for entry in root.findall(".//channel/item"):
+            title = (entry.findtext("title") or "").strip()
+            url = (entry.findtext("link") or "").strip()
+            pub = (entry.findtext("pubDate") or "").strip()
+            if not title or not url or url in seen:
+                continue
+            seen.add(url)
+            when = _parse_pubdate(pub)
+            date = when.strftime("%b %d, %Y") if when else pub
+            dated.append((when or _OLDEST, {
+                "title": title, "url": url, "date": date, "source": "Naavik",
+            }))
+
+    dated.sort(key=lambda pair: pair[0], reverse=True)  # 최신순 — state가 첫 항목을 최신으로 본다
+    return [item for _, item in dated[:PER_SOURCE]]
 
 
 def _is_pgc_promo_category(category: str) -> bool:
