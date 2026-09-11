@@ -1,4 +1,4 @@
-# 🎮 게임 산업 브리핑 — 2026-09-10 13:50 KST
+# 🎮 게임 산업 브리핑 — 2026-09-11 12:16 KST
 > 29건 수집 · 검증 통과
 
 ## 📊 소스별 건수
@@ -24,20 +24,20 @@ Naavik: 10건 · PocketGamer.biz: 10건 · SensorTower: 9건
 17. [The AI Boom Is Repricing Gaming Hardware and Rewiring the Console Business](https://naavik.co/digest/the-ai-boom-is-repricing-gaming-hardware-and-rewiring-the-console-business/) — Jul 12, 2026 · Naavik
 18. [The Next Wave of Creator-Led Growth](https://naavik.co/digest/the-next-wave-of-creator-led-growth/) — Jul 05, 2026 · Naavik
 19. [Two Underrated Mobile Development Regions You Need To Know](https://naavik.co/digest/two-underrated-mobile-development-regions-you-need-to-know/) — Jun 28, 2026 · Naavik
-20. [GenAI firm Tripo raises $445m two months after Series A3 round](https://www.pocketgamer.biz/genai-firm-tripo-raises-445m-two-months-after-series-a3-round/) — September 9, 2026 · PocketGamer.biz
-21. [Saudi Esports Federation launches Level Up programme for Academy graduates](https://www.pocketgamer.biz/saudi-esports-federation-launches-level-up-programme-for-academy-graduates/) — September 9, 2026 · PocketGamer.biz
-22. [White House removes Tetris-inspired Arcade game after copyright warning](https://www.pocketgamer.biz/white-house-removes-tetris-inspired-game-after-copyright-warning/) — September 9, 2026 · PocketGamer.biz
-23. [PixelCon brings international mobile games experts to Bratislava for a free conference](https://www.pocketgamer.biz/pixelcon-brings-international-mobile-games-experts-to-bratislava-for-a-free-conference/) — September 9, 2026 · PocketGamer.biz
-24. [Pokémon Go is the world's top grossing mobile game in first week of September](https://www.pocketgamer.biz/pokemon-go-dominates-early-september-revenue-charts-as-honor-of-kings-falls-into-seventh/) — September 8, 2026 · PocketGamer.biz
-25. [Legend of Zelda Direct reveals movie title and Ocarina of Time mobile support](https://www.pocketgamer.biz/zelda-direct-reveals-movie-title-and-ocarina-of-time-mobile-support/) — September 8, 2026 · PocketGamer.biz
-26. [Australia moves to give users control over social media feeds](https://www.pocketgamer.biz/australia-moves-to-give-users-control-over-social-media-feeds/) — September 8, 2026 · PocketGamer.biz
-27. [Cygames launches new brand CygamesEdge with first game releasing in November](https://www.pocketgamer.biz/cygames-launches-new-brand-cygamesedge-with-first-game-releasing-in-november/) — September 8, 2026 · PocketGamer.biz
-28. [Roblox launches Arabic social channels with Roblox Arabia](https://www.pocketgamer.biz/roblox-launches-arabic-social-channels-with-roblox-arabia/) — September 8, 2026 · PocketGamer.biz
-29. [ARM unveils AI-native mobile platform for agentic AI and graphics](https://www.pocketgamer.biz/arm-unveils-ai-native-mobile-platform-for-agentic-ai-and-graphics/) — September 8, 2026 · PocketGamer.biz
+20. [Pocket Worlds acquires Hotel Hideaway and expands social-world portfolio to 80m users](https://www.pocketgamer.biz/pocket-worlds-acquires-hotel-hideaway-and-expands-social-world-portfolio-to-80m-users/) — September 10, 2026 · PocketGamer.biz
+21. [Unity launches official Claude Code plugin with 29 built-in engine skills](https://www.pocketgamer.biz/unity-launches-official-claude-code-plugin-with-29-built-in-engine-skills/) — September 10, 2026 · PocketGamer.biz
+22. [Blizzard developers ratify first union contract with Microsoft covering AI, layoffs and remote work](https://www.pocketgamer.biz/blizzard-developers-ratify-first-union-contract-with-microsoft-covering-ai-layoffs-and-remote-work/) — September 10, 2026 · PocketGamer.biz
+23. [Apple's Surprise and Shine: A foldable iPhone, a 40% GPU jump and one Monster Hunter](https://www.pocketgamer.biz/apples-surprise-and-shine-a-foldable-iphone-a-40-gpu-jump-and-one-monster-hunter/) — September 9, 2026 · PocketGamer.biz
+24. [Keywords forms new global creative agency FreeAnimal](https://www.pocketgamer.biz/keywords-forms-new-global-creative-agency-freeanimal/) — September 9, 2026 · PocketGamer.biz
+25. [Apple’s new EU App Store terms face backlash from game and app developer groups](https://www.pocketgamer.biz/apples-new-eu-app-store-terms-face-backlash-from-game-developer-groups/) — September 9, 2026 · PocketGamer.biz
+26. [GenAI firm Tripo raises $445m two months after Series A3 round](https://www.pocketgamer.biz/genai-firm-tripo-raises-445m-two-months-after-series-a3-round/) — September 9, 2026 · PocketGamer.biz
+27. [Saudi Esports Federation launches Level Up programme for Academy graduates](https://www.pocketgamer.biz/saudi-esports-federation-launches-level-up-programme-for-academy-graduates/) — September 9, 2026 · PocketGamer.biz
+28. [White House removes Tetris-inspired Arcade game after copyright warning](https://www.pocketgamer.biz/white-house-removes-tetris-inspired-game-after-copyright-warning/) — September 9, 2026 · PocketGamer.biz
+29. [PixelCon brings international mobile games experts to Bratislava for a free conference](https://www.pocketgamer.biz/pixelcon-brings-international-mobile-games-experts-to-bratislava-for-a-free-conference/) — September 9, 2026 · PocketGamer.biz
 
 ## 📈 Steam 동시 접속자
-- Counter-Strike 2 — 475,145명
-- Dota 2 — 358,041명
-- PUBG: BATTLEGROUNDS — 21,347명
-- Baldur's Gate 3 — 31,174명
-- Cyberpunk 2077 — 23,339명
+- Counter-Strike 2 — 500,350명
+- Dota 2 — 360,169명
+- PUBG: BATTLEGROUNDS — 184,390명
+- Baldur's Gate 3 — 39,698명
+- Cyberpunk 2077 — 24,508명
