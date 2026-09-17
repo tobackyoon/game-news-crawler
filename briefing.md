@@ -1,4 +1,4 @@
-# 🎮 게임 산업 브리핑 — 2026-09-16 12:36 KST
+# 🎮 게임 산업 브리핑 — 2026-09-17 12:41 KST
 > 29건 수집 · 검증 통과
 
 ## 📊 소스별 건수
@@ -24,20 +24,20 @@ Naavik: 10건 · PocketGamer.biz: 10건 · SensorTower: 9건
 17. [The Memo That Undid 10 Years of XBOX Strategy](https://naavik.co/digest/the-memo-that-undid-10-years-of-xbox-strategy/) — Jul 19, 2026 · Naavik
 18. [The AI Boom Is Repricing Gaming Hardware and Rewiring the Console Business](https://naavik.co/digest/the-ai-boom-is-repricing-gaming-hardware-and-rewiring-the-console-business/) — Jul 12, 2026 · Naavik
 19. [The Next Wave of Creator-Led Growth](https://naavik.co/digest/the-next-wave-of-creator-led-growth/) — Jul 05, 2026 · Naavik
-20. [App Store submissions open for Apple’s latest OS releases](https://www.pocketgamer.biz/app-store-submissions-open-for-apples-latest-os-releases/) — September 15, 2026 · PocketGamer.biz
-21. [Roblox expands analytics tools with real-time alerts and player targeting](https://www.pocketgamer.biz/roblox-expands-analytics-tools-with-real-time-alerts-and-player-targeting/) — September 15, 2026 · PocketGamer.biz
-22. [Roblox unveils new play, creation and monetisation tools at RDC 2026](https://www.pocketgamer.biz/roblox-unveils-new-play-creation-and-monetisation-tools-at-rdc-2026/) — September 14, 2026 · PocketGamer.biz
-23. [Monster Hunter Now makes $336.9m in three years on mobile](https://www.pocketgamer.biz/monster-hunter-now-makes-3369m-in-three-years-on-mobile/) — September 14, 2026 · PocketGamer.biz
-24. [Diablo animated series in development at Netflix](https://www.pocketgamer.biz/diablo-animated-series-in-development-at-netflix/) — September 14, 2026 · PocketGamer.biz
-25. [Report: 35% of game founders have decided against hiring because AI can do the work](https://www.pocketgamer.biz/report-35-of-game-founders-have-skipped-hiring-because-of-ai/) — September 14, 2026 · PocketGamer.biz
-26. [Roblox reveals 2026 Innovation Awards winners](https://www.pocketgamer.biz/roblox-reveals-2026-innovation-awards-winners/) — September 14, 2026 · PocketGamer.biz
-27. [Apple's $2,000+ iPhone Duo and the backlash against new EU App Store rules | Week in Mobile Games podcast](https://www.pocketgamer.biz/apples-2000-iphone-duo-and-the-backlash-against-new-eu-app-store-rules-week-in-mobile-games-podcast/) — September 12, 2026 · PocketGamer.biz
-28. [Andrew Stalbow-led investor group completes Bath City FC acquisition](https://www.pocketgamer.biz/seriously-co-founder-andrew-stalbow-completes-bath-city-fc-acquisition-as-6m-investment-raised/) — September 11, 2026 · PocketGamer.biz
-29. [California enacts new social media curbs for children under 16](https://www.pocketgamer.biz/california-enacts-new-social-media-curbs-for-children-under-16/) — September 11, 2026 · PocketGamer.biz
+20. [Cyprus ranks third globally for mobile game downloads](https://www.pocketgamer.biz/cyprus-ranks-third-globally-for-mobile-game-downloads/) — September 16, 2026 · PocketGamer.biz
+21. [STAN sees 15x growth in StanShop monthly buyers as repeat purchases hit 70%](https://www.pocketgamer.biz/stan-sees-15x-growth-in-stanshop-monthly-buyers-as-repeat-purchases-hit-70/) — September 16, 2026 · PocketGamer.biz
+22. [Sega expands transmedia strategy with Netflix Crazy Taxi film](https://www.pocketgamer.biz/sega-expands-transmedia-strategy-with-netflix-crazy-taxi-film/) — September 15, 2026 · PocketGamer.biz
+23. [Arcustin Games raises $500,000 in pre-seed funding](https://www.pocketgamer.biz/arcustin-games-raises-500000-in-pre-seed-funding/) — September 15, 2026 · PocketGamer.biz
+24. [Level-5 CEO apologises after AI use in recent game trailers](https://www.pocketgamer.biz/level-5-ceo-apologises-after-ai-use-in-recent-game-reveals/) — September 15, 2026 · PocketGamer.biz
+25. [App Store submissions open for Apple’s latest OS releases](https://www.pocketgamer.biz/app-store-submissions-open-for-apples-latest-os-releases/) — September 15, 2026 · PocketGamer.biz
+26. [Roblox expands analytics tools with real-time alerts and player targeting](https://www.pocketgamer.biz/roblox-expands-analytics-tools-with-real-time-alerts-and-player-targeting/) — September 15, 2026 · PocketGamer.biz
+27. [Roblox unveils new play, creation and monetisation tools at RDC 2026](https://www.pocketgamer.biz/roblox-unveils-new-play-creation-and-monetisation-tools-at-rdc-2026/) — September 14, 2026 · PocketGamer.biz
+28. [Monster Hunter Now makes $336.9m in three years on mobile](https://www.pocketgamer.biz/monster-hunter-now-makes-3369m-in-three-years-on-mobile/) — September 14, 2026 · PocketGamer.biz
+29. [Diablo animated series in development at Netflix](https://www.pocketgamer.biz/diablo-animated-series-in-development-at-netflix/) — September 14, 2026 · PocketGamer.biz
 
 ## 📈 Steam 동시 접속자
-- Counter-Strike 2 — 437,933명
-- Dota 2 — 355,497명
-- PUBG: BATTLEGROUNDS — 160,556명
-- Baldur's Gate 3 — 37,602명
-- Cyberpunk 2077 — 22,914명
+- Counter-Strike 2 — 482,873명
+- Dota 2 — 367,823명
+- PUBG: BATTLEGROUNDS — 169,227명
+- Baldur's Gate 3 — 36,871명
+- Cyberpunk 2077 — 22,625명
