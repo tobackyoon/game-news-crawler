@@ -1,4 +1,4 @@
-# 🎮 게임 산업 브리핑 — 2026-09-17 12:41 KST
+# 🎮 게임 산업 브리핑 — 2026-09-18 12:27 KST
 > 29건 수집 · 검증 통과
 
 ## 📊 소스별 건수
@@ -24,20 +24,20 @@ Naavik: 10건 · PocketGamer.biz: 10건 · SensorTower: 9건
 17. [The Memo That Undid 10 Years of XBOX Strategy](https://naavik.co/digest/the-memo-that-undid-10-years-of-xbox-strategy/) — Jul 19, 2026 · Naavik
 18. [The AI Boom Is Repricing Gaming Hardware and Rewiring the Console Business](https://naavik.co/digest/the-ai-boom-is-repricing-gaming-hardware-and-rewiring-the-console-business/) — Jul 12, 2026 · Naavik
 19. [The Next Wave of Creator-Led Growth](https://naavik.co/digest/the-next-wave-of-creator-led-growth/) — Jul 05, 2026 · Naavik
-20. [Cyprus ranks third globally for mobile game downloads](https://www.pocketgamer.biz/cyprus-ranks-third-globally-for-mobile-game-downloads/) — September 16, 2026 · PocketGamer.biz
-21. [STAN sees 15x growth in StanShop monthly buyers as repeat purchases hit 70%](https://www.pocketgamer.biz/stan-sees-15x-growth-in-stanshop-monthly-buyers-as-repeat-purchases-hit-70/) — September 16, 2026 · PocketGamer.biz
-22. [Sega expands transmedia strategy with Netflix Crazy Taxi film](https://www.pocketgamer.biz/sega-expands-transmedia-strategy-with-netflix-crazy-taxi-film/) — September 15, 2026 · PocketGamer.biz
-23. [Arcustin Games raises $500,000 in pre-seed funding](https://www.pocketgamer.biz/arcustin-games-raises-500000-in-pre-seed-funding/) — September 15, 2026 · PocketGamer.biz
-24. [Level-5 CEO apologises after AI use in recent game trailers](https://www.pocketgamer.biz/level-5-ceo-apologises-after-ai-use-in-recent-game-reveals/) — September 15, 2026 · PocketGamer.biz
-25. [App Store submissions open for Apple’s latest OS releases](https://www.pocketgamer.biz/app-store-submissions-open-for-apples-latest-os-releases/) — September 15, 2026 · PocketGamer.biz
-26. [Roblox expands analytics tools with real-time alerts and player targeting](https://www.pocketgamer.biz/roblox-expands-analytics-tools-with-real-time-alerts-and-player-targeting/) — September 15, 2026 · PocketGamer.biz
-27. [Roblox unveils new play, creation and monetisation tools at RDC 2026](https://www.pocketgamer.biz/roblox-unveils-new-play-creation-and-monetisation-tools-at-rdc-2026/) — September 14, 2026 · PocketGamer.biz
-28. [Monster Hunter Now makes $336.9m in three years on mobile](https://www.pocketgamer.biz/monster-hunter-now-makes-3369m-in-three-years-on-mobile/) — September 14, 2026 · PocketGamer.biz
-29. [Diablo animated series in development at Netflix](https://www.pocketgamer.biz/diablo-animated-series-in-development-at-netflix/) — September 14, 2026 · PocketGamer.biz
+20. [Monster Hunter Outlanders unveils more monsters as 5m pre-registrations achieved](https://www.pocketgamer.biz/monster-hunter-outlanders-unveils-more-monsters-as-5m-pre-registrations-achieved/) — September 17, 2026 · PocketGamer.biz
+21. [Jonathan Knight takes expanded chief games officer role at The New York Times](https://www.pocketgamer.biz/jonathan-knight-takes-expanded-chief-games-officer-role-at-the-new-york-times/) — September 17, 2026 · PocketGamer.biz
+22. [The EU Kids Act could restrict social media, AI chatbots and games for young people](https://www.pocketgamer.biz/the-eu-kids-act-could-restrict-social-media-ai-chatbots-and-games-for-young-people/) — September 17, 2026 · PocketGamer.biz
+23. [Abu Dhabi University partners with Pearson on video game design degree](https://www.pocketgamer.biz/abu-dhabi-university-partners-with-pearson-on-video-game-design-degree/) — September 17, 2026 · PocketGamer.biz
+24. [Black Salt Games unveils new studio Team Trifold](https://www.pocketgamer.biz/black-salt-games-unveils-new-studio-team-trifold/) — September 17, 2026 · PocketGamer.biz
+25. [Competition Appeal Tribunal approves £260m Google Play settlement with UK app developers](https://www.pocketgamer.biz/google-approves-260m-settlement-with-uk-app-developers/) — September 16, 2026 · PocketGamer.biz
+26. [Piñata returns as independent creative studio after Metacore stint](https://www.pocketgamer.biz/piata-returns-as-independent-creative-studio-after-metacore-stint/) — September 16, 2026 · PocketGamer.biz
+27. [Kakao Games to acquire 39.56% of Me2on for $71.5m](https://www.pocketgamer.biz/kakao-games-to-acquire-3956-of-me2on-for-715m/) — September 16, 2026 · PocketGamer.biz
+28. [Cyprus ranks third globally for mobile game downloads](https://www.pocketgamer.biz/cyprus-ranks-third-globally-for-mobile-game-downloads/) — September 16, 2026 · PocketGamer.biz
+29. [STAN sees 15x growth in StanShop monthly buyers as repeat purchases hit 70%](https://www.pocketgamer.biz/stan-sees-15x-growth-in-stanshop-monthly-buyers-as-repeat-purchases-hit-70/) — September 16, 2026 · PocketGamer.biz
 
 ## 📈 Steam 동시 접속자
-- Counter-Strike 2 — 482,873명
-- Dota 2 — 367,823명
-- PUBG: BATTLEGROUNDS — 169,227명
-- Baldur's Gate 3 — 36,871명
-- Cyberpunk 2077 — 22,625명
+- Counter-Strike 2 — 459,970명
+- Dota 2 — 395,038명
+- PUBG: BATTLEGROUNDS — 165,082명
+- Baldur's Gate 3 — 38,056명
+- Cyberpunk 2077 — 22,542명
