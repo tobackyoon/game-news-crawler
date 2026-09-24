@@ -1,4 +1,4 @@
-# 🎮 게임 산업 브리핑 — 2026-09-23 12:34 KST
+# 🎮 게임 산업 브리핑 — 2026-09-24 12:24 KST
 > 29건 수집 · 검증 통과
 
 ## 📊 소스별 건수
@@ -24,20 +24,20 @@ Naavik: 10건 · PocketGamer.biz: 10건 · SensorTower: 9건
 17. [How Online Fandom Is Rewriting the IP Playbook](https://naavik.co/digest/how-online-fandom-is-rewriting-the-ip-playbook/) — Jul 26, 2026 · Naavik
 18. [The Memo That Undid 10 Years of XBOX Strategy](https://naavik.co/digest/the-memo-that-undid-10-years-of-xbox-strategy/) — Jul 19, 2026 · Naavik
 19. [The AI Boom Is Repricing Gaming Hardware and Rewiring the Console Business](https://naavik.co/digest/the-ai-boom-is-repricing-gaming-hardware-and-rewiring-the-console-business/) — Jul 12, 2026 · Naavik
-20. [Xbox plans hundreds more layoffs and studio consolidation](https://www.pocketgamer.biz/xbox-plans-hundreds-more-layoffs-and-studio-consolidation/) — September 22, 2026 · PocketGamer.biz
-21. [Sanrio to launch first Sanrio Games mobile title in January 2027](https://www.pocketgamer.biz/sanrio-to-launch-first-sanrio-games-mobile-title-in-january-2027/) — September 22, 2026 · PocketGamer.biz
-22. [Lilith Games finds a new hit as Clash of Critters makes $45.6m in four months](https://www.pocketgamer.biz/lilith-games-finds-a-new-hit-as-clash-of-critters-makes-456m-in-four-months/) — September 21, 2026 · PocketGamer.biz
-23. [AppLovin grows 60% Y/Y rounding to $20bn in annual platform ad spend](https://www.pocketgamer.biz/applovin-grows-60-yy-rounding-to-20bn-in-annual-platform-ad-spend/) — September 21, 2026 · PocketGamer.biz
-24. [Zynga Ads+ brings 100 mobile games to advertising offering](https://www.pocketgamer.biz/zynga-ads-brings-100-mobile-games-to-advertising-offering/) — September 21, 2026 · PocketGamer.biz
-25. [Nex raises over $150m to take Nex Playground global](https://www.pocketgamer.biz/nex-raises-over-150m-to-take-nex-playground-global/) — September 21, 2026 · PocketGamer.biz
-26. [Playing for the Planet reveals 2026 Green Games Awards winners across sustainability categories](https://www.pocketgamer.biz/playing-for-the-planet-reveals-2026-green-games-awards-winners-across-sustainability-categories/) — September 21, 2026 · PocketGamer.biz
-27. [Brian Ward asked to remain as Savvy Games Group advisor following departure](https://www.pocketgamer.biz/brian-ward-asked-to-remain-as-savvy-games-group-advisor-following-departure/) — September 21, 2026 · PocketGamer.biz
-28. [King faces potential strike in Sweden over collective agreement](https://www.pocketgamer.biz/king-faces-potential-strike-in-sweden-over-collective-agreement/) — September 18, 2026 · PocketGamer.biz
-29. [GDC welcomes four new members to its Advisory Board](https://www.pocketgamer.biz/gdc-welcomes-four-new-members-to-its-advisory-board/) — September 18, 2026 · PocketGamer.biz
+20. [No "single model" for growth, says Newzoo](https://www.pocketgamer.biz/no-single-model-for-growth-says-newzoo/) — September 23, 2026 · PocketGamer.biz
+21. [Mario Kart Tour enters final lap with Anniversary Tour ahead of shutdown](https://www.pocketgamer.biz/mario-kart-tour-enters-final-lap-with-anniversary-tour-ahead-of-shutdown/) — September 23, 2026 · PocketGamer.biz
+22. [AFK Arena brings Kaiju No. 8 characters in-game with crossover starting today](https://www.pocketgamer.biz/afk-arena-brings-kaiju-no-8-characters-in-game-with-crossover-starting-today/) — September 23, 2026 · PocketGamer.biz
+23. [Xbox to cut 268 jobs as it shakes up studio structure](https://www.pocketgamer.biz/xbox-to-cut-268-jobs-as-it-shakes-up-studio-structure/) — September 22, 2026 · PocketGamer.biz
+24. [Japan generates $10bn in mobile game revenue despite declining downloads](https://www.pocketgamer.biz/japan-generates-10bn-in-mobile-game-revenue-despite-declining-downloads/) — September 22, 2026 · PocketGamer.biz
+25. [Xbox plans hundreds more layoffs and studio consolidation](https://www.pocketgamer.biz/xbox-plans-hundreds-more-layoffs-and-studio-consolidation/) — September 22, 2026 · PocketGamer.biz
+26. [Sanrio to launch first Sanrio Games mobile title in January 2027](https://www.pocketgamer.biz/sanrio-to-launch-first-sanrio-games-mobile-title-in-january-2027/) — September 22, 2026 · PocketGamer.biz
+27. [Lilith Games finds a new hit as Clash of Critters makes $45.6m in four months](https://www.pocketgamer.biz/lilith-games-finds-a-new-hit-as-clash-of-critters-makes-456m-in-four-months/) — September 21, 2026 · PocketGamer.biz
+28. [AppLovin grows 60% Y/Y rounding to $20bn in annual platform ad spend](https://www.pocketgamer.biz/applovin-grows-60-yy-rounding-to-20bn-in-annual-platform-ad-spend/) — September 21, 2026 · PocketGamer.biz
+29. [Zynga Ads+ brings 100 mobile games to advertising offering](https://www.pocketgamer.biz/zynga-ads-brings-100-mobile-games-to-advertising-offering/) — September 21, 2026 · PocketGamer.biz
 
 ## 📈 Steam 동시 접속자
-- Counter-Strike 2 — 435,361명
-- Dota 2 — 374,231명
-- PUBG: BATTLEGROUNDS — 24,091명
-- Baldur's Gate 3 — 39,865명
-- Cyberpunk 2077 — 21,757명
+- Counter-Strike 2 — 501,092명
+- Dota 2 — 372,892명
+- PUBG: BATTLEGROUNDS — 165,554명
+- Baldur's Gate 3 — 40,628명
+- Cyberpunk 2077 — 21,858명
