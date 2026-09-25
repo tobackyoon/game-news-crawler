@@ -1,4 +1,4 @@
-# 🎮 게임 산업 브리핑 — 2026-09-24 12:24 KST
+# 🎮 게임 산업 브리핑 — 2026-09-25 12:42 KST
 > 29건 수집 · 검증 통과
 
 ## 📊 소스별 건수
@@ -24,20 +24,20 @@ Naavik: 10건 · PocketGamer.biz: 10건 · SensorTower: 9건
 17. [How Online Fandom Is Rewriting the IP Playbook](https://naavik.co/digest/how-online-fandom-is-rewriting-the-ip-playbook/) — Jul 26, 2026 · Naavik
 18. [The Memo That Undid 10 Years of XBOX Strategy](https://naavik.co/digest/the-memo-that-undid-10-years-of-xbox-strategy/) — Jul 19, 2026 · Naavik
 19. [The AI Boom Is Repricing Gaming Hardware and Rewiring the Console Business](https://naavik.co/digest/the-ai-boom-is-repricing-gaming-hardware-and-rewiring-the-console-business/) — Jul 12, 2026 · Naavik
-20. [No "single model" for growth, says Newzoo](https://www.pocketgamer.biz/no-single-model-for-growth-says-newzoo/) — September 23, 2026 · PocketGamer.biz
-21. [Mario Kart Tour enters final lap with Anniversary Tour ahead of shutdown](https://www.pocketgamer.biz/mario-kart-tour-enters-final-lap-with-anniversary-tour-ahead-of-shutdown/) — September 23, 2026 · PocketGamer.biz
-22. [AFK Arena brings Kaiju No. 8 characters in-game with crossover starting today](https://www.pocketgamer.biz/afk-arena-brings-kaiju-no-8-characters-in-game-with-crossover-starting-today/) — September 23, 2026 · PocketGamer.biz
-23. [Xbox to cut 268 jobs as it shakes up studio structure](https://www.pocketgamer.biz/xbox-to-cut-268-jobs-as-it-shakes-up-studio-structure/) — September 22, 2026 · PocketGamer.biz
-24. [Japan generates $10bn in mobile game revenue despite declining downloads](https://www.pocketgamer.biz/japan-generates-10bn-in-mobile-game-revenue-despite-declining-downloads/) — September 22, 2026 · PocketGamer.biz
-25. [Xbox plans hundreds more layoffs and studio consolidation](https://www.pocketgamer.biz/xbox-plans-hundreds-more-layoffs-and-studio-consolidation/) — September 22, 2026 · PocketGamer.biz
-26. [Sanrio to launch first Sanrio Games mobile title in January 2027](https://www.pocketgamer.biz/sanrio-to-launch-first-sanrio-games-mobile-title-in-january-2027/) — September 22, 2026 · PocketGamer.biz
-27. [Lilith Games finds a new hit as Clash of Critters makes $45.6m in four months](https://www.pocketgamer.biz/lilith-games-finds-a-new-hit-as-clash-of-critters-makes-456m-in-four-months/) — September 21, 2026 · PocketGamer.biz
-28. [AppLovin grows 60% Y/Y rounding to $20bn in annual platform ad spend](https://www.pocketgamer.biz/applovin-grows-60-yy-rounding-to-20bn-in-annual-platform-ad-spend/) — September 21, 2026 · PocketGamer.biz
-29. [Zynga Ads+ brings 100 mobile games to advertising offering](https://www.pocketgamer.biz/zynga-ads-brings-100-mobile-games-to-advertising-offering/) — September 21, 2026 · PocketGamer.biz
+20. [Mobile games generate $6.6bn in August as Honor of Kings leads player spending](https://www.pocketgamer.biz/mobile-games-generate-66bn-in-august-as-honor-of-kings-leads-player-spending/) — September 24, 2026 · PocketGamer.biz
+21. [Golf Clash launches $100,000 Bryson DeChambeau backyard challenge](https://www.pocketgamer.biz/golf-clash-launches-100000-bryson-dechambeau-backyard-challenge/) — September 24, 2026 · PocketGamer.biz
+22. [MBRIF and Dubai Future District Fund partner to expand UAE startup opportunities](https://www.pocketgamer.biz/mbrif-and-dubai-future-district-fund-partner-to-expand-uae-startup-opportunities/) — September 24, 2026 · PocketGamer.biz
+23. [Jest hits $1m run-rate after enabling in-app purchases](https://www.pocketgamer.biz/jest-hits-1m-run-rate-after-enabling-in-app-purchases/) — September 23, 2026 · PocketGamer.biz
+24. [Pokémon Go partners with European Space Agency for space-themed event](https://www.pocketgamer.biz/pokemon-go-partners-with-european-space-agency-for-space-themed-event/) — September 23, 2026 · PocketGamer.biz
+25. [Discord revamps age verification checks](https://www.pocketgamer.biz/discord-revamps-age-verification-checks/) — September 23, 2026 · PocketGamer.biz
+26. [No "single model" for growth, says Newzoo](https://www.pocketgamer.biz/no-single-model-for-growth-says-newzoo/) — September 23, 2026 · PocketGamer.biz
+27. [Mario Kart Tour enters final lap with Anniversary Tour ahead of shutdown](https://www.pocketgamer.biz/mario-kart-tour-enters-final-lap-with-anniversary-tour-ahead-of-shutdown/) — September 23, 2026 · PocketGamer.biz
+28. [AFK Arena brings Kaiju No. 8 characters in-game with crossover starting today](https://www.pocketgamer.biz/afk-arena-brings-kaiju-no-8-characters-in-game-with-crossover-starting-today/) — September 23, 2026 · PocketGamer.biz
+29. [Xbox to cut 268 jobs as it shakes up studio structure](https://www.pocketgamer.biz/xbox-to-cut-268-jobs-as-it-shakes-up-studio-structure/) — September 22, 2026 · PocketGamer.biz
 
 ## 📈 Steam 동시 접속자
-- Counter-Strike 2 — 501,092명
-- Dota 2 — 372,892명
-- PUBG: BATTLEGROUNDS — 165,554명
-- Baldur's Gate 3 — 40,628명
-- Cyberpunk 2077 — 21,858명
+- Counter-Strike 2 — 553,655명
+- Dota 2 — 387,970명
+- PUBG: BATTLEGROUNDS — 181,084명
+- Baldur's Gate 3 — 40,077명
+- Cyberpunk 2077 — 24,349명
