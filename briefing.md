@@ -1,4 +1,4 @@
-# 🎮 게임 산업 브리핑 — 2026-09-25 12:42 KST
+# 🎮 게임 산업 브리핑 — 2026-09-26 12:48 KST
 > 29건 수집 · 검증 통과
 
 ## 📊 소스별 건수
@@ -24,20 +24,20 @@ Naavik: 10건 · PocketGamer.biz: 10건 · SensorTower: 9건
 17. [How Online Fandom Is Rewriting the IP Playbook](https://naavik.co/digest/how-online-fandom-is-rewriting-the-ip-playbook/) — Jul 26, 2026 · Naavik
 18. [The Memo That Undid 10 Years of XBOX Strategy](https://naavik.co/digest/the-memo-that-undid-10-years-of-xbox-strategy/) — Jul 19, 2026 · Naavik
 19. [The AI Boom Is Repricing Gaming Hardware and Rewiring the Console Business](https://naavik.co/digest/the-ai-boom-is-repricing-gaming-hardware-and-rewiring-the-console-business/) — Jul 12, 2026 · Naavik
-20. [Mobile games generate $6.6bn in August as Honor of Kings leads player spending](https://www.pocketgamer.biz/mobile-games-generate-66bn-in-august-as-honor-of-kings-leads-player-spending/) — September 24, 2026 · PocketGamer.biz
-21. [Golf Clash launches $100,000 Bryson DeChambeau backyard challenge](https://www.pocketgamer.biz/golf-clash-launches-100000-bryson-dechambeau-backyard-challenge/) — September 24, 2026 · PocketGamer.biz
-22. [MBRIF and Dubai Future District Fund partner to expand UAE startup opportunities](https://www.pocketgamer.biz/mbrif-and-dubai-future-district-fund-partner-to-expand-uae-startup-opportunities/) — September 24, 2026 · PocketGamer.biz
-23. [Jest hits $1m run-rate after enabling in-app purchases](https://www.pocketgamer.biz/jest-hits-1m-run-rate-after-enabling-in-app-purchases/) — September 23, 2026 · PocketGamer.biz
-24. [Pokémon Go partners with European Space Agency for space-themed event](https://www.pocketgamer.biz/pokemon-go-partners-with-european-space-agency-for-space-themed-event/) — September 23, 2026 · PocketGamer.biz
-25. [Discord revamps age verification checks](https://www.pocketgamer.biz/discord-revamps-age-verification-checks/) — September 23, 2026 · PocketGamer.biz
-26. [No "single model" for growth, says Newzoo](https://www.pocketgamer.biz/no-single-model-for-growth-says-newzoo/) — September 23, 2026 · PocketGamer.biz
-27. [Mario Kart Tour enters final lap with Anniversary Tour ahead of shutdown](https://www.pocketgamer.biz/mario-kart-tour-enters-final-lap-with-anniversary-tour-ahead-of-shutdown/) — September 23, 2026 · PocketGamer.biz
-28. [AFK Arena brings Kaiju No. 8 characters in-game with crossover starting today](https://www.pocketgamer.biz/afk-arena-brings-kaiju-no-8-characters-in-game-with-crossover-starting-today/) — September 23, 2026 · PocketGamer.biz
-29. [Xbox to cut 268 jobs as it shakes up studio structure](https://www.pocketgamer.biz/xbox-to-cut-268-jobs-as-it-shakes-up-studio-structure/) — September 22, 2026 · PocketGamer.biz
+20. [Supercell’s mo.co heads back into beta as studio plans major changes](https://www.pocketgamer.biz/supercells-moco-heads-back-into-beta-as-studio-plans-major-changes/) — September 25, 2026 · PocketGamer.biz
+21. [Daily log-in bonuses and activity streaks under threat in EU Kids Act](https://www.pocketgamer.biz/daily-log-in-bonuses-and-activity-streaks-under-threat-in-eu-kids-act/) — September 24, 2026 · PocketGamer.biz
+22. [Circle Games raises $25m in Series A led by Tencent](https://www.pocketgamer.biz/circle-games-raises-25m-in-series-a-led-by-tencent/) — September 24, 2026 · PocketGamer.biz
+23. [Xbox patents ad-credit system for ads during gameplay](https://www.pocketgamer.biz/xbox-patents-ad-credit-system-for-ads-during-gameplay/) — September 24, 2026 · PocketGamer.biz
+24. [Mobile games generate $6.6bn in August as Honor of Kings leads player spending](https://www.pocketgamer.biz/mobile-games-generate-66bn-in-august-as-honor-of-kings-leads-player-spending/) — September 24, 2026 · PocketGamer.biz
+25. [Golf Clash launches $100,000 Bryson DeChambeau backyard challenge](https://www.pocketgamer.biz/golf-clash-launches-100000-bryson-dechambeau-backyard-challenge/) — September 24, 2026 · PocketGamer.biz
+26. [MBRIF and Dubai Future District Fund partner to expand UAE startup opportunities](https://www.pocketgamer.biz/mbrif-and-dubai-future-district-fund-partner-to-expand-uae-startup-opportunities/) — September 24, 2026 · PocketGamer.biz
+27. [Jest hits $1m run-rate after enabling in-app purchases](https://www.pocketgamer.biz/jest-hits-1m-run-rate-after-enabling-in-app-purchases/) — September 23, 2026 · PocketGamer.biz
+28. [Pokémon Go partners with European Space Agency for space-themed event](https://www.pocketgamer.biz/pokemon-go-partners-with-european-space-agency-for-space-themed-event/) — September 23, 2026 · PocketGamer.biz
+29. [Discord revamps age verification checks](https://www.pocketgamer.biz/discord-revamps-age-verification-checks/) — September 23, 2026 · PocketGamer.biz
 
 ## 📈 Steam 동시 접속자
-- Counter-Strike 2 — 553,655명
-- Dota 2 — 387,970명
-- PUBG: BATTLEGROUNDS — 181,084명
-- Baldur's Gate 3 — 40,077명
-- Cyberpunk 2077 — 24,349명
+- Counter-Strike 2 — 566,339명
+- Dota 2 — 447,207명
+- PUBG: BATTLEGROUNDS — 198,246명
+- Baldur's Gate 3 — 46,047명
+- Cyberpunk 2077 — 26,652명
