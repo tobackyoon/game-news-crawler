@@ -1,4 +1,4 @@
-# 🎮 게임 산업 브리핑 — 2026-09-26 12:48 KST
+# 🎮 게임 산업 브리핑 — 2026-09-29 13:31 KST
 > 29건 수집 · 검증 통과
 
 ## 📊 소스별 건수
@@ -14,30 +14,30 @@ Naavik: 10건 · PocketGamer.biz: 10건 · SensorTower: 9건
 7. [2026년 6월 전 세계 모바일 게임 매출 및 다운로드 순위 TOP 10](https://sensortower.com/ko/blog/top-10-worldwide-mobile-games-by-revenue-and-downloads-in-june-2026-KR) —  · SensorTower
 8. [[리포트 공유] 《2026년 숏폼 드라마 앱 현황》](https://sensortower.com/ko/blog/state-of-short-drama-apps-2026-report-korea) —  · SensorTower
 9. [[리포트 공유] 《2026년 전 세계 이커머스 현황》](https://sensortower.com/ko/blog/state-of-ecommerce-2026-report-korea) —  · SensorTower
-10. [The Real Value of Licensed IP](https://naavik.co/weekly-digest/the-real-value-of-licensed-ip/) — Sep 20, 2026 · Naavik
-11. [The New Money Behind Indie Games](https://naavik.co/weekly-digest/the-new-money-behind-indie-games/) — Sep 13, 2026 · Naavik
-12. [The Future of Kids Gaming](https://naavik.co/weekly-digest/the-future-of-kids-gaming/) — Aug 30, 2026 · Naavik
-13. [The Great Mobile Convergence](https://naavik.co/weekly-digest/the-great-mobile-convergence/) — Aug 23, 2026 · Naavik
-14. [Roblox’s Expensive Year of Good Intentions](https://naavik.co/digest/robloxs-expensive-year-of-good-intentions/) — Aug 16, 2026 · Naavik
-15. [Friendslop: Disrupting the Live-ops Status Quo](https://naavik.co/digest/friendslop-disrupting-the-live-ops-status-quo/) — Aug 09, 2026 · Naavik
-16. [Why Platform-Led Gaming in China Is Falling Short](https://naavik.co/digest/the-structural-failure-of-platform-led-gaming-in-china/) — Aug 02, 2026 · Naavik
-17. [How Online Fandom Is Rewriting the IP Playbook](https://naavik.co/digest/how-online-fandom-is-rewriting-the-ip-playbook/) — Jul 26, 2026 · Naavik
-18. [The Memo That Undid 10 Years of XBOX Strategy](https://naavik.co/digest/the-memo-that-undid-10-years-of-xbox-strategy/) — Jul 19, 2026 · Naavik
-19. [The AI Boom Is Repricing Gaming Hardware and Rewiring the Console Business](https://naavik.co/digest/the-ai-boom-is-repricing-gaming-hardware-and-rewiring-the-console-business/) — Jul 12, 2026 · Naavik
-20. [Supercell’s mo.co heads back into beta as studio plans major changes](https://www.pocketgamer.biz/supercells-moco-heads-back-into-beta-as-studio-plans-major-changes/) — September 25, 2026 · PocketGamer.biz
-21. [Daily log-in bonuses and activity streaks under threat in EU Kids Act](https://www.pocketgamer.biz/daily-log-in-bonuses-and-activity-streaks-under-threat-in-eu-kids-act/) — September 24, 2026 · PocketGamer.biz
-22. [Circle Games raises $25m in Series A led by Tencent](https://www.pocketgamer.biz/circle-games-raises-25m-in-series-a-led-by-tencent/) — September 24, 2026 · PocketGamer.biz
-23. [Xbox patents ad-credit system for ads during gameplay](https://www.pocketgamer.biz/xbox-patents-ad-credit-system-for-ads-during-gameplay/) — September 24, 2026 · PocketGamer.biz
-24. [Mobile games generate $6.6bn in August as Honor of Kings leads player spending](https://www.pocketgamer.biz/mobile-games-generate-66bn-in-august-as-honor-of-kings-leads-player-spending/) — September 24, 2026 · PocketGamer.biz
-25. [Golf Clash launches $100,000 Bryson DeChambeau backyard challenge](https://www.pocketgamer.biz/golf-clash-launches-100000-bryson-dechambeau-backyard-challenge/) — September 24, 2026 · PocketGamer.biz
-26. [MBRIF and Dubai Future District Fund partner to expand UAE startup opportunities](https://www.pocketgamer.biz/mbrif-and-dubai-future-district-fund-partner-to-expand-uae-startup-opportunities/) — September 24, 2026 · PocketGamer.biz
-27. [Jest hits $1m run-rate after enabling in-app purchases](https://www.pocketgamer.biz/jest-hits-1m-run-rate-after-enabling-in-app-purchases/) — September 23, 2026 · PocketGamer.biz
-28. [Pokémon Go partners with European Space Agency for space-themed event](https://www.pocketgamer.biz/pokemon-go-partners-with-european-space-agency-for-space-themed-event/) — September 23, 2026 · PocketGamer.biz
-29. [Discord revamps age verification checks](https://www.pocketgamer.biz/discord-revamps-age-verification-checks/) — September 23, 2026 · PocketGamer.biz
+10. [‘Tis the Season: Holiday Live-Ops in 2026](https://naavik.co/weekly-digest/tis-the-season-holiday-live-ops-in-2026/) — Sep 27, 2026 · Naavik
+11. [The Real Value of Licensed IP](https://naavik.co/weekly-digest/the-real-value-of-licensed-ip/) — Sep 20, 2026 · Naavik
+12. [The New Money Behind Indie Games](https://naavik.co/weekly-digest/the-new-money-behind-indie-games/) — Sep 13, 2026 · Naavik
+13. [The Future of Kids Gaming](https://naavik.co/weekly-digest/the-future-of-kids-gaming/) — Aug 30, 2026 · Naavik
+14. [The Great Mobile Convergence](https://naavik.co/weekly-digest/the-great-mobile-convergence/) — Aug 23, 2026 · Naavik
+15. [Roblox’s Expensive Year of Good Intentions](https://naavik.co/digest/robloxs-expensive-year-of-good-intentions/) — Aug 16, 2026 · Naavik
+16. [Friendslop: Disrupting the Live-ops Status Quo](https://naavik.co/digest/friendslop-disrupting-the-live-ops-status-quo/) — Aug 09, 2026 · Naavik
+17. [Why Platform-Led Gaming in China Is Falling Short](https://naavik.co/digest/the-structural-failure-of-platform-led-gaming-in-china/) — Aug 02, 2026 · Naavik
+18. [How Online Fandom Is Rewriting the IP Playbook](https://naavik.co/digest/how-online-fandom-is-rewriting-the-ip-playbook/) — Jul 26, 2026 · Naavik
+19. [The Memo That Undid 10 Years of XBOX Strategy](https://naavik.co/digest/the-memo-that-undid-10-years-of-xbox-strategy/) — Jul 19, 2026 · Naavik
+20. [Strengthening the sell-side voice in agentic advertising: TeqBlaze joins AgenticAdvertising.org](https://www.pocketgamer.biz/strengthening-the-sell-side-voice-in-agentic-advertising-teqblaze-joins-agenticadvertisingorg/) — September 28, 2026 · PocketGamer.biz
+21. [YouTube Playables expands to more than 50 markets including the EU and Nordics](https://www.pocketgamer.biz/youtube-playables-expands-to-more-than-50-markets-including-the-eu-and-nordics/) — September 28, 2026 · PocketGamer.biz
+22. [Meta unveils Horizon Create and Studio for AI-powered game creation](https://www.pocketgamer.biz/meta-unveils-horizon-create-and-studio-for-ai-powered-game-creation/) — September 28, 2026 · PocketGamer.biz
+23. [Kingnet invests $298m to join consortium behind $684m Wemade deal](https://www.pocketgamer.biz/kingnet-invests-298m-to-join-consortium-behind-684m-wemade-deal/) — September 25, 2026 · PocketGamer.biz
+24. [Qualcomm unveils two flagship Snapdragon chips for mobile and AI gaming](https://www.pocketgamer.biz/qualcomm-unveils-two-flagship-snapdragon-chips-for-mobile-and-ai-gaming/) — September 25, 2026 · PocketGamer.biz
+25. [Roblox loses bid to halt Los Angeles County child safety lawsuit](https://www.pocketgamer.biz/roblox-loses-bid-to-halt-los-angeles-county-child-safety-lawsuit/) — September 25, 2026 · PocketGamer.biz
+26. [Supercell’s mo.co heads back into beta as studio plans major changes](https://www.pocketgamer.biz/supercells-moco-heads-back-into-beta-as-studio-plans-major-changes/) — September 25, 2026 · PocketGamer.biz
+27. [Daily log-in bonuses and activity streaks under threat in EU Kids Act](https://www.pocketgamer.biz/daily-log-in-bonuses-and-activity-streaks-under-threat-in-eu-kids-act/) — September 24, 2026 · PocketGamer.biz
+28. [Circle Games raises $25m in Series A led by Tencent](https://www.pocketgamer.biz/circle-games-raises-25m-in-series-a-led-by-tencent/) — September 24, 2026 · PocketGamer.biz
+29. [Xbox patents ad-credit system for ads during gameplay](https://www.pocketgamer.biz/xbox-patents-ad-credit-system-for-ads-during-gameplay/) — September 24, 2026 · PocketGamer.biz
 
 ## 📈 Steam 동시 접속자
-- Counter-Strike 2 — 566,339명
-- Dota 2 — 447,207명
-- PUBG: BATTLEGROUNDS — 198,246명
-- Baldur's Gate 3 — 46,047명
-- Cyberpunk 2077 — 26,652명
+- Counter-Strike 2 — 487,194명
+- Dota 2 — 394,214명
+- PUBG: BATTLEGROUNDS — 171,954명
+- Baldur's Gate 3 — 34,273명
+- Cyberpunk 2077 — 20,614명
