@@ -1,4 +1,4 @@
-# 🎮 게임 산업 브리핑 — 2026-09-29 13:31 KST
+# 🎮 게임 산업 브리핑 — 2026-09-30 13:15 KST
 > 29건 수집 · 검증 통과
 
 ## 📊 소스별 건수
@@ -24,20 +24,20 @@ Naavik: 10건 · PocketGamer.biz: 10건 · SensorTower: 9건
 17. [Why Platform-Led Gaming in China Is Falling Short](https://naavik.co/digest/the-structural-failure-of-platform-led-gaming-in-china/) — Aug 02, 2026 · Naavik
 18. [How Online Fandom Is Rewriting the IP Playbook](https://naavik.co/digest/how-online-fandom-is-rewriting-the-ip-playbook/) — Jul 26, 2026 · Naavik
 19. [The Memo That Undid 10 Years of XBOX Strategy](https://naavik.co/digest/the-memo-that-undid-10-years-of-xbox-strategy/) — Jul 19, 2026 · Naavik
-20. [Strengthening the sell-side voice in agentic advertising: TeqBlaze joins AgenticAdvertising.org](https://www.pocketgamer.biz/strengthening-the-sell-side-voice-in-agentic-advertising-teqblaze-joins-agenticadvertisingorg/) — September 28, 2026 · PocketGamer.biz
-21. [YouTube Playables expands to more than 50 markets including the EU and Nordics](https://www.pocketgamer.biz/youtube-playables-expands-to-more-than-50-markets-including-the-eu-and-nordics/) — September 28, 2026 · PocketGamer.biz
-22. [Meta unveils Horizon Create and Studio for AI-powered game creation](https://www.pocketgamer.biz/meta-unveils-horizon-create-and-studio-for-ai-powered-game-creation/) — September 28, 2026 · PocketGamer.biz
-23. [Kingnet invests $298m to join consortium behind $684m Wemade deal](https://www.pocketgamer.biz/kingnet-invests-298m-to-join-consortium-behind-684m-wemade-deal/) — September 25, 2026 · PocketGamer.biz
-24. [Qualcomm unveils two flagship Snapdragon chips for mobile and AI gaming](https://www.pocketgamer.biz/qualcomm-unveils-two-flagship-snapdragon-chips-for-mobile-and-ai-gaming/) — September 25, 2026 · PocketGamer.biz
-25. [Roblox loses bid to halt Los Angeles County child safety lawsuit](https://www.pocketgamer.biz/roblox-loses-bid-to-halt-los-angeles-county-child-safety-lawsuit/) — September 25, 2026 · PocketGamer.biz
-26. [Supercell’s mo.co heads back into beta as studio plans major changes](https://www.pocketgamer.biz/supercells-moco-heads-back-into-beta-as-studio-plans-major-changes/) — September 25, 2026 · PocketGamer.biz
-27. [Daily log-in bonuses and activity streaks under threat in EU Kids Act](https://www.pocketgamer.biz/daily-log-in-bonuses-and-activity-streaks-under-threat-in-eu-kids-act/) — September 24, 2026 · PocketGamer.biz
-28. [Circle Games raises $25m in Series A led by Tencent](https://www.pocketgamer.biz/circle-games-raises-25m-in-series-a-led-by-tencent/) — September 24, 2026 · PocketGamer.biz
-29. [Xbox patents ad-credit system for ads during gameplay](https://www.pocketgamer.biz/xbox-patents-ad-credit-system-for-ads-during-gameplay/) — September 24, 2026 · PocketGamer.biz
+20. [Embracer secures $200m revolving credit facility](https://www.pocketgamer.biz/embracer-secures-200m-revolving-credit-facility/) — September 29, 2026 · PocketGamer.biz
+21. [Monster Hunter Outlanders set for October 29th release date](https://www.pocketgamer.biz/monster-hunter-outlanders-set-for-october-29th-release-date/) — September 29, 2026 · PocketGamer.biz
+22. [Minion Rush to end online services in January 2027](https://www.pocketgamer.biz/minion-rush-to-end-online-services-in-january-2027/) — September 29, 2026 · PocketGamer.biz
+23. [Wooga’s Ghost Detective is leaving Netflix after three years](https://www.pocketgamer.biz/woogas-ghost-detective-is-leaving-netflix-after-three-years/) — September 29, 2026 · PocketGamer.biz
+24. [Pokémon Masters EX to end service in Türkiye in December](https://www.pocketgamer.biz/pokmon-masters-ex-to-end-service-in-turkiye-in-december/) — September 29, 2026 · PocketGamer.biz
+25. [Trophy Games acquires Playrion from Paradox](https://www.pocketgamer.biz/trophy-games-acquires-playrion-from-paradox/) — September 28, 2026 · PocketGamer.biz
+26. [King signs collective agreement after workers threaten strike](https://www.pocketgamer.biz/king-signs-collective-agreement-after-workers-threaten-strike/) — September 28, 2026 · PocketGamer.biz
+27. [Minecraft World to open in UK with world-first hotel and rollercoaster](https://www.pocketgamer.biz/minecraft-world-to-open-in-uk-with-world-first-hotel-and-rollercoaster/) — September 28, 2026 · PocketGamer.biz
+28. [Strengthening the sell-side voice in agentic advertising: TeqBlaze joins AgenticAdvertising.org](https://www.pocketgamer.biz/strengthening-the-sell-side-voice-in-agentic-advertising-teqblaze-joins-agenticadvertisingorg/) — September 28, 2026 · PocketGamer.biz
+29. [YouTube Playables expands to more than 50 markets including the EU and Nordics](https://www.pocketgamer.biz/youtube-playables-expands-to-more-than-50-markets-including-the-eu-and-nordics/) — September 28, 2026 · PocketGamer.biz
 
 ## 📈 Steam 동시 접속자
-- Counter-Strike 2 — 487,194명
-- Dota 2 — 394,214명
-- PUBG: BATTLEGROUNDS — 171,954명
-- Baldur's Gate 3 — 34,273명
-- Cyberpunk 2077 — 20,614명
+- Counter-Strike 2 — 473,701명
+- Dota 2 — 385,099명
+- PUBG: BATTLEGROUNDS — 164,951명
+- Baldur's Gate 3 — 33,992명
+- Cyberpunk 2077 — 19,762명
