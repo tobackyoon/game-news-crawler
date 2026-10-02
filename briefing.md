@@ -1,4 +1,4 @@
-# 🎮 게임 산업 브리핑 — 2026-10-01 13:27 KST
+# 🎮 게임 산업 브리핑 — 2026-10-02 13:19 KST
 > 29건 수집 · 검증 통과
 
 ## 📊 소스별 건수
@@ -24,20 +24,20 @@ Naavik: 10건 · PocketGamer.biz: 10건 · SensorTower: 9건
 17. [Why Platform-Led Gaming in China Is Falling Short](https://naavik.co/digest/the-structural-failure-of-platform-led-gaming-in-china/) — Aug 02, 2026 · Naavik
 18. [How Online Fandom Is Rewriting the IP Playbook](https://naavik.co/digest/how-online-fandom-is-rewriting-the-ip-playbook/) — Jul 26, 2026 · Naavik
 19. [The Memo That Undid 10 Years of XBOX Strategy](https://naavik.co/digest/the-memo-that-undid-10-years-of-xbox-strategy/) — Jul 19, 2026 · Naavik
-20. [Mario Kart Tour shuts down after seven years on mobile](https://www.pocketgamer.biz/mario-kart-tour-shuts-down-after-seven-years-on-mobile/) — September 30, 2026 · PocketGamer.biz
-21. [General Intuition raises $220m at $6.2bn valuation](https://www.pocketgamer.biz/general-intuition-raises-220m-at-62bn-valuation/) — September 30, 2026 · PocketGamer.biz
-22. [Mark Pincus reveals Zynga nearly acquired Supercell for $400m in 2012](https://www.pocketgamer.biz/zyngas-mark-pincus-reveals-company-nearly-acquired-supercell-for-400m-in-2012/) — September 29, 2026 · PocketGamer.biz
-23. [National Videogame Museum launches UK-wide game preservation survey](https://www.pocketgamer.biz/national-videogame-museum-launches-uk-wide-game-preservation-survey/) — September 29, 2026 · PocketGamer.biz
-24. [Embracer secures $200m revolving credit facility](https://www.pocketgamer.biz/embracer-secures-200m-revolving-credit-facility/) — September 29, 2026 · PocketGamer.biz
-25. [Monster Hunter Outlanders set for October 29th release date](https://www.pocketgamer.biz/monster-hunter-outlanders-set-for-october-29th-release-date/) — September 29, 2026 · PocketGamer.biz
-26. [Minion Rush to end online services in January 2027](https://www.pocketgamer.biz/minion-rush-to-end-online-services-in-january-2027/) — September 29, 2026 · PocketGamer.biz
-27. [Wooga’s Ghost Detective is leaving Netflix after three years](https://www.pocketgamer.biz/woogas-ghost-detective-is-leaving-netflix-after-three-years/) — September 29, 2026 · PocketGamer.biz
-28. [Pokémon Masters EX to end service in Türkiye in December](https://www.pocketgamer.biz/pokmon-masters-ex-to-end-service-in-turkiye-in-december/) — September 29, 2026 · PocketGamer.biz
-29. [Trophy Games acquires Playrion from Paradox](https://www.pocketgamer.biz/trophy-games-acquires-playrion-from-paradox/) — September 28, 2026 · PocketGamer.biz
+20. [NetEase Games Club partners with EBANX projecting $8.4bn in LATAM revenue this year](https://www.pocketgamer.biz/netease-games-club-partners-with-ebanx-projecting-84bn-in-latam-revenue-this-year/) — October 1, 2026 · PocketGamer.biz
+21. [Ubisoft brings Creative House 2 together under Massive Entertainment](https://www.pocketgamer.biz/ubisoft-brings-creative-house-2-together-under-massive-entertainment/) — October 1, 2026 · PocketGamer.biz
+22. [Europe's CPC targets King, Supercell, Mojang and others over virtual currencies](https://www.pocketgamer.biz/europes-cpc-targets-king-supercell-mojang-and-others-over-virtual-currencies/) — September 30, 2026 · PocketGamer.biz
+23. [My.Games’ Hunting Rivals surpasses $3m revenue and 3m installs](https://www.pocketgamer.biz/mygames-hunting-rivals-surpasses-3m-revenue-and-3m-installs/) — September 30, 2026 · PocketGamer.biz
+24. [Global game content revenue to reach $229.1bn by 2030](https://www.pocketgamer.biz/global-game-content-revenue-to-reach-2291bn-by-2030/) — September 30, 2026 · PocketGamer.biz
+25. [Mario Kart Tour shuts down after seven years on mobile](https://www.pocketgamer.biz/mario-kart-tour-shuts-down-after-seven-years-on-mobile/) — September 30, 2026 · PocketGamer.biz
+26. [General Intuition raises $220m at $6.2bn valuation](https://www.pocketgamer.biz/general-intuition-raises-220m-at-62bn-valuation/) — September 30, 2026 · PocketGamer.biz
+27. [Mark Pincus reveals Zynga nearly acquired Supercell for $400m in 2012](https://www.pocketgamer.biz/zyngas-mark-pincus-reveals-company-nearly-acquired-supercell-for-400m-in-2012/) — September 29, 2026 · PocketGamer.biz
+28. [National Videogame Museum launches UK-wide game preservation survey](https://www.pocketgamer.biz/national-videogame-museum-launches-uk-wide-game-preservation-survey/) — September 29, 2026 · PocketGamer.biz
+29. [Embracer secures $200m revolving credit facility](https://www.pocketgamer.biz/embracer-secures-200m-revolving-credit-facility/) — September 29, 2026 · PocketGamer.biz
 
 ## 📈 Steam 동시 접속자
-- Counter-Strike 2 — 514,182명
-- Dota 2 — 416,756명
-- PUBG: BATTLEGROUNDS — 199,485명
-- Baldur's Gate 3 — 33,582명
-- Cyberpunk 2077 — 21,243명
+- Counter-Strike 2 — 468,412명
+- Dota 2 — 407,022명
+- PUBG: BATTLEGROUNDS — 182,165명
+- Baldur's Gate 3 — 33,584명
+- Cyberpunk 2077 — 23,971명
