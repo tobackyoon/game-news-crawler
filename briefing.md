@@ -1,4 +1,4 @@
-# 🎮 게임 산업 브리핑 — 2026-10-03 13:01 KST
+# 🎮 게임 산업 브리핑 — 2026-10-05 13:21 KST
 > 29건 수집 · 검증 통과
 
 ## 📊 소스별 건수
@@ -24,20 +24,20 @@ Naavik: 10건 · PocketGamer.biz: 10건 · SensorTower: 9건
 17. [Why Platform-Led Gaming in China Is Falling Short](https://naavik.co/digest/the-structural-failure-of-platform-led-gaming-in-china/) — Aug 02, 2026 · Naavik
 18. [How Online Fandom Is Rewriting the IP Playbook](https://naavik.co/digest/how-online-fandom-is-rewriting-the-ip-playbook/) — Jul 26, 2026 · Naavik
 19. [The Memo That Undid 10 Years of XBOX Strategy](https://naavik.co/digest/the-memo-that-undid-10-years-of-xbox-strategy/) — Jul 19, 2026 · Naavik
-20. [AppLovin takes legal action against Unity over Ad Quality SDK](https://www.pocketgamer.biz/applovin-takes-legal-action-against-unity-over-ad-quality-sdk/) — October 1, 2026 · PocketGamer.biz
-21. [Layer launches AI Playable ad generator to tackle production bottlenecks for mobile game studios](https://www.pocketgamer.biz/layer-launches-ai-playable-ad-generator-to-tackle-production-bottlenecks-for-mobile-game-studios/) — October 1, 2026 · PocketGamer.biz
-22. [NetEase Games Club partners with EBANX projecting $8.4bn in LATAM revenue this year](https://www.pocketgamer.biz/netease-games-club-partners-with-ebanx-projecting-84bn-in-latam-revenue-this-year/) — October 1, 2026 · PocketGamer.biz
-23. [Ubisoft brings Creative House 2 together under Massive Entertainment](https://www.pocketgamer.biz/ubisoft-brings-creative-house-2-together-under-massive-entertainment/) — October 1, 2026 · PocketGamer.biz
-24. [Europe's CPC targets King, Supercell, Mojang and others over virtual currencies](https://www.pocketgamer.biz/europes-cpc-targets-king-supercell-mojang-and-others-over-virtual-currencies/) — September 30, 2026 · PocketGamer.biz
-25. [My.Games’ Hunting Rivals surpasses $3m revenue and 3m installs](https://www.pocketgamer.biz/mygames-hunting-rivals-surpasses-3m-revenue-and-3m-installs/) — September 30, 2026 · PocketGamer.biz
-26. [Global game content revenue to reach $229.1bn by 2030](https://www.pocketgamer.biz/global-game-content-revenue-to-reach-2291bn-by-2030/) — September 30, 2026 · PocketGamer.biz
-27. [Mario Kart Tour shuts down after seven years on mobile](https://www.pocketgamer.biz/mario-kart-tour-shuts-down-after-seven-years-on-mobile/) — September 30, 2026 · PocketGamer.biz
-28. [General Intuition raises $220m at $6.2bn valuation](https://www.pocketgamer.biz/general-intuition-raises-220m-at-62bn-valuation/) — September 30, 2026 · PocketGamer.biz
-29. [Mark Pincus reveals Zynga nearly acquired Supercell for $400m in 2012](https://www.pocketgamer.biz/zyngas-mark-pincus-reveals-company-nearly-acquired-supercell-for-400m-in-2012/) — September 29, 2026 · PocketGamer.biz
+20. [Leus launches Cohort Purchasing platform for mobile games](https://www.pocketgamer.biz/leus-launches-cohort-purchasing-platform-for-mobile-games/) — October 1, 2026 · PocketGamer.biz
+21. [AppLovin takes legal action against Unity over Ad Quality SDK](https://www.pocketgamer.biz/applovin-takes-legal-action-against-unity-over-ad-quality-sdk/) — October 1, 2026 · PocketGamer.biz
+22. [Layer launches AI Playable ad generator to tackle production bottlenecks for mobile game studios](https://www.pocketgamer.biz/layer-launches-ai-playable-ad-generator-to-tackle-production-bottlenecks-for-mobile-game-studios/) — October 1, 2026 · PocketGamer.biz
+23. [NetEase Games Club partners with EBANX projecting $8.4bn in LATAM revenue this year](https://www.pocketgamer.biz/netease-games-club-partners-with-ebanx-projecting-84bn-in-latam-revenue-this-year/) — October 1, 2026 · PocketGamer.biz
+24. [Ubisoft brings Creative House 2 together under Massive Entertainment](https://www.pocketgamer.biz/ubisoft-brings-creative-house-2-together-under-massive-entertainment/) — October 1, 2026 · PocketGamer.biz
+25. [Europe's CPC targets King, Supercell, Mojang and others over virtual currencies](https://www.pocketgamer.biz/europes-cpc-targets-king-supercell-mojang-and-others-over-virtual-currencies/) — September 30, 2026 · PocketGamer.biz
+26. [My.Games’ Hunting Rivals surpasses $3m revenue and 3m installs](https://www.pocketgamer.biz/mygames-hunting-rivals-surpasses-3m-revenue-and-3m-installs/) — September 30, 2026 · PocketGamer.biz
+27. [Global game content revenue to reach $229.1bn by 2030](https://www.pocketgamer.biz/global-game-content-revenue-to-reach-2291bn-by-2030/) — September 30, 2026 · PocketGamer.biz
+28. [Mario Kart Tour shuts down after seven years on mobile](https://www.pocketgamer.biz/mario-kart-tour-shuts-down-after-seven-years-on-mobile/) — September 30, 2026 · PocketGamer.biz
+29. [General Intuition raises $220m at $6.2bn valuation](https://www.pocketgamer.biz/general-intuition-raises-220m-at-62bn-valuation/) — September 30, 2026 · PocketGamer.biz
 
 ## 📈 Steam 동시 접속자
-- Counter-Strike 2 — 514,441명
-- Dota 2 — 434,312명
-- PUBG: BATTLEGROUNDS — 184,582명
-- Baldur's Gate 3 — 43,581명
-- Cyberpunk 2077 — 31,908명
+- Counter-Strike 2 — 466,533명
+- Dota 2 — 421,334명
+- PUBG: BATTLEGROUNDS — 177,612명
+- Baldur's Gate 3 — 39,560명
+- Cyberpunk 2077 — 32,825명
