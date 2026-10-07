@@ -1,4 +1,4 @@
-# 🎮 게임 산업 브리핑 — 2026-10-06 14:08 KST
+# 🎮 게임 산업 브리핑 — 2026-10-07 13:35 KST
 > 29건 수집 · 검증 통과
 
 ## 📊 소스별 건수
@@ -24,20 +24,20 @@ Naavik: 10건 · PocketGamer.biz: 10건 · SensorTower: 9건
 17. [Friendslop: Disrupting the Live-ops Status Quo](https://naavik.co/digest/friendslop-disrupting-the-live-ops-status-quo/) — Aug 09, 2026 · Naavik
 18. [Why Platform-Led Gaming in China Is Falling Short](https://naavik.co/digest/the-structural-failure-of-platform-led-gaming-in-china/) — Aug 02, 2026 · Naavik
 19. [How Online Fandom Is Rewriting the IP Playbook](https://naavik.co/digest/how-online-fandom-is-rewriting-the-ip-playbook/) — Jul 26, 2026 · Naavik
-20. [Love and Deepspace faces fresh fan backlash over latest campaign](https://www.pocketgamer.biz/love-and-deepspace-faces-fresh-fan-backlash-over-latest-campaign/) — October 5, 2026 · PocketGamer.biz
-21. [AI's insane PR machine, Zynga's failed $400m Supercell deal and EU regulation | Week in Mobile Games podcast](https://www.pocketgamer.biz/week-in-mobile-games-podcast-6622678/) — October 4, 2026 · PocketGamer.biz
-22. [SpecialEffect’s One Special Day mobile promotion goes live](https://www.pocketgamer.biz/specialeffects-one-special-day-mobile-promotion-goes-live/) — October 2, 2026 · PocketGamer.biz
-23. [Leus launches Cohort Purchasing platform for mobile games](https://www.pocketgamer.biz/leus-launches-cohort-purchasing-platform-for-mobile-games/) — October 1, 2026 · PocketGamer.biz
-24. [AppLovin takes legal action against Unity over Ad Quality SDK](https://www.pocketgamer.biz/applovin-takes-legal-action-against-unity-over-ad-quality-sdk/) — October 1, 2026 · PocketGamer.biz
-25. [Layer launches AI Playable ad generator to tackle production bottlenecks for mobile game studios](https://www.pocketgamer.biz/layer-launches-ai-playable-ad-generator-to-tackle-production-bottlenecks-for-mobile-game-studios/) — October 1, 2026 · PocketGamer.biz
-26. [NetEase Games Club partners with EBANX projecting $8.4bn in LATAM revenue this year](https://www.pocketgamer.biz/netease-games-club-partners-with-ebanx-projecting-84bn-in-latam-revenue-this-year/) — October 1, 2026 · PocketGamer.biz
-27. [Ubisoft brings Creative House 2 together under Massive Entertainment](https://www.pocketgamer.biz/ubisoft-brings-creative-house-2-together-under-massive-entertainment/) — October 1, 2026 · PocketGamer.biz
-28. [Europe's CPC targets King, Supercell, Mojang and others over virtual currencies](https://www.pocketgamer.biz/europes-cpc-targets-king-supercell-mojang-and-others-over-virtual-currencies/) — September 30, 2026 · PocketGamer.biz
-29. [My.Games’ Hunting Rivals surpasses $3m revenue and 3m installs](https://www.pocketgamer.biz/mygames-hunting-rivals-surpasses-3m-revenue-and-3m-installs/) — September 30, 2026 · PocketGamer.biz
+20. [The New Denpa Men to end service in December](https://www.pocketgamer.biz/the-new-denpa-men-to-end-service-in-december/) — October 6, 2026 · PocketGamer.biz
+21. [South Australia launches $1m Digital Games Fund](https://www.pocketgamer.biz/south-australia-launches-1m-digital-games-fund/) — October 6, 2026 · PocketGamer.biz
+22. [Softgames outlines acquisition strategy for instant and mobile games](https://www.pocketgamer.biz/softgames-outlines-acquisition-strategy-for-instant-and-mobile-games/) — October 6, 2026 · PocketGamer.biz
+23. [Google faces £1bn Play Store commission trial in the UK](https://www.pocketgamer.biz/google-faces-1bn-play-store-commission-trial-in-the-uk/) — October 5, 2026 · PocketGamer.biz
+24. [Nerial enters hibernation mode after 13 years and 11 games](https://www.pocketgamer.biz/nerial-enters-hibernation-mode-after-13-years-and-11-games/) — October 5, 2026 · PocketGamer.biz
+25. [Unity brings official plugin to Grok Build in new partnership](https://www.pocketgamer.biz/unity-brings-official-plugin-to-grok-build-in-new-partnership/) — October 5, 2026 · PocketGamer.biz
+26. [Love and Deepspace faces fresh fan backlash over latest campaign](https://www.pocketgamer.biz/love-and-deepspace-faces-fresh-fan-backlash-over-latest-campaign/) — October 5, 2026 · PocketGamer.biz
+27. [AI's insane PR machine, Zynga's failed $400m Supercell deal and EU regulation | Week in Mobile Games podcast](https://www.pocketgamer.biz/week-in-mobile-games-podcast-6622678/) — October 4, 2026 · PocketGamer.biz
+28. [SpecialEffect’s One Special Day mobile promotion goes live](https://www.pocketgamer.biz/specialeffects-one-special-day-mobile-promotion-goes-live/) — October 2, 2026 · PocketGamer.biz
+29. [Leus launches Cohort Purchasing platform for mobile games](https://www.pocketgamer.biz/leus-launches-cohort-purchasing-platform-for-mobile-games/) — October 1, 2026 · PocketGamer.biz
 
 ## 📈 Steam 동시 접속자
-- Counter-Strike 2 — 449,139명
-- Dota 2 — 434,907명
-- PUBG: BATTLEGROUNDS — 200,682명
-- Baldur's Gate 3 — 32,399명
-- Cyberpunk 2077 — 31,187명
+- Counter-Strike 2 — 504,033명
+- Dota 2 — 392,763명
+- PUBG: BATTLEGROUNDS — 141,702명
+- Baldur's Gate 3 — 33,914명
+- Cyberpunk 2077 — 31,068명
