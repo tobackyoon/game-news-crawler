@@ -1,4 +1,4 @@
-# 🎮 게임 산업 브리핑 — 2026-10-08 13:46 KST
+# 🎮 게임 산업 브리핑 — 2026-10-09 13:49 KST
 > 29건 수집 · 검증 통과
 
 ## 📊 소스별 건수
@@ -24,20 +24,20 @@ Naavik: 10건 · PocketGamer.biz: 10건 · SensorTower: 9건
 17. [Friendslop: Disrupting the Live-ops Status Quo](https://naavik.co/digest/friendslop-disrupting-the-live-ops-status-quo/) — Aug 09, 2026 · Naavik
 18. [Why Platform-Led Gaming in China Is Falling Short](https://naavik.co/digest/the-structural-failure-of-platform-led-gaming-in-china/) — Aug 02, 2026 · Naavik
 19. [How Online Fandom Is Rewriting the IP Playbook](https://naavik.co/digest/how-online-fandom-is-rewriting-the-ip-playbook/) — Jul 26, 2026 · Naavik
-20. [Fire Emblem Shadows makes $892,000 in first year, just 0.3% of Heroes’ initial success](https://www.pocketgamer.biz/fire-emblem-shadows-makes-892000-in-first-year-just-03-of-heroes-initial-success/) — October 7, 2026 · PocketGamer.biz
-21. [Exir Games CEO Sahand Malaei on the challenges facing small game studios](https://www.pocketgamer.biz/exir-games-ceo-sahand-malaei-on-the-challenges-facing-small-game-studios/) — October 7, 2026 · PocketGamer.biz
-22. [San Diego County sues AppLovin over alleged child ad targeting](https://www.pocketgamer.biz/san-diego-county-sues-applovin-over-alleged-child-ad-targeting-4195351/) — October 7, 2026 · PocketGamer.biz
-23. [Mastercard and Tamatem partner on gaming payments across MENA and Africa](https://www.pocketgamer.biz/mastercard-and-tamatem-partner-on-gaming-payments-across-mena-and-africa/) — October 7, 2026 · PocketGamer.biz
-24. [SuperScale CEO Ivan Trancik on finding profit beyond mobile UA's biggest networks](https://www.pocketgamer.biz/superscale-ceo-ivan-trancik-on-finding-profit-beyond-mobile-uas-biggest-networks/) — October 7, 2026 · PocketGamer.biz
-25. [Paramount and Warner Bros. Discovery’s $111bn merger officially closes today](https://www.pocketgamer.biz/paramount-and-warner-bros-discoverys-111bn-merger-officially-closes-today/) — October 6, 2026 · PocketGamer.biz
-26. [FIRY sells Exit Games stake for $55m in cash](https://www.pocketgamer.biz/firy-sells-exit-games-stake-for-55m-in-cash/) — October 6, 2026 · PocketGamer.biz
-27. [Marvel's Project COMET trailer appears to have leaked](https://www.pocketgamer.biz/marvels-project-comet-trailer-appears-to-have-leaked/) — October 6, 2026 · PocketGamer.biz
-28. [The New Denpa Men to end service in December](https://www.pocketgamer.biz/the-new-denpa-men-to-end-service-in-december/) — October 6, 2026 · PocketGamer.biz
-29. [South Australia launches $1m Digital Games Fund](https://www.pocketgamer.biz/south-australia-launches-1m-digital-games-fund/) — October 6, 2026 · PocketGamer.biz
+20. [The Big Indie Pitch heads to Paris Games Week for the first time](https://www.pocketgamer.biz/the-big-indie-pitch-heads-to-paris-games-week-for-the-first-time/) — October 8, 2026 · PocketGamer.biz
+21. [Safe In Our World launches Four Billion Gamers mental health campaign](https://www.pocketgamer.biz/safe-in-our-world-launches-four-billion-gamers-mental-health-campaign/) — October 8, 2026 · PocketGamer.biz
+22. [Wizards of the Coast union expands to D&D and Magic teams](https://www.pocketgamer.biz/wizards-of-the-coast-union-expands-to-dandd-and-magic-teams/) — October 8, 2026 · PocketGamer.biz
+23. [Google launches Playground for prompt-based game creation](https://www.pocketgamer.biz/google-launches-playground-for-prompt-based-game-creation/) — October 7, 2026 · PocketGamer.biz
+24. [The Turkish playbook: Investors talk work ethic, hybridcasual and AI](https://www.pocketgamer.biz/the-turkish-playbook-investors-talk-work-ethic-ai-funding-and-hybridcasual/) — October 7, 2026 · PocketGamer.biz
+25. [Harvey Elliott named chair of Ukie as trade body targets next phase of UK growth](https://www.pocketgamer.biz/harvey-elliott-named-chair-of-ukie-as-trade-body-targets-next-phase-of-uk-growth/) — October 7, 2026 · PocketGamer.biz
+26. [Fire Emblem Shadows makes $892,000 in first year, just 0.3% of Heroes’ initial success](https://www.pocketgamer.biz/fire-emblem-shadows-makes-892000-in-first-year-just-03-of-heroes-initial-success/) — October 7, 2026 · PocketGamer.biz
+27. [Exir Games CEO Sahand Malaei on the challenges facing small game studios](https://www.pocketgamer.biz/exir-games-ceo-sahand-malaei-on-the-challenges-facing-small-game-studios/) — October 7, 2026 · PocketGamer.biz
+28. [San Diego County sues AppLovin over alleged child ad targeting](https://www.pocketgamer.biz/san-diego-county-sues-applovin-over-alleged-child-ad-targeting-4195351/) — October 7, 2026 · PocketGamer.biz
+29. [Mastercard and Tamatem partner on gaming payments across MENA and Africa](https://www.pocketgamer.biz/mastercard-and-tamatem-partner-on-gaming-payments-across-mena-and-africa/) — October 7, 2026 · PocketGamer.biz
 
 ## 📈 Steam 동시 접속자
-- Counter-Strike 2 — 469,015명
-- Dota 2 — 429,711명
-- PUBG: BATTLEGROUNDS — 180,288명
-- Baldur's Gate 3 — 30,080명
-- Cyberpunk 2077 — 28,436명
+- Counter-Strike 2 — 421,619명
+- Dota 2 — 430,385명
+- PUBG: BATTLEGROUNDS — 192,567명
+- Baldur's Gate 3 — 31,550명
+- Cyberpunk 2077 — 30,537명
