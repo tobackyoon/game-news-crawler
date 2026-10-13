@@ -1,4 +1,4 @@
-# 🎮 게임 산업 브리핑 — 2026-10-10 13:34 KST
+# 🎮 게임 산업 브리핑 — 2026-10-13 14:41 KST
 > 29건 수집 · 검증 통과
 
 ## 📊 소스별 건수
@@ -14,30 +14,30 @@ Naavik: 10건 · PocketGamer.biz: 10건 · SensorTower: 9건
 7. [게임 심층 분석: 광고 수익화 리포트](https://sensortower.com/ko/blog/gaming-deep-dive-ad-monetization-korea) —  · SensorTower
 8. [센서타워, Google Ads와 협력하여 크로스 플랫폼 캠페인에 소셜 크리에이티브 통합](https://sensortower.com/ko/blog/sensor-tower-collaborates-google-ads-cross-platform-campaigns) —  · SensorTower
 9. [2026년 6월 전 세계 모바일 게임 매출 및 다운로드 순위 TOP 10](https://sensortower.com/ko/blog/top-10-worldwide-mobile-games-by-revenue-and-downloads-in-june-2026-KR) —  · SensorTower
-10. [Unpacking China’s Out-of-Game Economy](https://naavik.co/weekly-digest/unpacking-chinas-out-of-game-economy/) — Oct 04, 2026 · Naavik
-11. [‘Tis the Season: Holiday Live-Ops in 2026](https://naavik.co/weekly-digest/tis-the-season-holiday-live-ops-in-2026/) — Sep 27, 2026 · Naavik
-12. [The Real Value of Licensed IP](https://naavik.co/weekly-digest/the-real-value-of-licensed-ip/) — Sep 20, 2026 · Naavik
-13. [The New Money Behind Indie Games](https://naavik.co/weekly-digest/the-new-money-behind-indie-games/) — Sep 13, 2026 · Naavik
-14. [The Future of Kids Gaming](https://naavik.co/weekly-digest/the-future-of-kids-gaming/) — Aug 30, 2026 · Naavik
-15. [The Great Mobile Convergence](https://naavik.co/weekly-digest/the-great-mobile-convergence/) — Aug 23, 2026 · Naavik
-16. [Roblox’s Expensive Year of Good Intentions](https://naavik.co/digest/robloxs-expensive-year-of-good-intentions/) — Aug 16, 2026 · Naavik
-17. [Friendslop: Disrupting the Live-ops Status Quo](https://naavik.co/digest/friendslop-disrupting-the-live-ops-status-quo/) — Aug 09, 2026 · Naavik
-18. [Why Platform-Led Gaming in China Is Falling Short](https://naavik.co/digest/the-structural-failure-of-platform-led-gaming-in-china/) — Aug 02, 2026 · Naavik
-19. [How Online Fandom Is Rewriting the IP Playbook](https://naavik.co/digest/how-online-fandom-is-rewriting-the-ip-playbook/) — Jul 26, 2026 · Naavik
-20. [Rainbow Six Mobile to shut down in January 2027](https://www.pocketgamer.biz/rainbow-six-mobile-to-shut-down-in-january-2027/) — October 9, 2026 · PocketGamer.biz
-21. [Xbox creates XP division to expand its gaming franchises](https://www.pocketgamer.biz/xbox-creates-xp-division-to-expand-its-gaming-franchises/) — October 9, 2026 · PocketGamer.biz
-22. [Xbox appoints new leaders for Mojang and franchise experiences](https://www.pocketgamer.biz/xbox-appoints-new-leaders-for-mojang-and-franchise-experiences/) — October 9, 2026 · PocketGamer.biz
-23. [Fingersoft’s Otto Simola on a decade of Hill Climb Racing 2](https://www.pocketgamer.biz/fingersofts-otto-simola-on-a-decade-of-hill-climb-racing-2/) — October 8, 2026 · PocketGamer.biz
-24. [Unity unveils Spark AI game maker with Google Playground integration](https://www.pocketgamer.biz/unity-unveils-spark-ai-game-maker-with-google-playground-integration/) — October 8, 2026 · PocketGamer.biz
-25. [PUBG Mobile Light renamed to PUBG Mobile Flash ahead of launch](https://www.pocketgamer.biz/pubg-mobile-light-renamed-to-pubg-mobile-flash-ahead-of-launch/) — October 8, 2026 · PocketGamer.biz
-26. [The Big Indie Pitch heads to Paris Games Week for the first time](https://www.pocketgamer.biz/the-big-indie-pitch-heads-to-paris-games-week-for-the-first-time/) — October 8, 2026 · PocketGamer.biz
-27. [Safe In Our World launches Four Billion Gamers mental health campaign](https://www.pocketgamer.biz/safe-in-our-world-launches-four-billion-gamers-mental-health-campaign/) — October 8, 2026 · PocketGamer.biz
-28. [Wizards of the Coast union expands to D&D and Magic teams](https://www.pocketgamer.biz/wizards-of-the-coast-union-expands-to-dandd-and-magic-teams/) — October 8, 2026 · PocketGamer.biz
-29. [Google launches Playground for prompt-based game creation](https://www.pocketgamer.biz/google-launches-playground-for-prompt-based-game-creation/) — October 7, 2026 · PocketGamer.biz
+10. [CD Projekt’s Best Days May Be Ahead](https://naavik.co/weekly-digest/cd-projekts-best-days-may-be-ahead/) — Oct 11, 2026 · Naavik
+11. [Unpacking China’s Out-of-Game Economy](https://naavik.co/weekly-digest/unpacking-chinas-out-of-game-economy/) — Oct 04, 2026 · Naavik
+12. [‘Tis the Season: Holiday Live-Ops in 2026](https://naavik.co/weekly-digest/tis-the-season-holiday-live-ops-in-2026/) — Sep 27, 2026 · Naavik
+13. [The Real Value of Licensed IP](https://naavik.co/weekly-digest/the-real-value-of-licensed-ip/) — Sep 20, 2026 · Naavik
+14. [The New Money Behind Indie Games](https://naavik.co/weekly-digest/the-new-money-behind-indie-games/) — Sep 13, 2026 · Naavik
+15. [The Future of Kids Gaming](https://naavik.co/weekly-digest/the-future-of-kids-gaming/) — Aug 30, 2026 · Naavik
+16. [The Great Mobile Convergence](https://naavik.co/weekly-digest/the-great-mobile-convergence/) — Aug 23, 2026 · Naavik
+17. [Roblox’s Expensive Year of Good Intentions](https://naavik.co/digest/robloxs-expensive-year-of-good-intentions/) — Aug 16, 2026 · Naavik
+18. [Friendslop: Disrupting the Live-ops Status Quo](https://naavik.co/digest/friendslop-disrupting-the-live-ops-status-quo/) — Aug 09, 2026 · Naavik
+19. [Why Platform-Led Gaming in China Is Falling Short](https://naavik.co/digest/the-structural-failure-of-platform-led-gaming-in-china/) — Aug 02, 2026 · Naavik
+20. [Roblox brings Audioscape team in-house to develop AI audio tools](https://www.pocketgamer.biz/roblox-brings-audioscape-team-in-house-to-develop-ai-audio-tools/) — October 12, 2026 · PocketGamer.biz
+21. [MTG postpones PlaySimple’s potential IPO](https://www.pocketgamer.biz/mtg-postpones-playsimples-potential-ipo/) — October 9, 2026 · PocketGamer.biz
+22. [Kakao Games partners with Abu Dhabi to expand across MENA](https://www.pocketgamer.biz/kakao-games-partners-with-abu-dhabi-to-expand-across-mena/) — October 9, 2026 · PocketGamer.biz
+23. [Rainbow Six Mobile to shut down in January 2027](https://www.pocketgamer.biz/rainbow-six-mobile-to-shut-down-in-january-2027/) — October 9, 2026 · PocketGamer.biz
+24. [Xbox creates XP division to expand its gaming franchises](https://www.pocketgamer.biz/xbox-creates-xp-division-to-expand-its-gaming-franchises/) — October 9, 2026 · PocketGamer.biz
+25. [Xbox appoints new leaders for Mojang and franchise experiences](https://www.pocketgamer.biz/xbox-appoints-new-leaders-for-mojang-and-franchise-experiences/) — October 9, 2026 · PocketGamer.biz
+26. [Fingersoft’s Otto Simola on a decade of Hill Climb Racing 2](https://www.pocketgamer.biz/fingersofts-otto-simola-on-a-decade-of-hill-climb-racing-2/) — October 8, 2026 · PocketGamer.biz
+27. [Unity unveils Spark AI game maker with Google Playground integration](https://www.pocketgamer.biz/unity-unveils-spark-ai-game-maker-with-google-playground-integration/) — October 8, 2026 · PocketGamer.biz
+28. [PUBG Mobile Light renamed to PUBG Mobile Flash ahead of launch](https://www.pocketgamer.biz/pubg-mobile-light-renamed-to-pubg-mobile-flash-ahead-of-launch/) — October 8, 2026 · PocketGamer.biz
+29. [The Big Indie Pitch heads to Paris Games Week for the first time](https://www.pocketgamer.biz/the-big-indie-pitch-heads-to-paris-games-week-for-the-first-time/) — October 8, 2026 · PocketGamer.biz
 
 ## 📈 Steam 동시 접속자
-- Counter-Strike 2 — 471,516명
-- Dota 2 — 503,982명
-- PUBG: BATTLEGROUNDS — 197,941명
-- Baldur's Gate 3 — 38,947명
-- Cyberpunk 2077 — 33,225명
+- Counter-Strike 2 — 430,746명
+- Dota 2 — 454,191명
+- PUBG: BATTLEGROUNDS — 200,000명
+- Baldur's Gate 3 — 27,227명
+- Cyberpunk 2077 — 25,853명
