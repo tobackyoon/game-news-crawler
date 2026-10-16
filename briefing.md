@@ -1,4 +1,4 @@
-# 🎮 게임 산업 브리핑 — 2026-10-15 12:26 KST
+# 🎮 게임 산업 브리핑 — 2026-10-16 12:22 KST
 > 29건 수집 · 검증 통과
 
 ## 📊 소스별 건수
@@ -24,20 +24,20 @@ Naavik: 10건 · PocketGamer.biz: 10건 · SensorTower: 9건
 17. [Roblox’s Expensive Year of Good Intentions](https://naavik.co/digest/robloxs-expensive-year-of-good-intentions/) — Aug 16, 2026 · Naavik
 18. [Friendslop: Disrupting the Live-ops Status Quo](https://naavik.co/digest/friendslop-disrupting-the-live-ops-status-quo/) — Aug 09, 2026 · Naavik
 19. [Why Platform-Led Gaming in China Is Falling Short](https://naavik.co/digest/the-structural-failure-of-platform-led-gaming-in-china/) — Aug 02, 2026 · Naavik
-20. [Miniclip’s mobile advertising platform AdSurge launches as standalone company](https://www.pocketgamer.biz/exclusive-miniclips-mobile-advertising-platform-adsurge-launches-as-standalone-company/) — October 14, 2026 · PocketGamer.biz
-21. [Gaming M&A reached $2.4bn across 45 deals in Q3 2026](https://www.pocketgamer.biz/gaming-manda-reached-24bn-across-45-deals-in-q3-2026/) — October 14, 2026 · PocketGamer.biz
-22. [Algeria lifts ban on Roblox as it pens new partnership to train local game developers](https://www.pocketgamer.biz/algeria-lifts-ban-on-roblox-as-it-pens-new-partnership-to-train-local-game-developers/) — October 14, 2026 · PocketGamer.biz
-23. [Zynga launches FarmVille 2 charity event with Blue Cross](https://www.pocketgamer.biz/zynga-launches-farmville-2-charity-event-with-blue-cross/) — October 14, 2026 · PocketGamer.biz
-24. [Playgama launches tools for AI agents to publish and improve games](https://www.pocketgamer.biz/playgama-launches-tools-for-ai-agents-to-publish-and-improve-games/) — October 14, 2026 · PocketGamer.biz
-25. [Google Play launches discoverability tool Game Finder using "gamer DNA"](https://www.pocketgamer.biz/google-play-launches-discoverability-tool-game-finder-using-gamer-dna/) — October 13, 2026 · PocketGamer.biz
-26. [Exclusive: Turkish developer Flow Games secures $46m in funding package led by Tencent](https://www.pocketgamer.biz/exclusive-turkish-developer-flow-games-raises-46m-in-funding-package-led-by-tencent/) — October 13, 2026 · PocketGamer.biz
-27. [BAFTA awards over £270,000 to support 112 emerging creatives](https://www.pocketgamer.biz/bafta-awards-over-270000-to-support-112-emerging-creatives/) — October 13, 2026 · PocketGamer.biz
-28. [Apple brings seven indie games to iPhone and iPad for Indie Games Week](https://www.pocketgamer.biz/apple-brings-seven-indie-games-to-iphone-and-ipad-for-indie-games-week/) — October 13, 2026 · PocketGamer.biz
-29. [PG Connects Nordics: The editorial team's can't-miss sessions](https://www.pocketgamer.biz/pg-connects-nordics-the-editorial-teams-cant-miss-sessions/) — October 13, 2026 · PocketGamer.biz
+20. [Ubisoft plans to close RedLynx and cut 70 jobs in Singapore](https://www.pocketgamer.biz/ubisoft-plans-to-close-redlynx-and-cut-70-jobs-in-singapore/) — October 15, 2026 · PocketGamer.biz
+21. [Brazil president signs decree implementing Legal Framework for the Games Industry](https://www.pocketgamer.biz/brazil-implements-legal-framework-for-games-industry/) — October 15, 2026 · PocketGamer.biz
+22. [Supercell set to shut down Squad Busters on December 14th](https://www.pocketgamer.biz/supercell-set-to-shut-down-squad-busters-on-december-14th/) — October 14, 2026 · PocketGamer.biz
+23. [Anzu expands ad formats beyond games](https://www.pocketgamer.biz/anzu-expands-ad-formats-beyond-games/) — October 14, 2026 · PocketGamer.biz
+24. [Miniclip’s mobile advertising platform AdSurge launches as standalone company](https://www.pocketgamer.biz/exclusive-miniclips-mobile-advertising-platform-adsurge-launches-as-standalone-company/) — October 14, 2026 · PocketGamer.biz
+25. [Gaming M&A reached $2.4bn across 45 deals in Q3 2026](https://www.pocketgamer.biz/gaming-manda-reached-24bn-across-45-deals-in-q3-2026/) — October 14, 2026 · PocketGamer.biz
+26. [Algeria lifts ban on Roblox as it pens new partnership to train local game developers](https://www.pocketgamer.biz/algeria-lifts-ban-on-roblox-as-it-pens-new-partnership-to-train-local-game-developers/) — October 14, 2026 · PocketGamer.biz
+27. [Zynga launches FarmVille 2 charity event with Blue Cross](https://www.pocketgamer.biz/zynga-launches-farmville-2-charity-event-with-blue-cross/) — October 14, 2026 · PocketGamer.biz
+28. [Playgama launches tools for AI agents to publish and improve games](https://www.pocketgamer.biz/playgama-launches-tools-for-ai-agents-to-publish-and-improve-games/) — October 14, 2026 · PocketGamer.biz
+29. [Google Play launches discoverability tool Game Finder using "gamer DNA"](https://www.pocketgamer.biz/google-play-launches-discoverability-tool-game-finder-using-gamer-dna/) — October 13, 2026 · PocketGamer.biz
 
 ## 📈 Steam 동시 접속자
-- Counter-Strike 2 — 426,201명
-- Dota 2 — 408,034명
-- PUBG: BATTLEGROUNDS — 200,366명
-- Baldur's Gate 3 — 34,826명
-- Cyberpunk 2077 — 27,618명
+- Counter-Strike 2 — 458,872명
+- Dota 2 — 468,156명
+- PUBG: BATTLEGROUNDS — 186,607명
+- Baldur's Gate 3 — 35,066명
+- Cyberpunk 2077 — 27,803명
