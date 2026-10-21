@@ -1,4 +1,4 @@
-# 🎮 게임 산업 브리핑 — 2026-10-20 12:39 KST
+# 🎮 게임 산업 브리핑 — 2026-10-21 12:31 KST
 > 29건 수집 · 검증 통과
 
 ## 📊 소스별 건수
@@ -24,20 +24,20 @@ Naavik: 10건 · PocketGamer.biz: 10건 · SensorTower: 9건
 17. [The Great Mobile Convergence](https://naavik.co/weekly-digest/the-great-mobile-convergence/) — Aug 23, 2026 · Naavik
 18. [Roblox’s Expensive Year of Good Intentions](https://naavik.co/digest/robloxs-expensive-year-of-good-intentions/) — Aug 16, 2026 · Naavik
 19. [Friendslop: Disrupting the Live-ops Status Quo](https://naavik.co/digest/friendslop-disrupting-the-live-ops-status-quo/) — Aug 09, 2026 · Naavik
-20. [Clash of Critters surpasses $50m in under five months](https://www.pocketgamer.biz/clash-of-critters-surpasses-50m-in-under-five-months/) — October 19, 2026 · PocketGamer.biz
-21. [Love and Deepspace backlash continues amid Blade Runner 2049 crossover](https://www.pocketgamer.biz/love-and-deepspace-backlash-continues-amid-blade-runner-2049-crossover/) — October 19, 2026 · PocketGamer.biz
-22. [Esports World Cup opens new global pathways to 2027 event](https://www.pocketgamer.biz/esports-world-cup-opens-new-global-pathways-to-2027-event/) — October 19, 2026 · PocketGamer.biz
-23. [Nominations now open for the Pocket Gamer Awards 2027](https://www.pocketgamer.biz/nominations-now-open-for-the-pocket-gamer-awards-2027/) — October 19, 2026 · PocketGamer.biz
-24. [Mexico orders digital platforms to protect minors from harmful content](https://www.pocketgamer.biz/mexico-orders-digital-platforms-to-shield-minors-from-harmful-content/) — October 19, 2026 · PocketGamer.biz
-25. [Flow Games confirms $49m in total funding from Tencent and VC investors](https://www.pocketgamer.biz/flow-games-confirms-49m-in-total-funding-from-tencent-and-vc-investors/) — October 16, 2026 · PocketGamer.biz
-26. [Supercell brings Clash Royale to tabletop with new Kickstarter board game](https://www.pocketgamer.biz/supercell-brings-clash-royale-to-tabletop-with-new-kickstarter-board-game/) — October 16, 2026 · PocketGamer.biz
-27. [War Robots surpasses $50m in Steam lifetime revenue](https://www.pocketgamer.biz/war-robots-surpasses-50m-in-steam-lifetime-revenue/) — October 16, 2026 · PocketGamer.biz
-28. [East Side Games secures $2.8m in Canadian credit and a $4m loan](https://www.pocketgamer.biz/east-side-games-secures-28m-in-canadian-credit-and-a-4m-loan/) — October 16, 2026 · PocketGamer.biz
-29. [Xbox launches Labs group to explore new gaming technology](https://www.pocketgamer.biz/xbox-launches-labs-group-to-explore-new-gaming-technology/) — October 16, 2026 · PocketGamer.biz
+20. [Griffin Gaming Partners and Entertainment 360 launch game adaptation venture HITpoint Entertainment](https://www.pocketgamer.biz/griffin-gaming-partners-and-entertainment-360-launch-game-adaptation-venture/) — October 20, 2026 · PocketGamer.biz
+21. [Dragon City, FarmVille 3, Golf Rival: Zynga’s Halloween plans for 16 live games](https://www.pocketgamer.biz/dragon-city-farmville-3-golf-rival-zyngas-halloween-plans-for-16-live-games/) — October 20, 2026 · PocketGamer.biz
+22. [Savvy Games Group signs MoU with Bahrain university to support games education](https://www.pocketgamer.biz/savvy-games-group-signs-mou-with-bahrain-university-to-support-games-education/) — October 20, 2026 · PocketGamer.biz
+23. [Supercell completes full acquisition of Metacore](https://www.pocketgamer.biz/supercell-completes-full-acquisition-of-metacore/) — October 19, 2026 · PocketGamer.biz
+24. [Clash of Critters surpasses $50m in under five months](https://www.pocketgamer.biz/clash-of-critters-surpasses-50m-in-under-five-months/) — October 19, 2026 · PocketGamer.biz
+25. [Love and Deepspace backlash continues amid Blade Runner 2049 crossover](https://www.pocketgamer.biz/love-and-deepspace-backlash-continues-amid-blade-runner-2049-crossover/) — October 19, 2026 · PocketGamer.biz
+26. [Esports World Cup opens new global pathways to 2027 event](https://www.pocketgamer.biz/esports-world-cup-opens-new-global-pathways-to-2027-event/) — October 19, 2026 · PocketGamer.biz
+27. [Nominations now open for the Pocket Gamer Awards 2027](https://www.pocketgamer.biz/nominations-now-open-for-the-pocket-gamer-awards-2027/) — October 19, 2026 · PocketGamer.biz
+28. [Mexico orders digital platforms to protect minors from harmful content](https://www.pocketgamer.biz/mexico-orders-digital-platforms-to-shield-minors-from-harmful-content/) — October 19, 2026 · PocketGamer.biz
+29. [Flow Games confirms $49m in total funding from Tencent and VC investors](https://www.pocketgamer.biz/flow-games-confirms-49m-in-total-funding-from-tencent-and-vc-investors/) — October 16, 2026 · PocketGamer.biz
 
 ## 📈 Steam 동시 접속자
-- Counter-Strike 2 — 429,208명
-- Dota 2 — 488,557명
-- PUBG: BATTLEGROUNDS — 183,664명
-- Baldur's Gate 3 — 33,458명
-- Cyberpunk 2077 — 30,754명
+- Counter-Strike 2 — 413,431명
+- Dota 2 — 478,323명
+- PUBG: BATTLEGROUNDS — 183,685명
+- Baldur's Gate 3 — 32,590명
+- Cyberpunk 2077 — 34,154명
