@@ -1,4 +1,4 @@
-# 🎮 게임 산업 브리핑 — 2026-10-23 12:36 KST
+# 🎮 게임 산업 브리핑 — 2026-10-24 12:30 KST
 > 29건 수집 · 검증 통과
 
 ## 📊 소스별 건수
@@ -24,20 +24,20 @@ Naavik: 10건 · PocketGamer.biz: 10건 · SensorTower: 9건
 17. [The Great Mobile Convergence](https://naavik.co/weekly-digest/the-great-mobile-convergence/) — Aug 23, 2026 · Naavik
 18. [Roblox’s Expensive Year of Good Intentions](https://naavik.co/digest/robloxs-expensive-year-of-good-intentions/) — Aug 16, 2026 · Naavik
 19. [Friendslop: Disrupting the Live-ops Status Quo](https://naavik.co/digest/friendslop-disrupting-the-live-ops-status-quo/) — Aug 09, 2026 · Naavik
-20. [Fortnite returns to the App Store in Australia today](https://www.pocketgamer.biz/fortnite-returns-to-the-app-store-in-australia-today/) — October 22, 2026 · PocketGamer.biz
-21. [Mika Games raises $10m to fund mobile game studios](https://www.pocketgamer.biz/mika-games-raises-10m-to-fund-mobile-game-studios/) — October 22, 2026 · PocketGamer.biz
-22. [Nebula Studio’s Rotate Rings surpasses 10m mobile installs](https://www.pocketgamer.biz/nebula-studios-rotate-rings-surpasses-10m-mobile-installs/) — October 21, 2026 · PocketGamer.biz
-23. [Umamusume's LA concerts cancelled over US visa issues](https://www.pocketgamer.biz/umamusumes-la-concerts-cancelled-over-us-visa-issues/) — October 21, 2026 · PocketGamer.biz
-24. [Norway social media ban to target Roblox, Snapchat and TikTok](https://www.pocketgamer.biz/norway-social-media-ban-to-target-roblox-snapchat-and-tiktok/) — October 21, 2026 · PocketGamer.biz
-25. [Why Supercell couldn’t save Squad Busters, Nintendo learns IP isn’t enough and Google's new AI game maker | Week in Mobile Games podcast](https://www.pocketgamer.biz/week-in-mobile-games-podcast-6622679/) — October 20, 2026 · PocketGamer.biz
-26. [Games with loot boxes receive updated PEGI 16 rating for paid random items](https://www.pocketgamer.biz/games-with-loot-boxes-receive-updated-pegi-16-rating-for-paid-random-items/) — October 20, 2026 · PocketGamer.biz
-27. [Mad Hook's Hazim Al-Hanbali: “If I want to change one thing in the sector, I will convert competition to collaboration"](https://www.pocketgamer.biz/if-i-want-to-change-one-thing-in-the-sector-i-will-convert-competition-to-collaboration/) — October 20, 2026 · PocketGamer.biz
-28. [Griffin Gaming Partners and Entertainment 360 launch game adaptation venture HITpoint Entertainment](https://www.pocketgamer.biz/griffin-gaming-partners-and-entertainment-360-launch-game-adaptation-venture/) — October 20, 2026 · PocketGamer.biz
-29. [Dragon City, FarmVille 3, Golf Rival: Zynga’s Halloween plans for 16 live games](https://www.pocketgamer.biz/dragon-city-farmville-3-golf-rival-zyngas-halloween-plans-for-16-live-games/) — October 20, 2026 · PocketGamer.biz
+20. [Dispatch coming to mobile on December 9th with first four episodes free](https://www.pocketgamer.biz/dispatch-coming-to-mobile-on-december-9th-with-first-four-episodes-free/) — October 23, 2026 · PocketGamer.biz
+21. [GameMaker makes GMRT free for commercial use from 2027](https://www.pocketgamer.biz/gamemaker-makes-gmrt-free-for-commercial-use-from-2027/) — October 23, 2026 · PocketGamer.biz
+22. [Side acquires art studio Roboto Entertainment to expand presence in China](https://www.pocketgamer.biz/side-acquires-art-studio-roboto-entertainment-to-expand-presence-in-china/) — October 22, 2026 · PocketGamer.biz
+23. [Clash Royale tabletop game surpasses $100,000 on Kickstarter after reaching target in one hour](https://www.pocketgamer.biz/clash-royale-tabletop-game-surpasses-100000-on-kickstarter-after-reaching-target-in-one-hour/) — October 22, 2026 · PocketGamer.biz
+24. [Fortnite returns to the App Store in Australia today](https://www.pocketgamer.biz/fortnite-returns-to-the-app-store-in-australia-today/) — October 22, 2026 · PocketGamer.biz
+25. [Mika Games raises $10m to fund mobile game studios](https://www.pocketgamer.biz/mika-games-raises-10m-to-fund-mobile-game-studios/) — October 22, 2026 · PocketGamer.biz
+26. [Nebula Studio’s Rotate Rings surpasses 10m mobile installs](https://www.pocketgamer.biz/nebula-studios-rotate-rings-surpasses-10m-mobile-installs/) — October 21, 2026 · PocketGamer.biz
+27. [Umamusume's LA concerts cancelled over US visa issues](https://www.pocketgamer.biz/umamusumes-la-concerts-cancelled-over-us-visa-issues/) — October 21, 2026 · PocketGamer.biz
+28. [Norway social media ban to target Roblox, Snapchat and TikTok](https://www.pocketgamer.biz/norway-social-media-ban-to-target-roblox-snapchat-and-tiktok/) — October 21, 2026 · PocketGamer.biz
+29. [Why Supercell couldn’t save Squad Busters, Nintendo learns IP isn’t enough and Google's new AI game maker | Week in Mobile Games podcast](https://www.pocketgamer.biz/week-in-mobile-games-podcast-6622679/) — October 20, 2026 · PocketGamer.biz
 
 ## 📈 Steam 동시 접속자
-- Counter-Strike 2 — 447,792명
-- Dota 2 — 551,940명
-- PUBG: BATTLEGROUNDS — 194,706명
-- Baldur's Gate 3 — 32,541명
-- Cyberpunk 2077 — 75,678명
+- Counter-Strike 2 — 547,029명
+- Dota 2 — 579,776명
+- PUBG: BATTLEGROUNDS — 226,279명
+- Baldur's Gate 3 — 39,149명
+- Cyberpunk 2077 — 101,623명
