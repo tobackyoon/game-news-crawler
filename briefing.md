@@ -1,4 +1,4 @@
-# 🎮 게임 산업 브리핑 — 2026-10-28 13:17 KST
+# 🎮 게임 산업 브리핑 — 2026-10-29 13:37 KST
 > 29건 수집 · 검증 통과
 
 ## 📊 소스별 건수
@@ -24,20 +24,20 @@ Naavik: 10건 · PocketGamer.biz: 10건 · SensorTower: 9건
 17. [The Future of Kids Gaming](https://naavik.co/weekly-digest/the-future-of-kids-gaming/) — Aug 30, 2026 · Naavik
 18. [The Great Mobile Convergence](https://naavik.co/weekly-digest/the-great-mobile-convergence/) — Aug 23, 2026 · Naavik
 19. [Roblox’s Expensive Year of Good Intentions](https://naavik.co/digest/robloxs-expensive-year-of-good-intentions/) — Aug 16, 2026 · Naavik
-20. [Auroch Digital cuts quarter of staff](https://www.pocketgamer.biz/auroch-digital-cuts-around-a-quarter-of-studio-roles/) — October 27, 2026 · PocketGamer.biz
-21. [Microsoft offers voluntary buyouts to 60,000 employees](https://www.pocketgamer.biz/microsoft-offers-voluntary-buyouts-to-60000-employees/) — October 27, 2026 · PocketGamer.biz
-22. [Report: Private equity firms considered $150bn Xbox buyout](https://www.pocketgamer.biz/private-equity-firms-considered-150bn-xbox-buyout/) — October 26, 2026 · PocketGamer.biz
-23. [Report: Netflix fails with $500m offer to adapt Xbox gaming IP to film and TV](https://www.pocketgamer.biz/report-netflix-fails-with-500m-offer-to-adapt-xbox-gaming-ip-to-film-and-tv/) — October 26, 2026 · PocketGamer.biz
-24. [Xbox COO Helen Chiang exits after three months in role, 21 years at Microsoft](https://www.pocketgamer.biz/xbox-coo-helen-chiang-leaves-microsoft-months-after-appointment/) — October 26, 2026 · PocketGamer.biz
-25. [Mario creator Shigeru Miyamoto named first games industry recipient of Order of Culture award](https://www.pocketgamer.biz/mario-creator-shigeru-miyamoto-named-first-games-industry-recipient-of-order-of-culture-award/) — October 26, 2026 · PocketGamer.biz
-26. [Why EA shut down BioWare, Supercell’s Metacore takeover and Mika Games’ $10m soft launch bet | Week in Mobile Games podcast](https://www.pocketgamer.biz/why-ea-shut-down-bioware-mika-games-10m-supercell-metacore-week-in-mobile-games-podcast/) — October 26, 2026 · PocketGamer.biz
-27. [Stillfront names former King executive Marcus Jacobs as CEO](https://www.pocketgamer.biz/stillfront-names-former-king-executive-marcus-jacobs-as-ceo/) — October 23, 2026 · PocketGamer.biz
-28. [Dispatch coming to mobile on December 9th with first four episodes free](https://www.pocketgamer.biz/dispatch-coming-to-mobile-on-december-9th-with-first-four-episodes-free/) — October 23, 2026 · PocketGamer.biz
-29. [GameMaker makes GMRT free for commercial use from 2027](https://www.pocketgamer.biz/gamemaker-makes-gmrt-free-for-commercial-use-from-2027/) — October 23, 2026 · PocketGamer.biz
+20. [Aream & Co founding partner Kartik Prabhakara to keynote The Funding Formula 2026](https://www.pocketgamer.biz/aream-and-co-founding-partner-kartik-prabhakara-to-keynote-the-funding-formula-2026/) — October 28, 2026 · PocketGamer.biz
+21. [Pokémon Unite ending service on mobile and Switch in 2027](https://www.pocketgamer.biz/pokmon-unite-ending-service-on-mobile-and-switch-in-2027/) — October 27, 2026 · PocketGamer.biz
+22. [Games drive Nazara to record $84.3m in Q2 FY27 revenue](https://www.pocketgamer.biz/games-drive-nazara-to-record-843m-in-q2-fy27-revenue/) — October 27, 2026 · PocketGamer.biz
+23. [Auroch Digital cuts quarter of staff](https://www.pocketgamer.biz/auroch-digital-cuts-around-a-quarter-of-studio-roles/) — October 27, 2026 · PocketGamer.biz
+24. [Microsoft offers voluntary buyouts to 60,000 employees](https://www.pocketgamer.biz/microsoft-offers-voluntary-buyouts-to-60000-employees/) — October 27, 2026 · PocketGamer.biz
+25. [Report: Private equity firms considered $150bn Xbox buyout](https://www.pocketgamer.biz/private-equity-firms-considered-150bn-xbox-buyout/) — October 26, 2026 · PocketGamer.biz
+26. [Report: Netflix fails with $500m offer to adapt Xbox gaming IP to film and TV](https://www.pocketgamer.biz/report-netflix-fails-with-500m-offer-to-adapt-xbox-gaming-ip-to-film-and-tv/) — October 26, 2026 · PocketGamer.biz
+27. [Xbox COO Helen Chiang exits after three months in role, 21 years at Microsoft](https://www.pocketgamer.biz/xbox-coo-helen-chiang-leaves-microsoft-months-after-appointment/) — October 26, 2026 · PocketGamer.biz
+28. [Mario creator Shigeru Miyamoto named first games industry recipient of Order of Culture award](https://www.pocketgamer.biz/mario-creator-shigeru-miyamoto-named-first-games-industry-recipient-of-order-of-culture-award/) — October 26, 2026 · PocketGamer.biz
+29. [Why EA shut down BioWare, Supercell’s Metacore takeover and Mika Games’ $10m soft launch bet | Week in Mobile Games podcast](https://www.pocketgamer.biz/why-ea-shut-down-bioware-mika-games-10m-supercell-metacore-week-in-mobile-games-podcast/) — October 26, 2026 · PocketGamer.biz
 
 ## 📈 Steam 동시 접속자
-- Counter-Strike 2 — 429,325명
-- Dota 2 — 499,426명
-- PUBG: BATTLEGROUNDS — 128,610명
-- Baldur's Gate 3 — 28,458명
-- Cyberpunk 2077 — 100,799명
+- Counter-Strike 2 — 451,562명
+- Dota 2 — 325,152명
+- PUBG: BATTLEGROUNDS — 226,931명
+- Baldur's Gate 3 — 25,844명
+- Cyberpunk 2077 — 95,374명
