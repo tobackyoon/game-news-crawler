@@ -1,4 +1,4 @@
-# 🎮 게임 산업 브리핑 — 2026-10-30 13:37 KST
+# 🎮 게임 산업 브리핑 — 2026-10-31 13:20 KST
 > 29건 수집 · 검증 통과
 
 ## 📊 소스별 건수
@@ -24,20 +24,20 @@ Naavik: 10건 · PocketGamer.biz: 10건 · SensorTower: 9건
 17. [The Future of Kids Gaming](https://naavik.co/weekly-digest/the-future-of-kids-gaming/) — Aug 30, 2026 · Naavik
 18. [The Great Mobile Convergence](https://naavik.co/weekly-digest/the-great-mobile-convergence/) — Aug 23, 2026 · Naavik
 19. [Roblox’s Expensive Year of Good Intentions](https://naavik.co/digest/robloxs-expensive-year-of-good-intentions/) — Aug 16, 2026 · Naavik
-20. [Xsolla partners with PocketGamer.biz on the Top 30 Canada Game Makers 2026](https://www.pocketgamer.biz/xsolla-partners-with-pocketgamerbiz-on-the-top-30-canada-game-makers-2026/) — October 29, 2026 · PocketGamer.biz
-21. [South Korea fines Google and Apple $47.6m over app payments](https://www.pocketgamer.biz/south-korea-fines-google-and-apple-476m-over-app-payments/) — October 29, 2026 · PocketGamer.biz
-22. [Google Play selects 10 African studios for $1m Indie Games Fund](https://www.pocketgamer.biz/google-play-selects-10-african-studios-for-1m-indie-games-fund/) — October 29, 2026 · PocketGamer.biz
-23. [Atari taps Crossy Road creator to lead mobile business](https://www.pocketgamer.biz/atari-taps-crossy-road-creator-to-lead-mobile-business/) — October 28, 2026 · PocketGamer.biz
-24. [Jordan-based Dimensions Games Studio closes after four years](https://www.pocketgamer.biz/jordan-based-dimensions-games-studio-closes-after-four-years/) — October 28, 2026 · PocketGamer.biz
-25. [Unity partners with PvX to offer funding for game developers](https://www.pocketgamer.biz/unity-partners-with-pvx-to-offer-funding-for-game-developers/) — October 28, 2026 · PocketGamer.biz
-26. [Aream & Co founding partner Kartik Prabhakara to keynote The Funding Formula 2026](https://www.pocketgamer.biz/aream-and-co-founding-partner-kartik-prabhakara-to-keynote-the-funding-formula-2026/) — October 28, 2026 · PocketGamer.biz
-27. [Pokémon Unite ending service on mobile and Switch in 2027](https://www.pocketgamer.biz/pokmon-unite-ending-service-on-mobile-and-switch-in-2027/) — October 27, 2026 · PocketGamer.biz
-28. [Games drive Nazara to record $84.3m in Q2 FY27 revenue](https://www.pocketgamer.biz/games-drive-nazara-to-record-843m-in-q2-fy27-revenue/) — October 27, 2026 · PocketGamer.biz
-29. [Auroch Digital cuts quarter of staff](https://www.pocketgamer.biz/auroch-digital-cuts-around-a-quarter-of-studio-roles/) — October 27, 2026 · PocketGamer.biz
+20. [Netflix developing live-action PUBG series with Donald Glover](https://www.pocketgamer.biz/netflix-developing-live-action-pubg-series-with-donald-glover/) — October 30, 2026 · PocketGamer.biz
+21. [Studio Atelico launches on-device AI engine for game developers](https://www.pocketgamer.biz/studio-atelico-launches-on-device-ai-engine-for-game-developers/) — October 29, 2026 · PocketGamer.biz
+22. [Xsolla partners with PocketGamer.biz on the Top 30 Canada Game Makers 2026](https://www.pocketgamer.biz/xsolla-partners-with-pocketgamerbiz-on-the-top-30-canada-game-makers-2026/) — October 29, 2026 · PocketGamer.biz
+23. [South Korea fines Google and Apple $47.6m over app payments](https://www.pocketgamer.biz/south-korea-fines-google-and-apple-476m-over-app-payments/) — October 29, 2026 · PocketGamer.biz
+24. [Google Play selects 10 African studios for $1m Indie Games Fund](https://www.pocketgamer.biz/google-play-selects-10-african-studios-for-1m-indie-games-fund/) — October 29, 2026 · PocketGamer.biz
+25. [Atari taps Crossy Road creator to lead mobile business](https://www.pocketgamer.biz/atari-taps-crossy-road-creator-to-lead-mobile-business/) — October 28, 2026 · PocketGamer.biz
+26. [Jordan-based Dimensions Games Studio closes after four years](https://www.pocketgamer.biz/jordan-based-dimensions-games-studio-closes-after-four-years/) — October 28, 2026 · PocketGamer.biz
+27. [Unity partners with PvX to offer funding for game developers](https://www.pocketgamer.biz/unity-partners-with-pvx-to-offer-funding-for-game-developers/) — October 28, 2026 · PocketGamer.biz
+28. [Aream & Co founding partner Kartik Prabhakara to keynote The Funding Formula 2026](https://www.pocketgamer.biz/aream-and-co-founding-partner-kartik-prabhakara-to-keynote-the-funding-formula-2026/) — October 28, 2026 · PocketGamer.biz
+29. [Pokémon Unite ending service on mobile and Switch in 2027](https://www.pocketgamer.biz/pokmon-unite-ending-service-on-mobile-and-switch-in-2027/) — October 27, 2026 · PocketGamer.biz
 
 ## 📈 Steam 동시 접속자
-- Counter-Strike 2 — 419,253명
-- Dota 2 — 318,095명
-- PUBG: BATTLEGROUNDS — 211,830명
-- Baldur's Gate 3 — 26,243명
-- Cyberpunk 2077 — 94,946명
+- Counter-Strike 2 — 512,434명
+- Dota 2 — 367,064명
+- PUBG: BATTLEGROUNDS — 232,362명
+- Baldur's Gate 3 — 33,729명
+- Cyberpunk 2077 — 115,720명
