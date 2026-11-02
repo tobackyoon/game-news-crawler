@@ -1,19 +1,19 @@
-# 🎮 게임 산업 브리핑 — 2026-11-01 13:40 KST
+# 🎮 게임 산업 브리핑 — 2026-11-02 13:42 KST
 > 29건 수집 · 검증 통과
 
 ## 📊 소스별 건수
 Naavik: 10건 · PocketGamer.biz: 10건 · SensorTower: 9건
 
 ## 📰 기사 목록
-1. [2026년 한국 쇼핑 시장 트렌드: 《쿠팡》 이용자 규모 1위… 《네이버플러스 스토어》·분야별 전문 쇼핑 플랫폼 성장세 주목](https://sensortower.com/ko/blog/2026-korea-shopping-market-trends) —  · SensorTower
-2. [[리포트 공유] 《2026년 한국 디지털 광고 인사이트》](https://sensortower.com/ko/blog/state-of-digital-advertising-in-korea-2026-report-KR) —  · SensorTower
-3. [2026년 일본 게임 시장: 글로벌 게임 강국을 이끄는 게임·전략·IP](https://sensortower.com/ko/blog/state-of-japan-gaming-2026-korea) —  · SensorTower
-4. [한국 숏폼 드라마 시장, 8월 인앱구매 수익 역대 최고치… 해외 플랫폼 강세 속 국내 《비글루》 존재감 확대](https://sensortower.com/ko/blog/korea-short-drama-market-hits-record-in-app-purchase-revenue) —  · SensorTower
-5. [한국 모바일 MMORPG 시장, 대형 신작 흥행에 매출 반등… 《솔: 인챈트》·《제우스: 오만의 신》 성장 견인](https://sensortower.com/ko/blog/korea-mobile-mmorpg-market-rebounds-on-strong-new-releases) —  · SensorTower
-6. [2026년 9월 전 세계 모바일 게임 매출 및 다운로드 순위 TOP 10](https://sensortower.com/ko/blog/top-10-worldwide-mobile-games-by-revenue-and-downloads-in-september-2026-KR) —  · SensorTower
-7. [《네이버 웹툰》, 글로벌 다운로드·인앱구매 수익 역대 최고치…인도는 이용자 성장, 한국·미국은 수익화 견인](https://sensortower.com/ko/blog/webtoon-hits-all-time-highs-in-global-downloads-and-iap-revenue) —  · SensorTower
-8. [《셋로그》, 일본·한국 소셜 미디어 앱 다운로드 2위…새로운 소셜 미디어 사용 방식의 부상](https://sensortower.com/ko/blog/setlog-ranks-no-2-among-social-media-apps-by-downloads-in-japan-and-korea) —  · SensorTower
-9. [[리포트 공유] 《2026년 디지털 뱅킹 현황》](https://sensortower.com/ko/blog/state-of-digital-banking-2026-report-korea) —  · SensorTower
+1. [[리포트 공유] 《2026년 한국 게임 시장 인사이트》](https://sensortower.com/ko/blog/state-of-gaming-in-korea-2026-report-KR) —  · SensorTower
+2. [2026년 한국 쇼핑 시장 트렌드: 《쿠팡》 이용자 규모 1위… 《네이버플러스 스토어》·분야별 전문 쇼핑 플랫폼 성장세 주목](https://sensortower.com/ko/blog/2026-korea-shopping-market-trends) —  · SensorTower
+3. [[리포트 공유] 《2026년 한국 디지털 광고 인사이트》](https://sensortower.com/ko/blog/state-of-digital-advertising-in-korea-2026-report-KR) —  · SensorTower
+4. [2026년 일본 게임 시장: 글로벌 게임 강국을 이끄는 게임·전략·IP](https://sensortower.com/ko/blog/state-of-japan-gaming-2026-korea) —  · SensorTower
+5. [한국 숏폼 드라마 시장, 8월 인앱구매 수익 역대 최고치… 해외 플랫폼 강세 속 국내 《비글루》 존재감 확대](https://sensortower.com/ko/blog/korea-short-drama-market-hits-record-in-app-purchase-revenue) —  · SensorTower
+6. [한국 모바일 MMORPG 시장, 대형 신작 흥행에 매출 반등… 《솔: 인챈트》·《제우스: 오만의 신》 성장 견인](https://sensortower.com/ko/blog/korea-mobile-mmorpg-market-rebounds-on-strong-new-releases) —  · SensorTower
+7. [2026년 9월 전 세계 모바일 게임 매출 및 다운로드 순위 TOP 10](https://sensortower.com/ko/blog/top-10-worldwide-mobile-games-by-revenue-and-downloads-in-september-2026-KR) —  · SensorTower
+8. [《네이버 웹툰》, 글로벌 다운로드·인앱구매 수익 역대 최고치…인도는 이용자 성장, 한국·미국은 수익화 견인](https://sensortower.com/ko/blog/webtoon-hits-all-time-highs-in-global-downloads-and-iap-revenue) —  · SensorTower
+9. [《셋로그》, 일본·한국 소셜 미디어 앱 다운로드 2위…새로운 소셜 미디어 사용 방식의 부상](https://sensortower.com/ko/blog/setlog-ranks-no-2-among-social-media-apps-by-downloads-in-japan-and-korea) —  · SensorTower
 10. [Skydance Has Everything It Needs Except Focus](https://naavik.co/weekly-digest/skydance-has-everything-it-needs-except-focus/) — Oct 25, 2026 · Naavik
 11. [Meta’s Role in Gaming Today: Muse, VR, and UA](https://naavik.co/weekly-digest/metas-role-in-gaming-today-muse-vr-and-ua/) — Oct 18, 2026 · Naavik
 12. [CD Projekt’s Best Days May Be Ahead](https://naavik.co/weekly-digest/cd-projekts-best-days-may-be-ahead/) — Oct 11, 2026 · Naavik
@@ -36,8 +36,8 @@ Naavik: 10건 · PocketGamer.biz: 10건 · SensorTower: 9건
 29. [Aream & Co founding partner Kartik Prabhakara to keynote The Funding Formula 2026](https://www.pocketgamer.biz/aream-and-co-founding-partner-kartik-prabhakara-to-keynote-the-funding-formula-2026/) — October 28, 2026 · PocketGamer.biz
 
 ## 📈 Steam 동시 접속자
-- Counter-Strike 2 — 507,421명
-- Dota 2 — 362,184명
-- PUBG: BATTLEGROUNDS — 277,604명
-- Baldur's Gate 3 — 32,345명
-- Cyberpunk 2077 — 115,027명
+- Counter-Strike 2 — 444,399명
+- Dota 2 — 333,084명
+- PUBG: BATTLEGROUNDS — 206,911명
+- Baldur's Gate 3 — 32,872명
+- Cyberpunk 2077 — 101,791명
