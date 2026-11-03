@@ -1,4 +1,4 @@
-# 🎮 게임 산업 브리핑 — 2026-11-02 13:42 KST
+# 🎮 게임 산업 브리핑 — 2026-11-03 14:33 KST
 > 29건 수집 · 검증 통과
 
 ## 📊 소스별 건수
@@ -14,30 +14,30 @@ Naavik: 10건 · PocketGamer.biz: 10건 · SensorTower: 9건
 7. [2026년 9월 전 세계 모바일 게임 매출 및 다운로드 순위 TOP 10](https://sensortower.com/ko/blog/top-10-worldwide-mobile-games-by-revenue-and-downloads-in-september-2026-KR) —  · SensorTower
 8. [《네이버 웹툰》, 글로벌 다운로드·인앱구매 수익 역대 최고치…인도는 이용자 성장, 한국·미국은 수익화 견인](https://sensortower.com/ko/blog/webtoon-hits-all-time-highs-in-global-downloads-and-iap-revenue) —  · SensorTower
 9. [《셋로그》, 일본·한국 소셜 미디어 앱 다운로드 2위…새로운 소셜 미디어 사용 방식의 부상](https://sensortower.com/ko/blog/setlog-ranks-no-2-among-social-media-apps-by-downloads-in-japan-and-korea) —  · SensorTower
-10. [Skydance Has Everything It Needs Except Focus](https://naavik.co/weekly-digest/skydance-has-everything-it-needs-except-focus/) — Oct 25, 2026 · Naavik
-11. [Meta’s Role in Gaming Today: Muse, VR, and UA](https://naavik.co/weekly-digest/metas-role-in-gaming-today-muse-vr-and-ua/) — Oct 18, 2026 · Naavik
-12. [CD Projekt’s Best Days May Be Ahead](https://naavik.co/weekly-digest/cd-projekts-best-days-may-be-ahead/) — Oct 11, 2026 · Naavik
-13. [Unpacking China’s Out-of-Game Economy](https://naavik.co/weekly-digest/unpacking-chinas-out-of-game-economy/) — Oct 04, 2026 · Naavik
-14. [‘Tis the Season: Holiday Live-Ops in 2026](https://naavik.co/weekly-digest/tis-the-season-holiday-live-ops-in-2026/) — Sep 27, 2026 · Naavik
-15. [The Real Value of Licensed IP](https://naavik.co/weekly-digest/the-real-value-of-licensed-ip/) — Sep 20, 2026 · Naavik
-16. [The New Money Behind Indie Games](https://naavik.co/weekly-digest/the-new-money-behind-indie-games/) — Sep 13, 2026 · Naavik
-17. [The Future of Kids Gaming](https://naavik.co/weekly-digest/the-future-of-kids-gaming/) — Aug 30, 2026 · Naavik
-18. [The Great Mobile Convergence](https://naavik.co/weekly-digest/the-great-mobile-convergence/) — Aug 23, 2026 · Naavik
-19. [Roblox’s Expensive Year of Good Intentions](https://naavik.co/digest/robloxs-expensive-year-of-good-intentions/) — Aug 16, 2026 · Naavik
-20. [Nexus signs MoU with Dubai to support local game studios and global publishing](https://www.pocketgamer.biz/nexus-signs-mou-with-dubai-to-support-local-game-studios-and-global-publishing/) — October 30, 2026 · PocketGamer.biz
-21. [Netflix developing live-action PUBG series with Donald Glover](https://www.pocketgamer.biz/netflix-developing-live-action-pubg-series-with-donald-glover/) — October 30, 2026 · PocketGamer.biz
-22. [Studio Atelico launches on-device AI engine for game developers](https://www.pocketgamer.biz/studio-atelico-launches-on-device-ai-engine-for-game-developers/) — October 29, 2026 · PocketGamer.biz
-23. [Xsolla partners with PocketGamer.biz on the Top 30 Canada Game Makers 2026](https://www.pocketgamer.biz/xsolla-partners-with-pocketgamerbiz-on-the-top-30-canada-game-makers-2026/) — October 29, 2026 · PocketGamer.biz
-24. [South Korea fines Google and Apple $47.6m over app payments](https://www.pocketgamer.biz/south-korea-fines-google-and-apple-476m-over-app-payments/) — October 29, 2026 · PocketGamer.biz
-25. [Google Play selects 10 African studios for $1m Indie Games Fund](https://www.pocketgamer.biz/google-play-selects-10-african-studios-for-1m-indie-games-fund/) — October 29, 2026 · PocketGamer.biz
-26. [Atari taps Crossy Road creator to lead mobile business](https://www.pocketgamer.biz/atari-taps-crossy-road-creator-to-lead-mobile-business/) — October 28, 2026 · PocketGamer.biz
-27. [Jordan-based Dimensions Games Studio closes after four years](https://www.pocketgamer.biz/jordan-based-dimensions-games-studio-closes-after-four-years/) — October 28, 2026 · PocketGamer.biz
-28. [Unity partners with PvX to offer funding for game developers](https://www.pocketgamer.biz/unity-partners-with-pvx-to-offer-funding-for-game-developers/) — October 28, 2026 · PocketGamer.biz
-29. [Aream & Co founding partner Kartik Prabhakara to keynote The Funding Formula 2026](https://www.pocketgamer.biz/aream-and-co-founding-partner-kartik-prabhakara-to-keynote-the-funding-formula-2026/) — October 28, 2026 · PocketGamer.biz
+10. [Bilibili: From Games to Mega-Platform](https://naavik.co/weekly-digest/bilibili-from-games-to-mega-platform/) — Nov 01, 2026 · Naavik
+11. [Skydance Has Everything It Needs Except Focus](https://naavik.co/weekly-digest/skydance-has-everything-it-needs-except-focus/) — Oct 25, 2026 · Naavik
+12. [Meta’s Role in Gaming Today: Muse, VR, and UA](https://naavik.co/weekly-digest/metas-role-in-gaming-today-muse-vr-and-ua/) — Oct 18, 2026 · Naavik
+13. [CD Projekt’s Best Days May Be Ahead](https://naavik.co/weekly-digest/cd-projekts-best-days-may-be-ahead/) — Oct 11, 2026 · Naavik
+14. [Unpacking China’s Out-of-Game Economy](https://naavik.co/weekly-digest/unpacking-chinas-out-of-game-economy/) — Oct 04, 2026 · Naavik
+15. [‘Tis the Season: Holiday Live-Ops in 2026](https://naavik.co/weekly-digest/tis-the-season-holiday-live-ops-in-2026/) — Sep 27, 2026 · Naavik
+16. [The Real Value of Licensed IP](https://naavik.co/weekly-digest/the-real-value-of-licensed-ip/) — Sep 20, 2026 · Naavik
+17. [The New Money Behind Indie Games](https://naavik.co/weekly-digest/the-new-money-behind-indie-games/) — Sep 13, 2026 · Naavik
+18. [The Future of Kids Gaming](https://naavik.co/weekly-digest/the-future-of-kids-gaming/) — Aug 30, 2026 · Naavik
+19. [The Great Mobile Convergence](https://naavik.co/weekly-digest/the-great-mobile-convergence/) — Aug 23, 2026 · Naavik
+20. [Anthropic restricts Claude from recreating existing games amid AI cloning concerns](https://www.pocketgamer.biz/anthropic-restricts-claude-from-recreating-existing-games-amid-ai-cloning-concerns/) — November 2, 2026 · PocketGamer.biz
+21. [DMCC and Wild Unlimited team up to bring Dubai landmarks to Fortnite](https://www.pocketgamer.biz/dmcc-and-wild-unlimited-team-up-to-bring-dubai-landmarks-to-fortnite/) — November 2, 2026 · PocketGamer.biz
+22. [Jordan Esports Federation signs partnership with King Hussein Business Park](https://www.pocketgamer.biz/jordan-esports-federation-signs-partnership-with-king-hussein-business-park/) — November 2, 2026 · PocketGamer.biz
+23. [Unravelling the corporate web of games companies, Xbox's $500m Netflix offer and Yalla's Western ambitions | Week in Views](https://www.pocketgamer.biz/unravelling-the-corporate-web-of-games-companies-xboxs-500m-netflix-offer-and-yallas-western-ambitions-week-in-views/) — October 30, 2026 · PocketGamer.biz
+24. [More than 80% of Roblox's top games now use AI, while Playgama tracks the tools developers prefer](https://www.pocketgamer.biz/more-than-80-of-robloxs-top-games-now-use-ai-while-playgama-tracks-the-tools-developers-prefer/) — October 30, 2026 · PocketGamer.biz
+25. [Nexus signs MoU with Dubai to support local game studios and global publishing](https://www.pocketgamer.biz/nexus-signs-mou-with-dubai-to-support-local-game-studios-and-global-publishing/) — October 30, 2026 · PocketGamer.biz
+26. [Netflix developing live-action PUBG series with Donald Glover](https://www.pocketgamer.biz/netflix-developing-live-action-pubg-series-with-donald-glover/) — October 30, 2026 · PocketGamer.biz
+27. [Studio Atelico launches on-device AI engine for game developers](https://www.pocketgamer.biz/studio-atelico-launches-on-device-ai-engine-for-game-developers/) — October 29, 2026 · PocketGamer.biz
+28. [Xsolla partners with PocketGamer.biz on the Top 30 Canada Game Makers 2026](https://www.pocketgamer.biz/xsolla-partners-with-pocketgamerbiz-on-the-top-30-canada-game-makers-2026/) — October 29, 2026 · PocketGamer.biz
+29. [South Korea fines Google and Apple $47.6m over app payments](https://www.pocketgamer.biz/south-korea-fines-google-and-apple-476m-over-app-payments/) — October 29, 2026 · PocketGamer.biz
 
 ## 📈 Steam 동시 접속자
-- Counter-Strike 2 — 444,399명
-- Dota 2 — 333,084명
-- PUBG: BATTLEGROUNDS — 206,911명
-- Baldur's Gate 3 — 32,872명
-- Cyberpunk 2077 — 101,791명
+- Counter-Strike 2 — 417,994명
+- Dota 2 — 310,690명
+- PUBG: BATTLEGROUNDS — 235,089명
+- Baldur's Gate 3 — 25,983명
+- Cyberpunk 2077 — 90,666명
