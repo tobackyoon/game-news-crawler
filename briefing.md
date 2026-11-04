@@ -1,4 +1,4 @@
-# 🎮 게임 산업 브리핑 — 2026-11-03 14:33 KST
+# 🎮 게임 산업 브리핑 — 2026-11-04 14:01 KST
 > 29건 수집 · 검증 통과
 
 ## 📊 소스별 건수
@@ -24,20 +24,20 @@ Naavik: 10건 · PocketGamer.biz: 10건 · SensorTower: 9건
 17. [The New Money Behind Indie Games](https://naavik.co/weekly-digest/the-new-money-behind-indie-games/) — Sep 13, 2026 · Naavik
 18. [The Future of Kids Gaming](https://naavik.co/weekly-digest/the-future-of-kids-gaming/) — Aug 30, 2026 · Naavik
 19. [The Great Mobile Convergence](https://naavik.co/weekly-digest/the-great-mobile-convergence/) — Aug 23, 2026 · Naavik
-20. [Anthropic restricts Claude from recreating existing games amid AI cloning concerns](https://www.pocketgamer.biz/anthropic-restricts-claude-from-recreating-existing-games-amid-ai-cloning-concerns/) — November 2, 2026 · PocketGamer.biz
-21. [DMCC and Wild Unlimited team up to bring Dubai landmarks to Fortnite](https://www.pocketgamer.biz/dmcc-and-wild-unlimited-team-up-to-bring-dubai-landmarks-to-fortnite/) — November 2, 2026 · PocketGamer.biz
-22. [Jordan Esports Federation signs partnership with King Hussein Business Park](https://www.pocketgamer.biz/jordan-esports-federation-signs-partnership-with-king-hussein-business-park/) — November 2, 2026 · PocketGamer.biz
-23. [Unravelling the corporate web of games companies, Xbox's $500m Netflix offer and Yalla's Western ambitions | Week in Views](https://www.pocketgamer.biz/unravelling-the-corporate-web-of-games-companies-xboxs-500m-netflix-offer-and-yallas-western-ambitions-week-in-views/) — October 30, 2026 · PocketGamer.biz
-24. [More than 80% of Roblox's top games now use AI, while Playgama tracks the tools developers prefer](https://www.pocketgamer.biz/more-than-80-of-robloxs-top-games-now-use-ai-while-playgama-tracks-the-tools-developers-prefer/) — October 30, 2026 · PocketGamer.biz
-25. [Nexus signs MoU with Dubai to support local game studios and global publishing](https://www.pocketgamer.biz/nexus-signs-mou-with-dubai-to-support-local-game-studios-and-global-publishing/) — October 30, 2026 · PocketGamer.biz
-26. [Netflix developing live-action PUBG series with Donald Glover](https://www.pocketgamer.biz/netflix-developing-live-action-pubg-series-with-donald-glover/) — October 30, 2026 · PocketGamer.biz
-27. [Studio Atelico launches on-device AI engine for game developers](https://www.pocketgamer.biz/studio-atelico-launches-on-device-ai-engine-for-game-developers/) — October 29, 2026 · PocketGamer.biz
-28. [Xsolla partners with PocketGamer.biz on the Top 30 Canada Game Makers 2026](https://www.pocketgamer.biz/xsolla-partners-with-pocketgamerbiz-on-the-top-30-canada-game-makers-2026/) — October 29, 2026 · PocketGamer.biz
-29. [South Korea fines Google and Apple $47.6m over app payments](https://www.pocketgamer.biz/south-korea-fines-google-and-apple-476m-over-app-payments/) — October 29, 2026 · PocketGamer.biz
+20. [Apple struggles to meet demand for $1,999 foldable iPhone Duo](https://www.pocketgamer.biz/apple-struggles-to-meet-demand-for-1999-foldable-iphone-duo/) — November 3, 2026 · PocketGamer.biz
+21. [New mobile RPGs hit $1m twice as fast as puzzle, but puzzle’s playing the long game](https://www.pocketgamer.biz/new-mobile-rpgs-hit-1m-twice-as-fast-as-puzzle-but-puzzles-playing-the-long-game/) — November 3, 2026 · PocketGamer.biz
+22. [Former Xbox COO Helen Chiang disputes claims she was fired over a policy violation](https://www.pocketgamer.biz/former-xbox-coo-helen-chiang-disputes-claims-she-was-fired-over-a-policy-violation/) — November 3, 2026 · PocketGamer.biz
+23. [Exclusive: Snooker champion Stephen Hendry becomes ambassador for 8 Ball Strike](https://www.pocketgamer.biz/exclusive-snooker-champion-stephen-hendry-becomes-ambassador-for-8-ball-strike/) — November 2, 2026 · PocketGamer.biz
+24. [The Top 50 Mobile Game Makers of 2026, iPhone Duo games and Pokémon Unite ends service | Week in Mobile Games podcast](https://www.pocketgamer.biz/week-in-mobile-games-podcast-108/) — November 2, 2026 · PocketGamer.biz
+25. [Pokémon Trading Card Game Pocket celebrates second anniversary with $233m](https://www.pocketgamer.biz/pokmon-trading-card-game-pocket-celebrates-second-anniversary/) — November 2, 2026 · PocketGamer.biz
+26. [Anthropic restricts Claude from recreating existing games amid AI cloning concerns](https://www.pocketgamer.biz/anthropic-restricts-claude-from-recreating-existing-games-amid-ai-cloning-concerns/) — November 2, 2026 · PocketGamer.biz
+27. [DMCC and Wild Unlimited team up to bring Dubai landmarks to Fortnite](https://www.pocketgamer.biz/dmcc-and-wild-unlimited-team-up-to-bring-dubai-landmarks-to-fortnite/) — November 2, 2026 · PocketGamer.biz
+28. [Jordan Esports Federation signs partnership with King Hussein Business Park](https://www.pocketgamer.biz/jordan-esports-federation-signs-partnership-with-king-hussein-business-park/) — November 2, 2026 · PocketGamer.biz
+29. [Unravelling the corporate web of games companies, Xbox's $500m Netflix offer and Yalla's Western ambitions | Week in Views](https://www.pocketgamer.biz/unravelling-the-corporate-web-of-games-companies-xboxs-500m-netflix-offer-and-yallas-western-ambitions-week-in-views/) — October 30, 2026 · PocketGamer.biz
 
 ## 📈 Steam 동시 접속자
-- Counter-Strike 2 — 417,994명
-- Dota 2 — 310,690명
-- PUBG: BATTLEGROUNDS — 235,089명
-- Baldur's Gate 3 — 25,983명
-- Cyberpunk 2077 — 90,666명
+- Counter-Strike 2 — 453,681명
+- Dota 2 — 329,715명
+- PUBG: BATTLEGROUNDS — 25,690명
+- Baldur's Gate 3 — 28,063명
+- Cyberpunk 2077 — 87,460명
