@@ -1,4 +1,4 @@
-# 🎮 게임 산업 브리핑 — 2026-11-04 14:01 KST
+# 🎮 게임 산업 브리핑 — 2026-11-05 14:24 KST
 > 29건 수집 · 검증 통과
 
 ## 📊 소스별 건수
@@ -24,20 +24,20 @@ Naavik: 10건 · PocketGamer.biz: 10건 · SensorTower: 9건
 17. [The New Money Behind Indie Games](https://naavik.co/weekly-digest/the-new-money-behind-indie-games/) — Sep 13, 2026 · Naavik
 18. [The Future of Kids Gaming](https://naavik.co/weekly-digest/the-future-of-kids-gaming/) — Aug 30, 2026 · Naavik
 19. [The Great Mobile Convergence](https://naavik.co/weekly-digest/the-great-mobile-convergence/) — Aug 23, 2026 · Naavik
-20. [Apple struggles to meet demand for $1,999 foldable iPhone Duo](https://www.pocketgamer.biz/apple-struggles-to-meet-demand-for-1999-foldable-iphone-duo/) — November 3, 2026 · PocketGamer.biz
-21. [New mobile RPGs hit $1m twice as fast as puzzle, but puzzle’s playing the long game](https://www.pocketgamer.biz/new-mobile-rpgs-hit-1m-twice-as-fast-as-puzzle-but-puzzles-playing-the-long-game/) — November 3, 2026 · PocketGamer.biz
-22. [Former Xbox COO Helen Chiang disputes claims she was fired over a policy violation](https://www.pocketgamer.biz/former-xbox-coo-helen-chiang-disputes-claims-she-was-fired-over-a-policy-violation/) — November 3, 2026 · PocketGamer.biz
-23. [Exclusive: Snooker champion Stephen Hendry becomes ambassador for 8 Ball Strike](https://www.pocketgamer.biz/exclusive-snooker-champion-stephen-hendry-becomes-ambassador-for-8-ball-strike/) — November 2, 2026 · PocketGamer.biz
-24. [The Top 50 Mobile Game Makers of 2026, iPhone Duo games and Pokémon Unite ends service | Week in Mobile Games podcast](https://www.pocketgamer.biz/week-in-mobile-games-podcast-108/) — November 2, 2026 · PocketGamer.biz
-25. [Pokémon Trading Card Game Pocket celebrates second anniversary with $233m](https://www.pocketgamer.biz/pokmon-trading-card-game-pocket-celebrates-second-anniversary/) — November 2, 2026 · PocketGamer.biz
-26. [Anthropic restricts Claude from recreating existing games amid AI cloning concerns](https://www.pocketgamer.biz/anthropic-restricts-claude-from-recreating-existing-games-amid-ai-cloning-concerns/) — November 2, 2026 · PocketGamer.biz
-27. [DMCC and Wild Unlimited team up to bring Dubai landmarks to Fortnite](https://www.pocketgamer.biz/dmcc-and-wild-unlimited-team-up-to-bring-dubai-landmarks-to-fortnite/) — November 2, 2026 · PocketGamer.biz
-28. [Jordan Esports Federation signs partnership with King Hussein Business Park](https://www.pocketgamer.biz/jordan-esports-federation-signs-partnership-with-king-hussein-business-park/) — November 2, 2026 · PocketGamer.biz
-29. [Unravelling the corporate web of games companies, Xbox's $500m Netflix offer and Yalla's Western ambitions | Week in Views](https://www.pocketgamer.biz/unravelling-the-corporate-web-of-games-companies-xboxs-500m-netflix-offer-and-yallas-western-ambitions-week-in-views/) — October 30, 2026 · PocketGamer.biz
+20. [PlayStudios shuts down Tetris Block Party after 177 job cuts](https://www.pocketgamer.biz/playstudios-shuts-down-tetris-block-party-after-177-job-cuts/) — November 4, 2026 · PocketGamer.biz
+21. [ASGC marks four years with more than 5,400 games industry job placements](https://www.pocketgamer.biz/asgc-marks-four-years-with-more-than-5400-games-industry-job-placements/) — November 4, 2026 · PocketGamer.biz
+22. [Pikmin Bloom blossoms in fifth year with record $36m](https://www.pocketgamer.biz/pikmin-bloom-blossoms-in-fifth-year-with-record-36m/) — November 3, 2026 · PocketGamer.biz
+23. [HoYoverse's Petit Planet sets December 4th release date](https://www.pocketgamer.biz/hoyoverses-petit-planet-sets-december-4th-release-date/) — November 3, 2026 · PocketGamer.biz
+24. [Rise of Fearless raises $1m to expand its gaming platform](https://www.pocketgamer.biz/rise-of-fearless-raises-1m-to-expand-its-gaming-platform/) — November 3, 2026 · PocketGamer.biz
+25. [Apple struggles to meet demand for $1,999 foldable iPhone Duo](https://www.pocketgamer.biz/apple-struggles-to-meet-demand-for-1999-foldable-iphone-duo/) — November 3, 2026 · PocketGamer.biz
+26. [New mobile RPGs hit $1m twice as fast as puzzle, but puzzle’s playing the long game](https://www.pocketgamer.biz/new-mobile-rpgs-hit-1m-twice-as-fast-as-puzzle-but-puzzles-playing-the-long-game/) — November 3, 2026 · PocketGamer.biz
+27. [Former Xbox COO Helen Chiang disputes claims she was fired over a policy violation](https://www.pocketgamer.biz/former-xbox-coo-helen-chiang-disputes-claims-she-was-fired-over-a-policy-violation/) — November 3, 2026 · PocketGamer.biz
+28. [Exclusive: Snooker champion Stephen Hendry becomes ambassador for 8 Ball Strike](https://www.pocketgamer.biz/exclusive-snooker-champion-stephen-hendry-becomes-ambassador-for-8-ball-strike/) — November 2, 2026 · PocketGamer.biz
+29. [The Top 50 Mobile Game Makers of 2026, iPhone Duo games and Pokémon Unite ends service | Week in Mobile Games podcast](https://www.pocketgamer.biz/week-in-mobile-games-podcast-108/) — November 2, 2026 · PocketGamer.biz
 
 ## 📈 Steam 동시 접속자
-- Counter-Strike 2 — 453,681명
-- Dota 2 — 329,715명
-- PUBG: BATTLEGROUNDS — 25,690명
-- Baldur's Gate 3 — 28,063명
-- Cyberpunk 2077 — 87,460명
+- Counter-Strike 2 — 398,621명
+- Dota 2 — 293,890명
+- PUBG: BATTLEGROUNDS — 248,010명
+- Baldur's Gate 3 — 24,237명
+- Cyberpunk 2077 — 76,623명
