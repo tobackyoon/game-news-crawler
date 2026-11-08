@@ -1,4 +1,4 @@
-# 🎮 게임 산업 브리핑 — 2026-11-07 13:51 KST
+# 🎮 게임 산업 브리핑 — 2026-11-08 13:43 KST
 > 29건 수집 · 검증 통과
 
 ## 📊 소스별 건수
@@ -24,20 +24,20 @@ Naavik: 10건 · PocketGamer.biz: 10건 · SensorTower: 9건
 17. [The New Money Behind Indie Games](https://naavik.co/weekly-digest/the-new-money-behind-indie-games/) — Sep 13, 2026 · Naavik
 18. [The Future of Kids Gaming](https://naavik.co/weekly-digest/the-future-of-kids-gaming/) — Aug 30, 2026 · Naavik
 19. [The Great Mobile Convergence](https://naavik.co/weekly-digest/the-great-mobile-convergence/) — Aug 23, 2026 · Naavik
-20. [Kabam reveals mobile RPG bringing together nine Warner Bros. animated franchises](https://www.pocketgamer.biz/kabam-reveals-mobile-rpg-bringing-together-nine-warner-bros-animated-franchises/) — November 6, 2026 · PocketGamer.biz
-21. [DENMU closes debut games fund above $50m target](https://www.pocketgamer.biz/denmu-closes-debut-games-fund-above-50m-target/) — November 6, 2026 · PocketGamer.biz
-22. [e2vc launches $150m fund to back Turkish games and tech companies](https://www.pocketgamer.biz/e2vc-launches-150m-fund-to-back-turkish-games-and-tech-companies/) — November 5, 2026 · PocketGamer.biz
-23. [One in three acquired game studios have shut down, new study finds](https://www.pocketgamer.biz/one-in-three-acquired-game-studios-have-shut-down-new-study-finds/) — November 5, 2026 · PocketGamer.biz
-24. [June’s Journey makes TV crossover through ITV Big Brother collaboration](https://www.pocketgamer.biz/junes-journey-makes-tv-crossover-through-itv-big-brother-collaboration/) — November 5, 2026 · PocketGamer.biz
-25. [BAFTA names six games creatives in 2026 Breakthrough cohort](https://www.pocketgamer.biz/bafta-names-six-games-creatives-in-2026-breakthrough-cohort/) — November 5, 2026 · PocketGamer.biz
-26. [AMC partners with Yodo1 to bring Walking Dead and Vampire IP to Chinese game developers](https://www.pocketgamer.biz/amc-partners-with-yodo1-to-bring-walking-dead-and-vampire-ip-to-chinese-game-developers/) — November 5, 2026 · PocketGamer.biz
-27. [UK regulator bans mobile game ads from King, Scopely and others](https://www.pocketgamer.biz/uk-regulator-bans-mobile-game-ads-from-king-scopely-and-others/) — November 4, 2026 · PocketGamer.biz
-28. [US court restricts Papaya Gaming from moving assets outside the country](https://www.pocketgamer.biz/us-court-restricts-papaya-gaming-from-moving-assets-outside-the-country/) — November 4, 2026 · PocketGamer.biz
-29. [How RZR built the open internet’s top iOS gaming retargeting engine in under a year](https://www.pocketgamer.biz/how-rzr-built-the-open-internets-top-ios-gaming-retargeting-engine-in-under-a-year/) — November 4, 2026 · PocketGamer.biz
+20. [Shinobi Group launches games agency and Smurfs project with Peyo](https://www.pocketgamer.biz/shinobi-group-launches-games-agency-and-smurfs-project-with-peyo/) — November 6, 2026 · PocketGamer.biz
+21. [Supercell launches GTA VI-inspired Brawl Vice season for Brawl Stars](https://www.pocketgamer.biz/supercell-launches-gta-vi-inspired-brawl-vice-season-for-brawl-stars/) — November 6, 2026 · PocketGamer.biz
+22. [Kabam reveals mobile RPG bringing together nine Warner Bros. animated franchises](https://www.pocketgamer.biz/kabam-reveals-mobile-rpg-bringing-together-nine-warner-bros-animated-franchises/) — November 6, 2026 · PocketGamer.biz
+23. [DENMU closes debut games fund above $50m target](https://www.pocketgamer.biz/denmu-closes-debut-games-fund-above-50m-target/) — November 6, 2026 · PocketGamer.biz
+24. [e2vc launches $150m fund to back Turkish games and tech companies](https://www.pocketgamer.biz/e2vc-launches-150m-fund-to-back-turkish-games-and-tech-companies/) — November 5, 2026 · PocketGamer.biz
+25. [One in three acquired game studios have shut down, new study finds](https://www.pocketgamer.biz/one-in-three-acquired-game-studios-have-shut-down-new-study-finds/) — November 5, 2026 · PocketGamer.biz
+26. [June’s Journey makes TV crossover through ITV Big Brother collaboration](https://www.pocketgamer.biz/junes-journey-makes-tv-crossover-through-itv-big-brother-collaboration/) — November 5, 2026 · PocketGamer.biz
+27. [BAFTA names six games creatives in 2026 Breakthrough cohort](https://www.pocketgamer.biz/bafta-names-six-games-creatives-in-2026-breakthrough-cohort/) — November 5, 2026 · PocketGamer.biz
+28. [AMC partners with Yodo1 to bring Walking Dead and Vampire IP to Chinese game developers](https://www.pocketgamer.biz/amc-partners-with-yodo1-to-bring-walking-dead-and-vampire-ip-to-chinese-game-developers/) — November 5, 2026 · PocketGamer.biz
+29. [UK regulator bans mobile game ads from King, Scopely and others](https://www.pocketgamer.biz/uk-regulator-bans-mobile-game-ads-from-king-scopely-and-others/) — November 4, 2026 · PocketGamer.biz
 
 ## 📈 Steam 동시 접속자
-- Counter-Strike 2 — 534,215명
-- Dota 2 — 404,385명
-- PUBG: BATTLEGROUNDS — 256,457명
-- Baldur's Gate 3 — 34,491명
-- Cyberpunk 2077 — 96,211명
+- Counter-Strike 2 — 521,910명
+- Dota 2 — 431,417명
+- PUBG: BATTLEGROUNDS — 261,976명
+- Baldur's Gate 3 — 38,511명
+- Cyberpunk 2077 — 102,503명
