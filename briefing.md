@@ -1,4 +1,4 @@
-# 🎮 게임 산업 브리핑 — 2026-11-10 15:08 KST
+# 🎮 게임 산업 브리핑 — 2026-11-11 13:55 KST
 > 29건 수집 · 검증 통과
 
 ## 📊 소스별 건수
@@ -24,20 +24,20 @@ Naavik: 10건 · PocketGamer.biz: 10건 · SensorTower: 9건
 17. [The Real Value of Licensed IP](https://naavik.co/weekly-digest/the-real-value-of-licensed-ip/) — Sep 20, 2026 · Naavik
 18. [The New Money Behind Indie Games](https://naavik.co/weekly-digest/the-new-money-behind-indie-games/) — Sep 13, 2026 · Naavik
 19. [The Future of Kids Gaming](https://naavik.co/weekly-digest/the-future-of-kids-gaming/) — Aug 30, 2026 · Naavik
-20. [SAG-AFTRA unveils new agreement for video game funding pitches](https://www.pocketgamer.biz/sag-aftra-unveils-new-agreement-for-video-game-funding-pitches/) — November 9, 2026 · PocketGamer.biz
-21. [Nvidia launches investigation into alleged Chinese spying operation targeting CEO](https://www.pocketgamer.biz/nvidia-launches-investigation-into-alleged-chinese-spying-operation-targeting-ceo/) — November 9, 2026 · PocketGamer.biz
-22. [Pocket Gamer Awards 2027 nominations close this week](https://www.pocketgamer.biz/pocket-gamer-awards-2027-nominations-close-this-week/) — November 9, 2026 · PocketGamer.biz
-23. [The AI clone wars and fake mobile game ads | Week in Mobile Games podcast](https://www.pocketgamer.biz/the-ai-clone-wars-week-in-mobile-games-podcast/) — November 7, 2026 · PocketGamer.biz
-24. [Report: Silver Lake and PIF explore $25bn deal to acquire Unity](https://www.pocketgamer.biz/silver-lake-and-pif-explore-25bn-deal-to-acquire-unity/) — November 6, 2026 · PocketGamer.biz
-25. [Shinobi Group launches games agency and Smurfs project with Peyo](https://www.pocketgamer.biz/shinobi-group-launches-games-agency-and-smurfs-project-with-peyo/) — November 6, 2026 · PocketGamer.biz
-26. [Supercell launches GTA VI-inspired Brawl Vice season for Brawl Stars](https://www.pocketgamer.biz/supercell-launches-gta-vi-inspired-brawl-vice-season-for-brawl-stars/) — November 6, 2026 · PocketGamer.biz
-27. [Kabam reveals mobile RPG bringing together nine Warner Bros. animated franchises](https://www.pocketgamer.biz/kabam-reveals-mobile-rpg-bringing-together-nine-warner-bros-animated-franchises/) — November 6, 2026 · PocketGamer.biz
-28. [DENMU closes debut games fund above $50m target](https://www.pocketgamer.biz/denmu-closes-debut-games-fund-above-50m-target/) — November 6, 2026 · PocketGamer.biz
-29. [e2vc launches $150m fund to back Turkish games and tech companies](https://www.pocketgamer.biz/e2vc-launches-150m-fund-to-back-turkish-games-and-tech-companies/) — November 5, 2026 · PocketGamer.biz
+20. [Lego Digital Play acquires Golf Clash founders’ ForthStar studio](https://www.pocketgamer.biz/lego-digital-play-acquires-golf-clash-founders-forthstar-studio/) — November 10, 2026 · PocketGamer.biz
+21. [Aream & Co's Kartik Prabhakara: Mobile gaming has shifted East](https://www.pocketgamer.biz/aream-and-cos-kartik-prabhakara-mobile-gaming-has-shifted-east/) — November 10, 2026 · PocketGamer.biz
+22. [The green and red flags of games investment and publishing deals](https://www.pocketgamer.biz/the-green-and-red-flags-of-games-investment-and-publishing-deals/) — November 10, 2026 · PocketGamer.biz
+23. [DoubleU Games agrees to buy remaining stake in DoubleDown Interactive](https://www.pocketgamer.biz/doubleu-games-agrees-to-buy-remaining-stake-in-doubledown-interactive/) — November 10, 2026 · PocketGamer.biz
+24. [Skydance Games cuts jobs following Warner Bros. merger](https://www.pocketgamer.biz/skydance-games-cuts-jobs-following-warner-bros-merger/) — November 10, 2026 · PocketGamer.biz
+25. [Netflix adds full episodes to kids gaming app Playground](https://www.pocketgamer.biz/netflix-adds-full-episodes-to-kids-gaming-app-playground/) — November 10, 2026 · PocketGamer.biz
+26. [Playtika rules out sale and will continue as independent company](https://www.pocketgamer.biz/playtika-rules-out-sale-and-will-continue-as-independent-company/) — November 9, 2026 · PocketGamer.biz
+27. [PlayStation ends development of Ratchet & Clank: Ranger Rumble mobile game](https://www.pocketgamer.biz/playstation-ends-development-of-ratchet-and-clank-ranger-rumble-mobile-game/) — November 9, 2026 · PocketGamer.biz
+28. [Stillfront appoints Adam Schaub as group COO](https://www.pocketgamer.biz/stillfront-appoints-adam-schaub-as-group-coo/) — November 9, 2026 · PocketGamer.biz
+29. [SAG-AFTRA unveils new agreement for video game funding pitches](https://www.pocketgamer.biz/sag-aftra-unveils-new-agreement-for-video-game-funding-pitches/) — November 9, 2026 · PocketGamer.biz
 
 ## 📈 Steam 동시 접속자
-- Counter-Strike 2 — 429,749명
-- Dota 2 — 371,323명
-- PUBG: BATTLEGROUNDS — 234,303명
-- Baldur's Gate 3 — 22,415명
-- Cyberpunk 2077 — 64,733명
+- Counter-Strike 2 — 425,962명
+- Dota 2 — 334,997명
+- PUBG: BATTLEGROUNDS — 193,620명
+- Baldur's Gate 3 — 28,906명
+- Cyberpunk 2077 — 71,561명
