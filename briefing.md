@@ -1,4 +1,4 @@
-# 🎮 게임 산업 브리핑 — 2026-11-11 13:55 KST
+# 🎮 게임 산업 브리핑 — 2026-11-12 14:57 KST
 > 29건 수집 · 검증 통과
 
 ## 📊 소스별 건수
@@ -24,20 +24,20 @@ Naavik: 10건 · PocketGamer.biz: 10건 · SensorTower: 9건
 17. [The Real Value of Licensed IP](https://naavik.co/weekly-digest/the-real-value-of-licensed-ip/) — Sep 20, 2026 · Naavik
 18. [The New Money Behind Indie Games](https://naavik.co/weekly-digest/the-new-money-behind-indie-games/) — Sep 13, 2026 · Naavik
 19. [The Future of Kids Gaming](https://naavik.co/weekly-digest/the-future-of-kids-gaming/) — Aug 30, 2026 · Naavik
-20. [Lego Digital Play acquires Golf Clash founders’ ForthStar studio](https://www.pocketgamer.biz/lego-digital-play-acquires-golf-clash-founders-forthstar-studio/) — November 10, 2026 · PocketGamer.biz
-21. [Aream & Co's Kartik Prabhakara: Mobile gaming has shifted East](https://www.pocketgamer.biz/aream-and-cos-kartik-prabhakara-mobile-gaming-has-shifted-east/) — November 10, 2026 · PocketGamer.biz
-22. [The green and red flags of games investment and publishing deals](https://www.pocketgamer.biz/the-green-and-red-flags-of-games-investment-and-publishing-deals/) — November 10, 2026 · PocketGamer.biz
-23. [DoubleU Games agrees to buy remaining stake in DoubleDown Interactive](https://www.pocketgamer.biz/doubleu-games-agrees-to-buy-remaining-stake-in-doubledown-interactive/) — November 10, 2026 · PocketGamer.biz
-24. [Skydance Games cuts jobs following Warner Bros. merger](https://www.pocketgamer.biz/skydance-games-cuts-jobs-following-warner-bros-merger/) — November 10, 2026 · PocketGamer.biz
-25. [Netflix adds full episodes to kids gaming app Playground](https://www.pocketgamer.biz/netflix-adds-full-episodes-to-kids-gaming-app-playground/) — November 10, 2026 · PocketGamer.biz
-26. [Playtika rules out sale and will continue as independent company](https://www.pocketgamer.biz/playtika-rules-out-sale-and-will-continue-as-independent-company/) — November 9, 2026 · PocketGamer.biz
-27. [PlayStation ends development of Ratchet & Clank: Ranger Rumble mobile game](https://www.pocketgamer.biz/playstation-ends-development-of-ratchet-and-clank-ranger-rumble-mobile-game/) — November 9, 2026 · PocketGamer.biz
-28. [Stillfront appoints Adam Schaub as group COO](https://www.pocketgamer.biz/stillfront-appoints-adam-schaub-as-group-coo/) — November 9, 2026 · PocketGamer.biz
-29. [SAG-AFTRA unveils new agreement for video game funding pitches](https://www.pocketgamer.biz/sag-aftra-unveils-new-agreement-for-video-game-funding-pitches/) — November 9, 2026 · PocketGamer.biz
+20. [UKIE warns EU Digital Fairness Act could harm UK games industry and parental choice](https://www.pocketgamer.biz/ukie-warns-eu-digital-fairness-act-could-harm-uk-games-industry-and-parental-choice/) — November 11, 2026 · PocketGamer.biz
+21. [Sensor Tower data: China takes 40% share of top mobile game revenue as US falls to 16.5%](https://www.pocketgamer.biz/china-takes-40-of-global-mobile-games-revenue-as-us-share-falls-to-165/) — November 11, 2026 · PocketGamer.biz
+22. [Google releases open-source Sign in with Google plugin for Unity](https://www.pocketgamer.biz/google-releases-open-source-sign-in-with-google-plugin-for-unity/) — November 11, 2026 · PocketGamer.biz
+23. [Layer launches Motion Designer Agent: Game studios can now create campaign-ready UA videos just by chatting](https://www.pocketgamer.biz/layer-launches-motion-designer-agent-game-studios-can-now-create-campaign-ready-ua-videos-just-by-chatting/) — November 11, 2026 · PocketGamer.biz
+24. [Merak Capital leads $1.3m round in Lambda Studios](https://www.pocketgamer.biz/merak-capital-leads-13m-round-in-lambda-studios/) — November 11, 2026 · PocketGamer.biz
+25. [Saudi PIF explores new fundraising options to unlock cash from portfolio companies](https://www.pocketgamer.biz/saudi-pif-explores-new-fundraising-options-to-unlock-cash-from-portfolio-companies/) — November 11, 2026 · PocketGamer.biz
+26. [Fortis Games shuts down as up to 440 jobs are put at risk](https://www.pocketgamer.biz/fortis-games-shuts-down-as-up-to-440-jobs-are-put-at-risk/) — November 11, 2026 · PocketGamer.biz
+27. [Leaked EU proposal targets loot boxes and addictive game design](https://www.pocketgamer.biz/leaked-eu-proposal-targets-loot-boxes-and-addictive-game-design/) — November 10, 2026 · PocketGamer.biz
+28. [My.Games agrees to management buyout backed by UAE investor](https://www.pocketgamer.biz/mygames-agrees-to-management-buyout-backed-by-uae-investor/) — November 10, 2026 · PocketGamer.biz
+29. [UKIE CEO Nick Poole bullish on games industry's investment prospects](https://www.pocketgamer.biz/ukie-ceo-nick-poole-bullish-on-games-industrys-investment-prospects/) — November 10, 2026 · PocketGamer.biz
 
 ## 📈 Steam 동시 접속자
-- Counter-Strike 2 — 425,962명
-- Dota 2 — 334,997명
-- PUBG: BATTLEGROUNDS — 193,620명
-- Baldur's Gate 3 — 28,906명
-- Cyberpunk 2077 — 71,561명
+- Counter-Strike 2 — 418,252명
+- Dota 2 — 362,464명
+- PUBG: BATTLEGROUNDS — 220,276명
+- Baldur's Gate 3 — 22,947명
+- Cyberpunk 2077 — 60,748명
