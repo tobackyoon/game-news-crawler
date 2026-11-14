@@ -1,4 +1,4 @@
-# 🎮 게임 산업 브리핑 — 2026-11-13 14:20 KST
+# 🎮 게임 산업 브리핑 — 2026-11-14 14:10 KST
 > 29건 수집 · 검증 통과
 
 ## 📊 소스별 건수
@@ -24,20 +24,20 @@ Naavik: 10건 · PocketGamer.biz: 10건 · SensorTower: 9건
 17. [The Real Value of Licensed IP](https://naavik.co/weekly-digest/the-real-value-of-licensed-ip/) — Sep 20, 2026 · Naavik
 18. [The New Money Behind Indie Games](https://naavik.co/weekly-digest/the-new-money-behind-indie-games/) — Sep 13, 2026 · Naavik
 19. [The Future of Kids Gaming](https://naavik.co/weekly-digest/the-future-of-kids-gaming/) — Aug 30, 2026 · Naavik
-20. [Anorak raises $5m in pre-seed funding from Backed VC, Play Ventures, Supercell and MTG](https://www.pocketgamer.biz/anorak-raises-5m-in-pre-seed-funding-led-by-backed-vc-and-play-ventures/) — November 12, 2026 · PocketGamer.biz
-21. [Nvidia shares fall 8% as board reportedly considers ousting Jensen Huang](https://www.pocketgamer.biz/nvidia-shares-fall-8-as-board-reportedly-considers-ousting-jensen-huang/) — November 12, 2026 · PocketGamer.biz
-22. [Umamusume: Pretty Derby becomes first founding partner of 2027 F1 Japanese Grand Prix](https://www.pocketgamer.biz/umamusume-pretty-derby-becomes-first-founding-partner-of-2027-f1-japanese-grand-prix/) — November 12, 2026 · PocketGamer.biz
-23. [The DFA is "game over" for the European games industry](https://www.pocketgamer.biz/the-dfa-is-game-over-for-the-european-games-industry/) — November 11, 2026 · PocketGamer.biz
-24. [Digital Fairness Act raises questions over future of mobile game monetisation](https://www.pocketgamer.biz/digital-fairness-act-raises-questions-over-mobile-game-monetisation/) — November 11, 2026 · PocketGamer.biz
-25. [UKIE warns EU Digital Fairness Act could harm UK games industry and parental choice](https://www.pocketgamer.biz/ukie-warns-eu-digital-fairness-act-could-harm-uk-games-industry-and-parental-choice/) — November 11, 2026 · PocketGamer.biz
-26. [Sensor Tower data: China takes 40% share of top mobile game revenue as US falls to 16.5%](https://www.pocketgamer.biz/china-takes-40-of-global-mobile-games-revenue-as-us-share-falls-to-165/) — November 11, 2026 · PocketGamer.biz
-27. [Google releases open-source Sign in with Google plugin for Unity](https://www.pocketgamer.biz/google-releases-open-source-sign-in-with-google-plugin-for-unity/) — November 11, 2026 · PocketGamer.biz
-28. [Layer launches Motion Designer Agent: Game studios can now create campaign-ready UA videos just by chatting](https://www.pocketgamer.biz/layer-launches-motion-designer-agent-game-studios-can-now-create-campaign-ready-ua-videos-just-by-chatting/) — November 11, 2026 · PocketGamer.biz
-29. [Merak Capital leads $1.3m round in Lambda Studios](https://www.pocketgamer.biz/merak-capital-leads-13m-round-in-lambda-studios/) — November 11, 2026 · PocketGamer.biz
+20. [Finnish and German games associations warn EU Digital Fairness Act could hurt industry](https://www.pocketgamer.biz/finnish-and-german-games-associations-warn-eu-digital-fairness-act-could-hurt-industry/) — November 13, 2026 · PocketGamer.biz
+21. [Candy Crush crossover celebrates 25 years of Xbox with Halo, Spyro, Banjo-Kazooie and more](https://www.pocketgamer.biz/candy-crush-crossover-celebrates-25-years-of-xbox/) — November 12, 2026 · PocketGamer.biz
+22. [Nvidia CEO Jensen Huang resigns](https://www.pocketgamer.biz/nvidia-ceo-jensen-huang-resigns/) — November 12, 2026 · PocketGamer.biz
+23. [Supercell CEO believes Digital Fairness Act will hurt consumers](https://www.pocketgamer.biz/supercell-ceo-believes-digital-fairness-act-will-hurt-consumers/) — November 12, 2026 · PocketGamer.biz
+24. [Playnest shuts down after four years of mobile game development](https://www.pocketgamer.biz/playnest-shuts-down-after-four-years-of-mobile-game-development/) — November 12, 2026 · PocketGamer.biz
+25. [Anorak raises $5m in pre-seed funding from Backed VC, Play Ventures, Supercell and MTG](https://www.pocketgamer.biz/anorak-raises-5m-in-pre-seed-funding-led-by-backed-vc-and-play-ventures/) — November 12, 2026 · PocketGamer.biz
+26. [Nvidia shares fall 8% as board reportedly considers ousting Jensen Huang](https://www.pocketgamer.biz/nvidia-shares-fall-8-as-board-reportedly-considers-ousting-jensen-huang/) — November 12, 2026 · PocketGamer.biz
+27. [Umamusume: Pretty Derby becomes first founding partner of 2027 F1 Japanese Grand Prix](https://www.pocketgamer.biz/umamusume-pretty-derby-becomes-first-founding-partner-of-2027-f1-japanese-grand-prix/) — November 12, 2026 · PocketGamer.biz
+28. [The DFA is "game over" for the European games industry](https://www.pocketgamer.biz/the-dfa-is-game-over-for-the-european-games-industry/) — November 11, 2026 · PocketGamer.biz
+29. [Digital Fairness Act raises questions over future of mobile game monetisation](https://www.pocketgamer.biz/digital-fairness-act-raises-questions-over-mobile-game-monetisation/) — November 11, 2026 · PocketGamer.biz
 
 ## 📈 Steam 동시 접속자
-- Counter-Strike 2 — 444,871명
-- Dota 2 — 388,296명
-- PUBG: BATTLEGROUNDS — 202,027명
-- Baldur's Gate 3 — 24,642명
-- Cyberpunk 2077 — 63,926명
+- Counter-Strike 2 — 545,620명
+- Dota 2 — 459,564명
+- PUBG: BATTLEGROUNDS — 234,844명
+- Baldur's Gate 3 — 33,048명
+- Cyberpunk 2077 — 79,589명
