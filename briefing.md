@@ -1,4 +1,4 @@
-# 🎮 게임 산업 브리핑 — 2026-11-16 14:00 KST
+# 🎮 게임 산업 브리핑 — 2026-11-17 15:48 KST
 > 29건 수집 · 검증 통과
 
 ## 📊 소스별 건수
@@ -14,30 +14,30 @@ Naavik: 10건 · PocketGamer.biz: 10건 · SensorTower: 9건
 7. [2026년 일본 게임 시장: 글로벌 게임 강국을 이끄는 게임·전략·IP](https://sensortower.com/ko/blog/state-of-japan-gaming-2026-korea) —  · SensorTower
 8. [한국 숏폼 드라마 시장, 8월 인앱구매 수익 역대 최고치… 해외 플랫폼 강세 속 국내 《비글루》 존재감 확대](https://sensortower.com/ko/blog/korea-short-drama-market-hits-record-in-app-purchase-revenue) —  · SensorTower
 9. [한국 모바일 MMORPG 시장, 대형 신작 흥행에 매출 반등… 《솔: 인챈트》·《제우스: 오만의 신》 성장 견인](https://sensortower.com/ko/blog/korea-mobile-mmorpg-market-rebounds-on-strong-new-releases) —  · SensorTower
-10. [Hasbro’s New Playbook: More Magic, Fewer Big Bets](https://naavik.co/weekly-digest/hasbros-new-playbook-more-magic-fewer-big-bets/) — Nov 08, 2026 · Naavik
-11. [Bilibili: From Games to Mega-Platform](https://naavik.co/weekly-digest/bilibili-from-games-to-mega-platform/) — Nov 01, 2026 · Naavik
-12. [Skydance Has Everything It Needs Except Focus](https://naavik.co/weekly-digest/skydance-has-everything-it-needs-except-focus/) — Oct 25, 2026 · Naavik
-13. [Meta’s Role in Gaming Today: Muse, VR, and UA](https://naavik.co/weekly-digest/metas-role-in-gaming-today-muse-vr-and-ua/) — Oct 18, 2026 · Naavik
-14. [CD Projekt’s Best Days May Be Ahead](https://naavik.co/weekly-digest/cd-projekts-best-days-may-be-ahead/) — Oct 11, 2026 · Naavik
-15. [Unpacking China’s Out-of-Game Economy](https://naavik.co/weekly-digest/unpacking-chinas-out-of-game-economy/) — Oct 04, 2026 · Naavik
-16. [‘Tis the Season: Holiday Live-Ops in 2026](https://naavik.co/weekly-digest/tis-the-season-holiday-live-ops-in-2026/) — Sep 27, 2026 · Naavik
-17. [The Real Value of Licensed IP](https://naavik.co/weekly-digest/the-real-value-of-licensed-ip/) — Sep 20, 2026 · Naavik
-18. [The New Money Behind Indie Games](https://naavik.co/weekly-digest/the-new-money-behind-indie-games/) — Sep 13, 2026 · Naavik
-19. [The Future of Kids Gaming](https://naavik.co/weekly-digest/the-future-of-kids-gaming/) — Aug 30, 2026 · Naavik
-20. [Minecraft China reaches 100m annual active players](https://www.pocketgamer.biz/minecraft-china-reaches-100m-annual-active-players/) — November 13, 2026 · PocketGamer.biz
-21. [Finnish and German games associations warn EU Digital Fairness Act could hurt industry](https://www.pocketgamer.biz/finnish-and-german-games-associations-warn-eu-digital-fairness-act-could-hurt-industry/) — November 13, 2026 · PocketGamer.biz
-22. [Candy Crush crossover celebrates 25 years of Xbox with Halo, Spyro, Banjo-Kazooie and more](https://www.pocketgamer.biz/candy-crush-crossover-celebrates-25-years-of-xbox/) — November 12, 2026 · PocketGamer.biz
-23. [Nvidia CEO Jensen Huang resigns](https://www.pocketgamer.biz/nvidia-ceo-jensen-huang-resigns/) — November 12, 2026 · PocketGamer.biz
-24. [Supercell CEO believes Digital Fairness Act will hurt consumers](https://www.pocketgamer.biz/supercell-ceo-believes-digital-fairness-act-will-hurt-consumers/) — November 12, 2026 · PocketGamer.biz
-25. [Playnest shuts down after four years of mobile game development](https://www.pocketgamer.biz/playnest-shuts-down-after-four-years-of-mobile-game-development/) — November 12, 2026 · PocketGamer.biz
-26. [Anorak raises $5m in pre-seed funding from Backed VC, Play Ventures, Supercell and MTG](https://www.pocketgamer.biz/anorak-raises-5m-in-pre-seed-funding-led-by-backed-vc-and-play-ventures/) — November 12, 2026 · PocketGamer.biz
-27. [Nvidia shares fall 8% as board reportedly considers ousting Jensen Huang](https://www.pocketgamer.biz/nvidia-shares-fall-8-as-board-reportedly-considers-ousting-jensen-huang/) — November 12, 2026 · PocketGamer.biz
-28. [Umamusume: Pretty Derby becomes first founding partner of 2027 F1 Japanese Grand Prix](https://www.pocketgamer.biz/umamusume-pretty-derby-becomes-first-founding-partner-of-2027-f1-japanese-grand-prix/) — November 12, 2026 · PocketGamer.biz
-29. [The DFA is "game over" for the European games industry](https://www.pocketgamer.biz/the-dfa-is-game-over-for-the-european-games-industry/) — November 11, 2026 · PocketGamer.biz
+10. [Discord’s Path to IPO Needs Game Developers](https://naavik.co/weekly-digest/discords-path-to-ipo-needs-game-developers/) — Nov 15, 2026 · Naavik
+11. [Hasbro’s New Playbook: More Magic, Fewer Big Bets](https://naavik.co/weekly-digest/hasbros-new-playbook-more-magic-fewer-big-bets/) — Nov 08, 2026 · Naavik
+12. [Bilibili: From Games to Mega-Platform](https://naavik.co/weekly-digest/bilibili-from-games-to-mega-platform/) — Nov 01, 2026 · Naavik
+13. [Skydance Has Everything It Needs Except Focus](https://naavik.co/weekly-digest/skydance-has-everything-it-needs-except-focus/) — Oct 25, 2026 · Naavik
+14. [Meta’s Role in Gaming Today: Muse, VR, and UA](https://naavik.co/weekly-digest/metas-role-in-gaming-today-muse-vr-and-ua/) — Oct 18, 2026 · Naavik
+15. [CD Projekt’s Best Days May Be Ahead](https://naavik.co/weekly-digest/cd-projekts-best-days-may-be-ahead/) — Oct 11, 2026 · Naavik
+16. [Unpacking China’s Out-of-Game Economy](https://naavik.co/weekly-digest/unpacking-chinas-out-of-game-economy/) — Oct 04, 2026 · Naavik
+17. [‘Tis the Season: Holiday Live-Ops in 2026](https://naavik.co/weekly-digest/tis-the-season-holiday-live-ops-in-2026/) — Sep 27, 2026 · Naavik
+18. [The Real Value of Licensed IP](https://naavik.co/weekly-digest/the-real-value-of-licensed-ip/) — Sep 20, 2026 · Naavik
+19. [The New Money Behind Indie Games](https://naavik.co/weekly-digest/the-new-money-behind-indie-games/) — Sep 13, 2026 · Naavik
+20. [ASGC tracks 170 game studio closures since 2022, with 92% in North America and Europe](https://www.pocketgamer.biz/asgc-tracks-170-game-studio-closures-since-2022-with-92-in-north-america-and-europe/) — November 16, 2026 · PocketGamer.biz
+21. [GDC survey: 70% of mobile studio workers use generative AI](https://www.pocketgamer.biz/gdc-report-70-of-mobile-studio-workers-use-generative-ai/) — November 16, 2026 · PocketGamer.biz
+22. [Voting now open for the Pocket Gamer Awards 2027](https://www.pocketgamer.biz/voting-now-open-for-the-pocket-gamer-awards-2027/) — November 16, 2026 · PocketGamer.biz
+23. [Nexon plans deeper cuts after cancelling six projects](https://www.pocketgamer.biz/nexon-plans-deeper-cuts-after-cancelling-six-projects/) — November 13, 2026 · PocketGamer.biz
+24. [Shinji Mikami, Kim Hyung-tae and Greg Kasavin to speak at G-STAR's G-CON 2026](https://www.pocketgamer.biz/shinji-mikami-kim-hyung-tae-and-greg-kasavin-to-speak-at-g-stars-g-con-2026/) — November 13, 2026 · PocketGamer.biz
+25. [Minecraft China reaches 100m annual active players](https://www.pocketgamer.biz/minecraft-china-reaches-100m-annual-active-players/) — November 13, 2026 · PocketGamer.biz
+26. [Finnish and German games associations warn EU Digital Fairness Act could hurt industry](https://www.pocketgamer.biz/finnish-and-german-games-associations-warn-eu-digital-fairness-act-could-hurt-industry/) — November 13, 2026 · PocketGamer.biz
+27. [Candy Crush crossover celebrates 25 years of Xbox with Halo, Spyro, Banjo-Kazooie and more](https://www.pocketgamer.biz/candy-crush-crossover-celebrates-25-years-of-xbox/) — November 12, 2026 · PocketGamer.biz
+28. [Nvidia CEO Jensen Huang resigns](https://www.pocketgamer.biz/nvidia-ceo-jensen-huang-resigns/) — November 12, 2026 · PocketGamer.biz
+29. [Supercell CEO believes Digital Fairness Act will hurt consumers](https://www.pocketgamer.biz/supercell-ceo-believes-digital-fairness-act-will-hurt-consumers/) — November 12, 2026 · PocketGamer.biz
 
 ## 📈 Steam 동시 접속자
-- Counter-Strike 2 — 426,843명
-- Dota 2 — 423,606명
-- PUBG: BATTLEGROUNDS — 178,940명
-- Baldur's Gate 3 — 28,760명
-- Cyberpunk 2077 — 64,577명
+- Counter-Strike 2 — 452,205명
+- Dota 2 — 384,433명
+- PUBG: BATTLEGROUNDS — 239,687명
+- Baldur's Gate 3 — 20,120명
+- Cyberpunk 2077 — 49,858명
