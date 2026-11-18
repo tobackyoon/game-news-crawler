@@ -1,4 +1,4 @@
-# 🎮 게임 산업 브리핑 — 2026-11-17 15:48 KST
+# 🎮 게임 산업 브리핑 — 2026-11-18 15:07 KST
 > 29건 수집 · 검증 통과
 
 ## 📊 소스별 건수
@@ -24,20 +24,20 @@ Naavik: 10건 · PocketGamer.biz: 10건 · SensorTower: 9건
 17. [‘Tis the Season: Holiday Live-Ops in 2026](https://naavik.co/weekly-digest/tis-the-season-holiday-live-ops-in-2026/) — Sep 27, 2026 · Naavik
 18. [The Real Value of Licensed IP](https://naavik.co/weekly-digest/the-real-value-of-licensed-ip/) — Sep 20, 2026 · Naavik
 19. [The New Money Behind Indie Games](https://naavik.co/weekly-digest/the-new-money-behind-indie-games/) — Sep 13, 2026 · Naavik
-20. [ASGC tracks 170 game studio closures since 2022, with 92% in North America and Europe](https://www.pocketgamer.biz/asgc-tracks-170-game-studio-closures-since-2022-with-92-in-north-america-and-europe/) — November 16, 2026 · PocketGamer.biz
-21. [GDC survey: 70% of mobile studio workers use generative AI](https://www.pocketgamer.biz/gdc-report-70-of-mobile-studio-workers-use-generative-ai/) — November 16, 2026 · PocketGamer.biz
-22. [Voting now open for the Pocket Gamer Awards 2027](https://www.pocketgamer.biz/voting-now-open-for-the-pocket-gamer-awards-2027/) — November 16, 2026 · PocketGamer.biz
-23. [Nexon plans deeper cuts after cancelling six projects](https://www.pocketgamer.biz/nexon-plans-deeper-cuts-after-cancelling-six-projects/) — November 13, 2026 · PocketGamer.biz
-24. [Shinji Mikami, Kim Hyung-tae and Greg Kasavin to speak at G-STAR's G-CON 2026](https://www.pocketgamer.biz/shinji-mikami-kim-hyung-tae-and-greg-kasavin-to-speak-at-g-stars-g-con-2026/) — November 13, 2026 · PocketGamer.biz
-25. [Minecraft China reaches 100m annual active players](https://www.pocketgamer.biz/minecraft-china-reaches-100m-annual-active-players/) — November 13, 2026 · PocketGamer.biz
-26. [Finnish and German games associations warn EU Digital Fairness Act could hurt industry](https://www.pocketgamer.biz/finnish-and-german-games-associations-warn-eu-digital-fairness-act-could-hurt-industry/) — November 13, 2026 · PocketGamer.biz
-27. [Candy Crush crossover celebrates 25 years of Xbox with Halo, Spyro, Banjo-Kazooie and more](https://www.pocketgamer.biz/candy-crush-crossover-celebrates-25-years-of-xbox/) — November 12, 2026 · PocketGamer.biz
-28. [Nvidia CEO Jensen Huang resigns](https://www.pocketgamer.biz/nvidia-ceo-jensen-huang-resigns/) — November 12, 2026 · PocketGamer.biz
-29. [Supercell CEO believes Digital Fairness Act will hurt consumers](https://www.pocketgamer.biz/supercell-ceo-believes-digital-fairness-act-will-hurt-consumers/) — November 12, 2026 · PocketGamer.biz
+20. [Zynga expands Access All Areas virtual studio to India, Canada and US](https://www.pocketgamer.biz/zynga-expands-access-all-areas-virtual-studio-to-india-canada-and-us/) — November 17, 2026 · PocketGamer.biz
+21. [Roblox opens applications for second Incubator cohort focused on 18+ games](https://www.pocketgamer.biz/roblox-opens-applications-for-second-incubator-cohort-focused-on-18-games/) — November 17, 2026 · PocketGamer.biz
+22. [Nvidia scandal and the EU's Digital Fairness Act problem | Week in Mobile Games podcast](https://www.pocketgamer.biz/nvidia-scandal-and-the-eus-digital-fairness-act-problem-week-in-mobile-games-podcast/) — November 16, 2026 · PocketGamer.biz
+23. [Epic Games tells Supreme Court that Apple was rightly held in contempt](https://www.pocketgamer.biz/epic-games-tells-supreme-court-that-apple-was-rightly-held-in-contempt/) — November 16, 2026 · PocketGamer.biz
+24. [Unity Fellowship to award 10 indie teams a $50,000 cash grant](https://www.pocketgamer.biz/unity-launches-50000-fellowship-for-indie-game-studios/) — November 16, 2026 · PocketGamer.biz
+25. [ASGC tracks 170 game studio closures since 2022, with 92% in North America and Europe](https://www.pocketgamer.biz/asgc-tracks-170-game-studio-closures-since-2022-with-92-in-north-america-and-europe/) — November 16, 2026 · PocketGamer.biz
+26. [GDC survey: 70% of mobile studio workers use generative AI](https://www.pocketgamer.biz/gdc-report-70-of-mobile-studio-workers-use-generative-ai/) — November 16, 2026 · PocketGamer.biz
+27. [Voting now open for the Pocket Gamer Awards 2027](https://www.pocketgamer.biz/voting-now-open-for-the-pocket-gamer-awards-2027/) — November 16, 2026 · PocketGamer.biz
+28. [Nexon plans deeper cuts after cancelling six projects](https://www.pocketgamer.biz/nexon-plans-deeper-cuts-after-cancelling-six-projects/) — November 13, 2026 · PocketGamer.biz
+29. [Shinji Mikami, Kim Hyung-tae and Greg Kasavin to speak at G-STAR's G-CON 2026](https://www.pocketgamer.biz/shinji-mikami-kim-hyung-tae-and-greg-kasavin-to-speak-at-g-stars-g-con-2026/) — November 13, 2026 · PocketGamer.biz
 
 ## 📈 Steam 동시 접속자
-- Counter-Strike 2 — 452,205명
-- Dota 2 — 384,433명
-- PUBG: BATTLEGROUNDS — 239,687명
-- Baldur's Gate 3 — 20,120명
-- Cyberpunk 2077 — 49,858명
+- Counter-Strike 2 — 477,706명
+- Dota 2 — 379,631명
+- PUBG: BATTLEGROUNDS — 245,516명
+- Baldur's Gate 3 — 21,919명
+- Cyberpunk 2077 — 51,188명
