@@ -1,4 +1,4 @@
-# 🎮 게임 산업 브리핑 — 2026-11-19 15:08 KST
+# 🎮 게임 산업 브리핑 — 2026-11-20 14:55 KST
 > 29건 수집 · 검증 통과
 
 ## 📊 소스별 건수
@@ -24,20 +24,20 @@ Naavik: 10건 · PocketGamer.biz: 10건 · SensorTower: 9건
 17. [‘Tis the Season: Holiday Live-Ops in 2026](https://naavik.co/weekly-digest/tis-the-season-holiday-live-ops-in-2026/) — Sep 27, 2026 · Naavik
 18. [The Real Value of Licensed IP](https://naavik.co/weekly-digest/the-real-value-of-licensed-ip/) — Sep 20, 2026 · Naavik
 19. [The New Money Behind Indie Games](https://naavik.co/weekly-digest/the-new-money-behind-indie-games/) — Sep 13, 2026 · Naavik
-20. [Unity acquires Synty Studios to bring its asset library to Unity Spark](https://www.pocketgamer.biz/unity-acquires-synty-studios-to-bring-its-asset-library-to-unity-spark/) — November 18, 2026 · PocketGamer.biz
-21. [Netflix confirms games division layoffs](https://www.pocketgamer.biz/netflix-confirms-games-division-layoffs/) — November 18, 2026 · PocketGamer.biz
-22. [Pokémon GO teams up with Duolingo and Crocs for new rewards](https://www.pocketgamer.biz/pokmon-go-teams-up-with-duolingo-and-crocs-for-new-rewards/) — November 18, 2026 · PocketGamer.biz
-23. [Appcharge launches Checkout Experimentation Lab for D2C sales](https://www.pocketgamer.biz/appcharge-launches-checkout-experimentation-lab-for-d2c-sales/) — November 18, 2026 · PocketGamer.biz
-24. [Google Play’s Best of Play 2026 winners: Arknights: Endfield, Subway Surfers City, Sea of Stars and more](https://www.pocketgamer.biz/google-plays-best-of-play-2026-winners/) — November 17, 2026 · PocketGamer.biz
-25. [Pikmin Bloom soundtrack waltzes onto Nintendo Music as first mobile game featured](https://www.pocketgamer.biz/pikmin-bloom-soundtrack-waltzes-onto-nintendo-music-as-first-mobile-game-featured/) — November 17, 2026 · PocketGamer.biz
-26. [Report: South Korea's mobile game downloads fall 28% as revenue holds near $5bn](https://www.pocketgamer.biz/report-south-koreas-mobile-game-downloads-fall-28-as-revenue-holds-near-5bn/) — November 17, 2026 · PocketGamer.biz
-27. [Zynga expands Access All Areas virtual studio to India, Canada and US](https://www.pocketgamer.biz/zynga-expands-access-all-areas-virtual-studio-to-india-canada-and-us/) — November 17, 2026 · PocketGamer.biz
-28. [Roblox opens applications for second Incubator cohort focused on 18+ games](https://www.pocketgamer.biz/roblox-opens-applications-for-second-incubator-cohort-focused-on-18-games/) — November 17, 2026 · PocketGamer.biz
-29. [Nvidia scandal and the EU's Digital Fairness Act problem | Week in Mobile Games podcast](https://www.pocketgamer.biz/nvidia-scandal-and-the-eus-digital-fairness-act-problem-week-in-mobile-games-podcast/) — November 16, 2026 · PocketGamer.biz
+20. [AppsFlyer expands Agent Hub and MCP tools to automate marketing workflows](https://www.pocketgamer.biz/appsflyer-expands-agent-hub-and-mcp-tools-to-automate-marketing-workflows/) — November 19, 2026 · PocketGamer.biz
+21. [Dovetail Games wins four awards at TIGA Games Industry Awards 2026](https://www.pocketgamer.biz/dovetail-games-wins-four-awards-at-tiga-games-industry-awards-2026/) — November 19, 2026 · PocketGamer.biz
+22. [Monster Hunter Rise coming to mobile via Netflix Games on November 24th](https://www.pocketgamer.biz/monster-hunter-rise-coming-to-mobile-via-netflix-games-on-november-24th/) — November 19, 2026 · PocketGamer.biz
+23. [Apple reveals 45 finalists for 2026 App Store Awards](https://www.pocketgamer.biz/apple-reveals-45-finalists-for-2026-app-store-awards/) — November 19, 2026 · PocketGamer.biz
+24. [Big Games Industry Employment Survey: 30% of workers report layoffs in the past year](https://www.pocketgamer.biz/report-30-of-european-games-workers-laid-off-as-loyalty-hits-record-low/) — November 18, 2026 · PocketGamer.biz
+25. [China and Japan dominate The Game Awards Best Mobile Game nominees](https://www.pocketgamer.biz/china-and-japan-dominate-the-game-awards-best-mobile-game-nominees/) — November 18, 2026 · PocketGamer.biz
+26. [Unity acquires Synty Studios to bring its asset library to Unity Spark](https://www.pocketgamer.biz/unity-acquires-synty-studios-to-bring-its-asset-library-to-unity-spark/) — November 18, 2026 · PocketGamer.biz
+27. [Netflix confirms games division layoffs](https://www.pocketgamer.biz/netflix-confirms-games-division-layoffs/) — November 18, 2026 · PocketGamer.biz
+28. [Pokémon GO teams up with Duolingo and Crocs for new rewards](https://www.pocketgamer.biz/pokmon-go-teams-up-with-duolingo-and-crocs-for-new-rewards/) — November 18, 2026 · PocketGamer.biz
+29. [Appcharge launches Checkout Experimentation Lab for D2C sales](https://www.pocketgamer.biz/appcharge-launches-checkout-experimentation-lab-for-d2c-sales/) — November 18, 2026 · PocketGamer.biz
 
 ## 📈 Steam 동시 접속자
-- Counter-Strike 2 — 421,579명
-- Dota 2 — 390,551명
-- PUBG: BATTLEGROUNDS — 240,310명
-- Baldur's Gate 3 — 20,763명
-- Cyberpunk 2077 — 48,558명
+- Counter-Strike 2 — 454,933명
+- Dota 2 — 429,921명
+- PUBG: BATTLEGROUNDS — 230,561명
+- Baldur's Gate 3 — 21,786명
+- Cyberpunk 2077 — 52,620명
