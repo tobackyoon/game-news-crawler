@@ -1,4 +1,4 @@
-# 🎮 게임 산업 브리핑 — 2026-11-21 14:50 KST
+# 🎮 게임 산업 브리핑 — 2026-11-23 14:59 KST
 > 29건 수집 · 검증 통과
 
 ## 📊 소스별 건수
@@ -24,20 +24,20 @@ Naavik: 10건 · PocketGamer.biz: 10건 · SensorTower: 9건
 17. [‘Tis the Season: Holiday Live-Ops in 2026](https://naavik.co/weekly-digest/tis-the-season-holiday-live-ops-in-2026/) — Sep 27, 2026 · Naavik
 18. [The Real Value of Licensed IP](https://naavik.co/weekly-digest/the-real-value-of-licensed-ip/) — Sep 20, 2026 · Naavik
 19. [The New Money Behind Indie Games](https://naavik.co/weekly-digest/the-new-money-behind-indie-games/) — Sep 13, 2026 · Naavik
-20. [Ubisoft lays off 166 staff across Montreal and Quebec City studios](https://www.pocketgamer.biz/ubisoft-lays-off-166-staff-across-montreal-and-quebec-city-studios/) — November 20, 2026 · PocketGamer.biz
-21. [Roblox faces Senate hearing as alleged grooming survivors testify](https://www.pocketgamer.biz/roblox-faces-senate-hearing-as-alleged-grooming-survivors-testify/) — November 20, 2026 · PocketGamer.biz
-22. [PlayDucky founders buy out initial investor to become majority owners](https://www.pocketgamer.biz/playducky-founders-buy-out-initial-investor-to-become-majority-owners/) — November 19, 2026 · PocketGamer.biz
-23. [Have your say: Feedback on the EU's Digital Fairness Act proposal opens](https://www.pocketgamer.biz/have-your-say-feedback-on-the-eus-digital-fairness-act-proposal-is-open-until-january-14th/) — November 19, 2026 · PocketGamer.biz
-24. [AppsFlyer expands Agent Hub and MCP tools to automate marketing workflows](https://www.pocketgamer.biz/appsflyer-expands-agent-hub-and-mcp-tools-to-automate-marketing-workflows/) — November 19, 2026 · PocketGamer.biz
-25. [Dovetail Games wins four awards at TIGA Games Industry Awards 2026](https://www.pocketgamer.biz/dovetail-games-wins-four-awards-at-tiga-games-industry-awards-2026/) — November 19, 2026 · PocketGamer.biz
-26. [Monster Hunter Rise coming to mobile via Netflix Games on November 24th](https://www.pocketgamer.biz/monster-hunter-rise-coming-to-mobile-via-netflix-games-on-november-24th/) — November 19, 2026 · PocketGamer.biz
-27. [Apple reveals 45 finalists for 2026 App Store Awards](https://www.pocketgamer.biz/apple-reveals-45-finalists-for-2026-app-store-awards/) — November 19, 2026 · PocketGamer.biz
-28. [Big Games Industry Employment Survey: 30% of workers report layoffs in the past year](https://www.pocketgamer.biz/report-30-of-european-games-workers-laid-off-as-loyalty-hits-record-low/) — November 18, 2026 · PocketGamer.biz
-29. [China and Japan dominate The Game Awards Best Mobile Game nominees](https://www.pocketgamer.biz/china-and-japan-dominate-the-game-awards-best-mobile-game-nominees/) — November 18, 2026 · PocketGamer.biz
+20. [Tencent commits $150m to Battle of Golden Spatula esports and growth](https://www.pocketgamer.biz/tencent-commits-150m-to-battle-of-golden-spatula-esports-and-growth/) — November 20, 2026 · PocketGamer.biz
+21. [Ubisoft lays off 166 staff across Montreal and Quebec City studios](https://www.pocketgamer.biz/ubisoft-lays-off-166-staff-across-montreal-and-quebec-city-studios/) — November 20, 2026 · PocketGamer.biz
+22. [Roblox faces Senate hearing as alleged grooming survivors testify](https://www.pocketgamer.biz/roblox-faces-senate-hearing-as-alleged-grooming-survivors-testify/) — November 20, 2026 · PocketGamer.biz
+23. [PlayDucky founders buy out initial investor to become majority owners](https://www.pocketgamer.biz/playducky-founders-buy-out-initial-investor-to-become-majority-owners/) — November 19, 2026 · PocketGamer.biz
+24. [Have your say: Feedback on the EU's Digital Fairness Act proposal opens](https://www.pocketgamer.biz/have-your-say-feedback-on-the-eus-digital-fairness-act-proposal-is-open-until-january-14th/) — November 19, 2026 · PocketGamer.biz
+25. [AppsFlyer expands Agent Hub and MCP tools to automate marketing workflows](https://www.pocketgamer.biz/appsflyer-expands-agent-hub-and-mcp-tools-to-automate-marketing-workflows/) — November 19, 2026 · PocketGamer.biz
+26. [Dovetail Games wins four awards at TIGA Games Industry Awards 2026](https://www.pocketgamer.biz/dovetail-games-wins-four-awards-at-tiga-games-industry-awards-2026/) — November 19, 2026 · PocketGamer.biz
+27. [Monster Hunter Rise coming to mobile via Netflix Games on November 24th](https://www.pocketgamer.biz/monster-hunter-rise-coming-to-mobile-via-netflix-games-on-november-24th/) — November 19, 2026 · PocketGamer.biz
+28. [Apple reveals 45 finalists for 2026 App Store Awards](https://www.pocketgamer.biz/apple-reveals-45-finalists-for-2026-app-store-awards/) — November 19, 2026 · PocketGamer.biz
+29. [Big Games Industry Employment Survey: 30% of workers report layoffs in the past year](https://www.pocketgamer.biz/report-30-of-european-games-workers-laid-off-as-loyalty-hits-record-low/) — November 18, 2026 · PocketGamer.biz
 
 ## 📈 Steam 동시 접속자
-- Counter-Strike 2 — 554,572명
-- Dota 2 — 443,363명
-- PUBG: BATTLEGROUNDS — 309,940명
-- Baldur's Gate 3 — 29,608명
-- Cyberpunk 2077 — 67,876명
+- Counter-Strike 2 — 432,042명
+- Dota 2 — 425,199명
+- PUBG: BATTLEGROUNDS — 235,293명
+- Baldur's Gate 3 — 23,264명
+- Cyberpunk 2077 — 51,827명
