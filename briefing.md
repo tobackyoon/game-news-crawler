@@ -1,4 +1,4 @@
-# 🎮 게임 산업 브리핑 — 2026-11-24 17:39 KST
+# 🎮 게임 산업 브리핑 — 2026-11-25 16:14 KST
 > 29건 수집 · 검증 통과
 
 ## 📊 소스별 건수
@@ -24,20 +24,20 @@ Naavik: 10건 · PocketGamer.biz: 10건 · SensorTower: 9건
 17. [Unpacking China’s Out-of-Game Economy](https://naavik.co/weekly-digest/unpacking-chinas-out-of-game-economy/) — Oct 04, 2026 · Naavik
 18. [‘Tis the Season: Holiday Live-Ops in 2026](https://naavik.co/weekly-digest/tis-the-season-holiday-live-ops-in-2026/) — Sep 27, 2026 · Naavik
 19. [The Real Value of Licensed IP](https://naavik.co/weekly-digest/the-real-value-of-licensed-ip/) — Sep 20, 2026 · Naavik
-20. [GTA 6 goes gangbusters, Netflix Games layoffs and Pikmin Bloom's unlikely rise | Week in Mobile Games podcast](https://www.pocketgamer.biz/gta-6-goes-gangbusters-week-in-mobile-games-podcast/) — November 23, 2026 · PocketGamer.biz
-21. [Nvidia reinstates Jensen Huang as president and CEO](https://www.pocketgamer.biz/nvidia-reinstates-jensen-huang-as-president-and-ceo/) — November 23, 2026 · PocketGamer.biz
-22. [US mobile game spending falls to lowest of the year on GTA 6 launch day](https://www.pocketgamer.biz/us-mobile-game-spending-plummets-to-lowest-of-the-year-on-gta-6-launch-day/) — November 23, 2026 · PocketGamer.biz
-23. [Nintendo’s Shigeru Miyamoto to receive inaugural Legend Award at D.I.C.E. Awards](https://www.pocketgamer.biz/nintendos-shigeru-miyamoto-to-receive-inaugural-legend-award-at-dice-awards/) — November 23, 2026 · PocketGamer.biz
-24. [PUBG Mobile partners with Bentley to bring luxury vehicles to the game](https://www.pocketgamer.biz/pubg-mobile-partners-with-bentley-to-bring-luxury-vehicles-to-the-game/) — November 23, 2026 · PocketGamer.biz
-25. [GTA 6 generates $3.79bn in day one sales to become the biggest entertainment launch in history](https://www.pocketgamer.biz/gta-6-generates-379bn-in-day-one-sales-to-become-the-biggest-entertainment-launch-in-history/) — November 23, 2026 · PocketGamer.biz
-26. [Jam City lays off 10% of staff](https://www.pocketgamer.biz/jam-city-lays-off-10-of-staff/) — November 20, 2026 · PocketGamer.biz
-27. [Tencent takes 26.9% stake in Beijing Jiangxin Interactive Entertainment](https://www.pocketgamer.biz/tencent-takes-269-stake-in-beijing-jiangxin-interactive-entertainment-4193182/) — November 20, 2026 · PocketGamer.biz
-28. [Tencent commits $150m to Battle of Golden Spatula esports and growth](https://www.pocketgamer.biz/tencent-commits-150m-to-battle-of-golden-spatula-esports-and-growth/) — November 20, 2026 · PocketGamer.biz
-29. [Ubisoft lays off 166 staff across Montreal and Quebec City studios](https://www.pocketgamer.biz/ubisoft-lays-off-166-staff-across-montreal-and-quebec-city-studios/) — November 20, 2026 · PocketGamer.biz
+20. [Plug In Digital acquires Twin Sails Interactive](https://www.pocketgamer.biz/plug-in-digital-acquires-twin-sails-interactive/) — November 24, 2026 · PocketGamer.biz
+21. [Sensor Tower introduces web store revenue estimates](https://www.pocketgamer.biz/sensor-tower-introduces-web-store-revenue-estimates/) — November 24, 2026 · PocketGamer.biz
+22. [Angry Birds 2 promotes The Angry Birds Movie 3 with in-game character and ASPCA charity campaign](https://www.pocketgamer.biz/angry-birds-2-promotes-the-angry-birds-movie-3-with-in-game-character-and-aspca-charity-campaign/) — November 24, 2026 · PocketGamer.biz
+23. [Supercell offers Clash Royale players extra gold to encourage their return](https://www.pocketgamer.biz/supercell-offers-clash-royale-players-extra-gold-to-encourage-their-return/) — November 24, 2026 · PocketGamer.biz
+24. [ITV Studios’ Metavision to bring Thunderbirds IP to Roblox](https://www.pocketgamer.biz/itv-studios-metavision-to-bring-thunderbirds-ip-to-roblox/) — November 24, 2026 · PocketGamer.biz
+25. [Epic Games to drop Blueprints from Unreal Engine 6 as AI reshapes migration plans](https://www.pocketgamer.biz/epic-games-to-drop-blueprints-from-unreal-engine-6-as-ai-reshapes-migration-plans/) — November 24, 2026 · PocketGamer.biz
+26. [UK mobile action and strategy game spending falls 24.5% following GTA 6 launch](https://www.pocketgamer.biz/uk-mobile-action-and-strategy-game-spending-falls-245-following-gta-6-launch/) — November 24, 2026 · PocketGamer.biz
+27. [Scopely partners with Marvel for Monopoly Go and Avengers: Doomsday crossover](https://www.pocketgamer.biz/scopely-partners-with-marvel-for-monopoly-go-and-avengers-doomsday-crossover/) — November 23, 2026 · PocketGamer.biz
+28. [21 MENA startups graduate from the third Exel by Merak accelerator cohort](https://www.pocketgamer.biz/21-mena-startups-graduate-from-the-third-exel-by-merak-accelerator-cohort/) — November 23, 2026 · PocketGamer.biz
+29. [Exclusive: Monopoly Go surpasses $8 billion in lifetime player spending](https://www.pocketgamer.biz/monopoly-go-surpasses-8-billion-in-lifetime-player-spending/) — November 23, 2026 · PocketGamer.biz
 
 ## 📈 Steam 동시 접속자
-- Counter-Strike 2 — 518,676명
-- Dota 2 — 435,701명
-- PUBG: BATTLEGROUNDS — 313,752명
-- Baldur's Gate 3 — 17,928명
-- Cyberpunk 2077 — 42,817명
+- Counter-Strike 2 — 493,259명
+- Dota 2 — 414,975명
+- PUBG: BATTLEGROUNDS — 281,557명
+- Baldur's Gate 3 — 20,076명
+- Cyberpunk 2077 — 42,519명
