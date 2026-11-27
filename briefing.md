@@ -1,4 +1,4 @@
-# 🎮 게임 산업 브리핑 — 2026-11-26 16:01 KST
+# 🎮 게임 산업 브리핑 — 2026-11-27 15:57 KST
 > 29건 수집 · 검증 통과
 
 ## 📊 소스별 건수
@@ -24,20 +24,20 @@ Naavik: 10건 · PocketGamer.biz: 10건 · SensorTower: 9건
 17. [Unpacking China’s Out-of-Game Economy](https://naavik.co/weekly-digest/unpacking-chinas-out-of-game-economy/) — Oct 04, 2026 · Naavik
 18. [‘Tis the Season: Holiday Live-Ops in 2026](https://naavik.co/weekly-digest/tis-the-season-holiday-live-ops-in-2026/) — Sep 27, 2026 · Naavik
 19. [The Real Value of Licensed IP](https://naavik.co/weekly-digest/the-real-value-of-licensed-ip/) — Sep 20, 2026 · Naavik
-20. [Playgama developers earn over $1m in first nine months of 2026](https://www.pocketgamer.biz/playgama-developers-earn-over-1m-in-first-nine-months-of-2026/) — November 25, 2026 · PocketGamer.biz
-21. [UK Developers can now claim part of £260m Google settlement](https://www.pocketgamer.biz/uk-developers-can-now-claim-part-of-260m-google-settlement/) — November 24, 2026 · PocketGamer.biz
-22. [Saudi mobile studio NJD Games secures $1.1m investment](https://www.pocketgamer.biz/saudi-mobile-studio-njd-games-secures-11m-investment/) — November 24, 2026 · PocketGamer.biz
-23. [Plug In Digital acquires Twin Sails Interactive](https://www.pocketgamer.biz/plug-in-digital-acquires-twin-sails-interactive/) — November 24, 2026 · PocketGamer.biz
-24. [Sensor Tower introduces web store revenue estimates](https://www.pocketgamer.biz/sensor-tower-introduces-web-store-revenue-estimates/) — November 24, 2026 · PocketGamer.biz
-25. [Angry Birds 2 promotes The Angry Birds Movie 3 with in-game character and ASPCA charity campaign](https://www.pocketgamer.biz/angry-birds-2-promotes-the-angry-birds-movie-3-with-in-game-character-and-aspca-charity-campaign/) — November 24, 2026 · PocketGamer.biz
-26. [Supercell offers Clash Royale players extra gold to encourage their return](https://www.pocketgamer.biz/supercell-offers-clash-royale-players-extra-gold-to-encourage-their-return/) — November 24, 2026 · PocketGamer.biz
-27. [ITV Studios’ Metavision to bring Thunderbirds IP to Roblox](https://www.pocketgamer.biz/itv-studios-metavision-to-bring-thunderbirds-ip-to-roblox/) — November 24, 2026 · PocketGamer.biz
-28. [Epic Games to drop Blueprints from Unreal Engine 6 as AI reshapes migration plans](https://www.pocketgamer.biz/epic-games-to-drop-blueprints-from-unreal-engine-6-as-ai-reshapes-migration-plans/) — November 24, 2026 · PocketGamer.biz
-29. [UK mobile action and strategy game spending falls 24.5% following GTA 6 launch](https://www.pocketgamer.biz/uk-mobile-action-and-strategy-game-spending-falls-245-following-gta-6-launch/) — November 24, 2026 · PocketGamer.biz
+20. [Noir comic adventure Frames of Mind wins the Big Indie Pitch's Paris debut](https://www.pocketgamer.biz/noir-comic-adventure-frames-of-mind-wins-the-big-indie-pitchs-paris-debut/) — November 25, 2026 · PocketGamer.biz
+21. [Yes2Games surpasses 25 million plays across its YouTube Playables portfolio](https://www.pocketgamer.biz/yes2games-surpasses-25-million-plays-across-its-youtube-playables-portfolio/) — November 25, 2026 · PocketGamer.biz
+22. [Playgama developers earn over $1m in first nine months of 2026](https://www.pocketgamer.biz/playgama-developers-earn-over-1m-in-first-nine-months-of-2026/) — November 25, 2026 · PocketGamer.biz
+23. [UK Developers can now claim part of £260m Google settlement](https://www.pocketgamer.biz/uk-developers-can-now-claim-part-of-260m-google-settlement/) — November 24, 2026 · PocketGamer.biz
+24. [Saudi mobile studio NJD Games secures $1.1m investment](https://www.pocketgamer.biz/saudi-mobile-studio-njd-games-secures-11m-investment/) — November 24, 2026 · PocketGamer.biz
+25. [Plug In Digital acquires Twin Sails Interactive](https://www.pocketgamer.biz/plug-in-digital-acquires-twin-sails-interactive/) — November 24, 2026 · PocketGamer.biz
+26. [Sensor Tower introduces web store revenue estimates](https://www.pocketgamer.biz/sensor-tower-introduces-web-store-revenue-estimates/) — November 24, 2026 · PocketGamer.biz
+27. [Angry Birds 2 promotes The Angry Birds Movie 3 with in-game character and ASPCA charity campaign](https://www.pocketgamer.biz/angry-birds-2-promotes-the-angry-birds-movie-3-with-in-game-character-and-aspca-charity-campaign/) — November 24, 2026 · PocketGamer.biz
+28. [Supercell offers Clash Royale players extra gold to encourage their return](https://www.pocketgamer.biz/supercell-offers-clash-royale-players-extra-gold-to-encourage-their-return/) — November 24, 2026 · PocketGamer.biz
+29. [ITV Studios’ Metavision to bring Thunderbirds IP to Roblox](https://www.pocketgamer.biz/itv-studios-metavision-to-bring-thunderbirds-ip-to-roblox/) — November 24, 2026 · PocketGamer.biz
 
 ## 📈 Steam 동시 접속자
-- Counter-Strike 2 — 483,777명
-- Dota 2 — 410,180명
-- PUBG: BATTLEGROUNDS — 269,155명
-- Baldur's Gate 3 — 22,923명
-- Cyberpunk 2077 — 44,059명
+- Counter-Strike 2 — 484,921명
+- Dota 2 — 450,505명
+- PUBG: BATTLEGROUNDS — 279,014명
+- Baldur's Gate 3 — 23,541명
+- Cyberpunk 2077 — 46,567명
